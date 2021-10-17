@@ -1,17 +1,13 @@
 # WS-21-22
 FU Berlin ws 21/22
 
-|       | Mon | Tue | Wed | Thu | Fri |
-|-------|-----|-----|-----|-----|-----|
-| 08-09 |     |     |     |     |     |
-| 09-10 |     |     |     | LAB |     |
-| 10-11 |     |     |     |^^   | QML||
-| 11-12 |     |     |     |     |     |
-| 12-13 |     |     | QML |     |     |
-| 13-14 |     |     |     |     |     |
-| 14-15 | LAB |     | QMT |     |     |
-| 15-16 |     |     |     |     |     |
-| 16-17 |     |     | ML  |     | ML  |
-| 17-18 |     |     |     |     |     |
-| 18-19 |     |     |     |     |     |
-| 19-20 |     |     |     |     |     |
+- Lab
+  - Mon 14:00 - 16:00 (seminar)
+  - Thu 09:00 - 20:00 (lab)
+- Quantum mechanics
+  - Wed 12:00 - 14:00 (lecture)
+  - Wed 14:00 - 14:00 (tutorial)
+  - Fri 10:00 - 12:00 (lecture)
+- Machine learning for molecular physics
+  - Wed 16:00 - 18:00 (tutorial)
+  - Fri 16:00 - 18:00 (lecture)
