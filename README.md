@@ -1,5 +1,5 @@
 # WS-21-22
-FU Berlin ws 21/22
+FU Berlin Winter Semester 2021-2022
 
 - Lab
   - Mon 14:00 - 16:00 (seminar)
