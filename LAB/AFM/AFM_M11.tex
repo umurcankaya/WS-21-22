@@ -11,7 +11,7 @@
 \usepackage{nicefrac}       % compact symbols for 1/2, etc.
 \usepackage{microtype}      % microtypography
 
-\title{Title here}
+\title{Atomic Force Microscopy}
 
 \author{
 Umur Can Kaya\\
@@ -27,30 +27,63 @@ Rohit Sharma\\
 \maketitle
 
 \begin{abstract}
-Abstract here.
+The aim of this experiment is to become familiar with the working principles and operation of the atomic force microscope , which we use to determine the surface topography of two samples (Au on HOPG and Au on Si(111)), to calculate the relative work function between Au and HOPG, and to determine the tip geometry of the microscope.
 \end{abstract}
-
 \section{Introduction}
 
+Scanning probe microscopy is a branch of microscopy that allows for the imaging of surfaces at atomic resolutions by using a physical probe that scans the sample. The first ever successful realization of scanning microscopy was the scanning tunnelling microscope.
 
-\section{Experimental setup}
-\section{Tasks}
-\section{Discussion}
+The scanning tunneling microscope (STM), invented in 1981, was the first instrument to allow real space imaging of surfaces at atomic resolutions. It exploits the quantum mechanical phenomenon of tunneling between the tip and the sample to map the surface of conductive samples. STM's inherent limitation of being able to image only conductive samples led to the development of atomic force microscope.
+
+The advantages of AFM, invented in 1986, over STM includes being able to image surfaces of insulating materials and liquids, measurement of atomic forces between the sample and the tip, and sample manipulation. AFM includes a tip that is placed on the free end of a cantilever and the sample is scanned under this tip as shown in figure \ref{fig:schematic_afm}. At close enough distances the tip and the sample interact through atomic forces and direct or indirect measurement of these forces give information about the surface topography of the sample.
 
 \begin{figure}[h!]
 \centering
-\includegraphics[width=0.6\linewidth]{example.pdf}
-\caption{Sample figure caption.}
+\includegraphics[width=0.6\linewidth]{LAB/AFM/Schematic-AFM.png}
+\caption{Schematic illustration of the principles of AFM. The scanner controls the horizontal ($x$ and $y$) and vertical ($z$) movement of the sample. [2]}
+\label{fig:schematic_afm}
 \end{figure}
+
+\subsection{Imaging modes}
+AFM can be operated in two different modes: contact mode where the tip is essentially dragged over the surface of the sample with a repulsive surface-tip interaction, and non-contact mode where the tip is not in contact with the surface but oscillated above it.
+
+In contact AFM the tip is held at a distance of a few angstroms to the surface, this is in the regime where the net force between the tip and the sample is positive and therefore repulsive, causing a soft physical contact. Then the sample is scanned under the tip resulting with the deflection of the cantilever. The deflection data can be translated to topography image by using one of the two scanning modes explained in section \ref{sec:scanning_modes}.
+
+In non-contact AFM, the cantilever oscillates near its resonance frequency due to an oscillating driving force while being held at a distance from the surface. In this mode, information about the topography of the surface is not obtained directly from the deflection of the cantilever but from the changes in the frequency and amplitude of the oscillation. The cantilever is modeled as a linear elastic that obeys Hooke's Law and therefore its resonance frequency is directly proportional with the square root of the spring constant $\omega_0 = \sqrt{k/m}$. Resonance frequency is shifted in the presence of tip-sample forces which is a function of distance. This shift can be translated to topography data again by using one of the two scanning modes explained in section \ref{sec:scanning_modes}.
+
+
+\subsection{Scanning modes}
+\label{sec:scanning_modes}
+
+
+
+\subsection{Image formation}
+
+\subsection{Involved atomic forces}
+
+\subsection{Tip geometry}
+
+\section{Experimental setup}
+
+\section{Tasks}
+
+\subsection{Experimental preparation}
+
+\subsection{Surface topography of Au on HOPG}
+
+\subsection{Relative work function between Au and HOPG}
+
+\subsection{Tip geometry}
+
+\subsection{Surface topography of Au on Si}
+
+\section{Discussion}
 
 
 \section*{References}
 
-[1] Alexander, J.A.\ \& Mozer, M.C.\ (1995) Template-based algorithms for
-connectionist rule extraction. In G.\ Tesauro, D.S.\ Touretzky and T.K.\ Leen
-(eds.), {\it Advances in Neural Information Processing Systems 7},
-pp.\ 609--616. Cambridge, MA: MIT Press.
+[1] 
 
-[2]
+[2] Nanomechanics of Amyloid Materials Studied by Atomic Force Microscopy - Scientific Figure on ResearchGate. Available from: https://www.researchgate.net/figure/Schematic-illustration-of-the-principles-of-AFM-The-scanner-is-composed-of-three-piezo_fig1_221927184 [accessed 13 Dec, 2021]
 
 \end{document}
