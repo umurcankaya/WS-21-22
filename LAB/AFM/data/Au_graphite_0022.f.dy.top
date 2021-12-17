@@ -1,0 +1,412 @@
+WSxM file copyright WSxM solutions
+SxM Image file
+Image header size: 2995
+
+[Control]
+
+    Angle: 0
+    Set Point: -0.6 V
+    Signal Gain: 1
+    Topography Bias: 0 mV
+    X Amplitude: 1 µm
+    X Offset: -3444.7 nm
+    X-Frequency: 0.904 Hz
+    XY Gain: 10
+    Y Amplitude: 1 µm
+    Y Offset: -1111.19 nm
+    Z Gain: 15
+    Z Offset: 0 nm
+
+[Dynamic settings]
+
+    Amplitude: 0.25 V
+    Bandwidth: 300.185
+    Filter Out: 8079 Hz
+    Frq. Scan Sensitivity: 0.098 KHz/V
+    Gain in: 2
+    Gain out X: 2
+    Gain out Y: 2
+    Phase: 110.191 Deg
+    Quality factor (Q): 169.754
+    Resonance frequency: 50957.6 Hz
+
+[Feedback settings]
+
+    Input channel: Amplitude
+    Integral: 35
+    Proportional: 70
+    Tilt X: -0.0109 nm/nm
+    Tilt Y: 0 nm/nm
+
+[General Info]
+
+    Acquisition channel: Topography
+    Acquisition primary channel: Topography
+    Acquisition time: 16/12/2021, 14:21:04.377
+    Channel is inverted: No
+    Conversion Factor 00: 27.6 nm
+    Conversion Factor 01: 27600 pm
+    Conversion Factor 02: 1 V
+    Conversion Offset 00: 0 nm
+    Conversion Offset 01: 0 pm
+    Conversion Offset 02: 0 V
+    Force constant: 1.12722 N/m
+    Head type: AFM
+    Image Data Type: short
+    Number of columns: 256
+    Number of rows: 256
+    Round percent: 1
+    X Delay: 0
+    X scanning direction: Forward
+    X scanning mode: Forward and backward
+    Y Delay: 0
+    Y scan: Yes
+    Y scanning direction: Up
+    Y scanning mode: Up and down
+    Z Amplitude: 72.2681 nm
+
+[Head Settings]
+
+    Head Name: Large_AFM
+    X Calibration: 2408.05 ֵ/V
+    X Calibration formula ({nm/V}): 239.7 + 0.266(1/V)*XScan(V)
+    Y Calibration: 2408.05 ֵ/V
+    Y Calibration formula ({nm/V}): 239.7 + 0.266(1/V)*YScan(V)
+    Z Calibration: -276 ֵ/V
+
+[Miscellaneous]
+
+    Acquired with version: 5.0 Develop 8.1
+    Acquisition mode: Advanced
+    CH 12: 0.000000 V
+    CH 13: 0.000000 V
+    CH 14: 0.000000 V
+    Comments: 
+    DSP voltage range: 20 V
+    Dulcinea serial number: 93
+    Laser On: Yes
+    Maximum: -818
+    Minimum: -1390
+    Sampling frequency: 16666.7 Hz
+    Saved with version: 5.0 Develop 8.1
+    Version: 1.0 (April 2000)
+    Z Scale Factor: 1
+    Z Scale Offset: 0
+
+[Non linear correction]
+
+    Active: No
+
+[Piezo Settings]
+
+    Angle: 0
+    Auxiliar Z Scanner Analog Gain: 1
+    Auxiliar Z Scanner Calibration: 10
+    Auxiliar Z Scanner Cut Off: 100
+    Auxiliar Z Scanner Max Voltage: 10
+    Auxiliar Z Scanner Min Voltage: -10
+    Auxiliar Z Scanner Output Channel: CH 12
+    Custom Scan Max. Voltage: 150
+    Custom Scan Min. Voltage: -150
+    Custom Z Max. Voltage: 150
+    Custom Z Min. Voltage: -150
+    Deadening Factor: 0.2
+    Enable Resonance Correction: No
+    Fast/Slow scan ratio: 90
+    Name: Large_AFM
+    Resonance Frequency: 1000
+    Scan polarity: XYZ+/-
+    XY Offset Speed: 4720
+    Z Offset Speed: 1000
+    Z Scanner mode: Main scanner
+
+[Header end]
+sû…û‘û‘û™û¬û±û·û¶û¶û¸û¿ûִûֶûֻû־ûױûױû׃ûׂû׃ûׂûטû‎ûüü	ü‎ûנû׳û¼ûֱûִûִû¿û·û²û´û½ûֳûֲû¿û÷û¯û·ûֹû׃ûבûװûֶû°û₪û¢û₪û¦û¦û¨û§û¥û£û û™û”û’ûû‰ûˆû…û~û|ûzûxûrûpûnûlûeûhûhûeû]ûXûXûRûMûKûHûEû@û=û:û6û.ûûûûû$û(û*û(û$ûûû"û1ûCûBûKûXû\ûbûsûyûnûqû|û‚ûƒûƒûûƒû„ûƒûûû|û{û|û|û|ûzûzûzû|û~ûûû~û}û~ûû~û~ûûƒûû~ûzûtûrûqûsûvûxûzûzûyûwûuûsûpûpûpûoûpûrûqûqûnûpûxû„ûû‚ûuûnûkûiûgûfûfûdû^ûUûQûUûRûHû9û.û#ûûûû	ûûûû	ûûûûû)û8û=û:ûKûZûgûyûƒûûûû~ûsû_û]û[û[û[û]û_ûbû`ûaûeûqûyû{û}û}ûyû_û]û[ûZûZûYûWûUûUûUûWûYû\û]û_û^û\û[û\ûgûkûkûxû†û…ûû¡û¬û³û·ûµû´û¸û½ûַûֿûׂûׁû״ûװû׀ûׂûׁûוûרûü‏ûףûטûÝûֵû¾ûֵûַûֵûֱû÷û¶ûµû¸û¸ûֳûֱû÷û®û²û¼ûֶû־ûְûµû¯û₪û¥û¦û§û¨û¨û¦û¦û£ûû˜ûû‹û„ûûûûû†û€û€û{ûuûqûnûhûcûaûXûPûKûFûAûDûEû=û<û>û9û3û$ûûûûûûû#û*û1û6û6û6û6û5û>û>ûAû?ûQûWû]ûXûbûoûxûûƒûƒûƒû„û„ûƒû€û|û{ûzûzû|û}û{ûzûyûzû}û}ûû€û€ûû€û~û~û~ûû|ûzûyûuûrûrûsûtûwûyûxûwûvûtûqûoûnûmûmûoûpûrûrûrûsûxû{û}ûyûqûkûiûhûhûlûrûsûpûuûsûfûUûHû7û*û#ûûûûûûûûûûûûû(û3û6û4ûBûRû`ûxû‡ûû”û—ûûwûpûtûnûXûXû[û^û_ûbûhûqûzûzûtûkûrûmûbû`û]û\û]û[ûYûYûVûTûVûXû[û_ûbûaû_û`ûeûbûWûcûlû…ûû˜ûû¨û³û¹û¶û¶û¼ûֶû׀û׃û׀ûַû¾û¼û¼û¼ûֳûׂûגûכûיûßûװûֽû¿û¸û¿ûָûֹûֳû½û·û¶û»û¹û´û±û°û®û¨û×û¯û¶û·û¬û¡û£û₪û₪û¥û¦û¥û₪û₪û₪û£û§û¦û£ûû”ûûû‡û€û|ûvûoûjûeû^ûTûJû9û.û+û*û,û,û1û9û5û-û%ûûûûûûûûûûû#û$û"û"û!û"û&û*û(û,û;ûHûPûZû[û[ûfûqûzû‚û‚ûûû€û€û}û{ûyûyûzû|û{ûyûyûyûyûzû{û}ûû€û}û|û|û|û~û}û|ûzûyûwûtûtûuûvûwûyûyûxûwûtûpûoûnûlûmûnûmûnûoûoûsûuûwûxûuûoûkûjûhûiûvûûûxûgû`ûeûXûGû5û*û#ûûûûûûûûûûûûû$û0û1û1û@ûQûfû‚û‘û˜ûû¢û•û}ûyûwûlûiûXû[û^û`ûdûgûjûsûwûoû}ûû‰û|ûmûbû\ûZûZûXûYûYûWûWûXû^ûbûcûeûlûiûcûWûVû_ûfûpû€ûûˆû—û¥û­û´ûµû·ûְûÊû׀ûÊûֳû¼û÷û¼û¿ûֲûׂûÝûחûהûÚûֽûַû¹û·û½ûֳûַûֳû¾û¹û÷û½û¹û³û±û¯û°û­û¨û¢û û¢û¦û¦û¥û₪û£û¥û¨û§û§û¨û©û₪ûûû˜û‘ûˆûûzûuûpûjûcû\ûVûRûLûFû=û+û*û(û(û)û+û3û<û;û3û(ûûûûûûûûûûûûûû$û'û(û(û$û!û"û'û4û>ûIûQûXûXûaûmû{û€ûûû€û€ûû{û{ûyûyû|û|ûzû{û|û{ûzûzû}û‚û‚û}û|û|û|û|û|û{ûyûyûyûxûvûvûwûyûzûzûyûxûvûsûqûqûrûrûpûnûoûpûpûsûuûvûtûrûoûmûnûnûrû…ûûûˆûxûaûQûPûGû9û-û'û ûûûûûûûûתתûת‎תûûû4ûAûLû[ûbû~û”ûû¨û¬û₪û™û•û”û‹ûqû]ûVûZû`ûcûgûkûqûvûmûƒû–û–ûû‚ûsûaû]û\û]û]ûZûXûXû\ûcûeûfûmûjûgû`ûZûjûOûTûbû{û„ûûû˜û₪û°û³û³û¸ûֲûּûֻûֵû¿û¼û¼û¼û½ûֵûׂûÞûÝûׁûֽû־û÷û¸û¸û¹û»û¹û·û¶û´û³û²û²û°û®û¬û×û¨û¦û£û£û¥û¦û¥û¥û¦û§û«û¨û§û§û¨û¢û˜û“û—ûû‚ûyûqûiû`û\ûXûPûLûJûGûBû;û(û'û&û%û%û(û-û9ûBû=û/ûûûûûûûûûûûûûûû"û&û'û ûû!û%û4û;ûCûMûUûPûYûfûpûzûû€ûû~û~û{ûyûwûvûxûyûyûzû{ûyûxûxû{ûûû~ûzûzûzûzû{ûyûwûwûwûwûuûtûuûvûuûvûzû{ûxûuûtûtûwûƒûûûûvûnûoûqûrûrûqûnûmûoûpûxû‘û˜û”ûû‚ûlûXûMûLû?û1û)û#û ûûûûûûûüת‎תû	ûû)û7ûGûRûZûuû–û«û¶û½ûֲû»û¬û¢ûû˜û†ûiûgûYû\ûdûfûhûgûfûgû~û˜û¡ûû•û€ûiû^û^û^û_û]û[û[û]ûaûdûbû_û^ûcû`ûYûdû>ûHûYûmû}ûˆû„ûûû§û®û±û¸û¿ûִûֲû¿û»û»û¼û»û»û½ûָû׳û״ûÊûÊûִû´û¶û´û³û´û²û²û±û°û°û®û¯û­û×û§û¦û¦û₪û£û₪û¦û¥û¥û¢û û¡û₪û£û¡û ûû—û‹û‰ûˆû€ûvûpûkûeû^ûXûTûOûKûHûDû>û-û"û#û#û#û$û,û8ûFûIû;û(ûûû!û"û$û#ûûûûûûûûûûû"ûûûû$û-û3û8ûCûRû[ûYûZûdûnûyû~û~û~û}û{ûzûyûwûwûxûxûxûxûvûwûwûxû}û€û~û|û{ûzû{û{ûxûvûxûxûwûtûqûnûoûrûvûvûuûuûsûsûvû‚û‹ûûûû–û’û€ûpûqûqûoûlûkûkûlûyû‹û˜û—ûû€ûlûWûQûKû5û1û,û'û#ûûûûûûûû‏תûû%û.û:ûKû^ûkû‡û¥û÷ûֶû־ûׂûׂûֻû¾û«ûû’û{ûfûcûTû\ûcûfûlûsûmû~ûû₪ûû‘û€ûhû[û[û]û\ûZûYûZûXûWûXûZû[û\ûaû^ûUûYûOûQûTûdûvûûûû•û£û×û²ûµû¸û¸û¸û¹û¶ûµû´ûµû´û¶û½ûֹû־ûִû¼û´û°û²û±û¯û®û­û­û®û­û­û­û­û¬û©û¥û¥û₪û£ûûû¡û¢û¢û¡û ûû¡ûûû™û”û‹û…û…û}ûqûgûbûZûSûMûJûDûBû@û;û9û.ûûûûûû û'û0û@ûFû:û)ûûû"û'û+û4û4û2û/û,û*û)û)û)û)û&û&û)û)û'û%û(û,û*û6û?ûLûHûMûVûbûlûuû{û|û|ûxûxûxûxûxûyûxûwûwûyû{û{ûzûyûyûyûyûyûzûyûwûsûrûuûwûvûsûpûoûpûpûrûsûtûuûtûsûsûvû„ûû~ûuûwûuûtûsûqûqûqûmûlûmûmûtûƒû“û›û–ûûûfûGû;û0û2û2û,û'û ûû+û8û4û'ûûû&û%û&û.û:ûMû]ûoû‹û₪û÷û־ûׁûÙûÜûÙûֿû¾û¥û”û…ûnû\ûSû[û`ûaûaû`ûlû€ûû¢ûûû‚ûsû`ûZûZû\ûZûXûXûXûVûUûVûWûWûXûYûKûSûNûRûUûdûpûû‡ûƒûû–û£û®û²ûµûµûµûµû´û±û°û±û°û°û±û³û±û¯û°û³û´û±û®û«û×û×û«û«û×û«û«û×û×û¦û₪û₪û₪û¢ûûûû¡û¢û£û¡ûûûûû—û”ûû’ûˆû~ûrûgû`û\ûUûPûKûFûBû?û9û$ûûûûûûû û'û/û4û-û$ûûûû"û'û*û,û/û.û+û(û'û'û&û'û'û'û'û&û$û$û$û&û(û/û6û?ûHûCûGûQû[ûfûnûvûyûyûwûvûxûyûzû|û{û{ûyûxûyûzû{ûyûwûwûwûwûyûxûvûsûqûtûvûuûpûmûlûoûpûqûqûqûpûqûpûpûqûtû€ûû—û˜û’û‹û€ûwûtûpûnûmûnûpûpûyû‹û–û”û‹ûûkû\û]ûMû@û7û0û-û%û0ûKûQûNûFû:û)û#û#ûûû7ûFûTû^ûwû—û±ûֹû׃ûÝûהûאû׳ûֳû¨û‘û~ûcûWû\û`ûaûdûfûiûpû~û“û—û‘ûûûrû^ûYûYûZûYûXûVûSûRûQûQûRûQûMûDû>ûEûIû?ûBûNûbûqû{û~û€ûû›û©û¯û³û³û³ûµû³û±û¯û­û­û¯û³û·û·û·û¸û¹û¸û²û­û×û©û©û¨û§û§û©û©û×û©û¦û£û₪û£û¡ûû û¦û¨û«û×û¥û¢ûûû™û–ûû˜ûû‚ûxûmûcûZûTûPûIûCû9û$ûûûûûûûûûûû"û(û(û&û#û ûû!û#û%û)û)û0û/û,û)û'û'û&û&û'û&û'û&û%û%û$û#û#û'û-û4û:û5û<ûDûLûWûeûnûuûxûwûvûxûzû|û~û|û{ûzûyû{ûzûzûyûxûxûwûtûsûsûrûrûqûsûuûvûuûqûnûmûnûoûpûqûqûpûpûqûtû~ûûû£û¡û›û”û‰û~ûtûoûlûmûpûpûmûsû„û–û’ûû€ûnûcûbûVûJû?û6û.û+ûFûUûWûRûKûBû4û.û(ûûû.ûAûPûZûsûû£û½û׀ûÛûזûהûÜûּû´û›ûûdûYû]û`ûdûfûgûiûhûnûvû‚ûû}ûuûhû[ûXûXûYûYûXûVûUûUûVûYûfûfûaûZûOûAûJûAû:ûFûTûfûrûû„û…û’û¡û¯ûµû´û³û´û±û®û¬û¬û¬û®û±ûµû·û¶û¸û¾û¿û»û³û­û©û¨û§û¥û¥û¦û§û§û¨û¦û¥û¦û¦û₪û£û¥û§û¬û±û¬û¦û¢ûûûûûû˜ûûƒûxûlû_ûWûPûIûBû9û&ûûûûû û!û ûûûûûû#û#û"û#û#û"û!û!û#û&û)û.û.û+û(û'û'û&û&û&û%û&û&û%û#û#û#û#û#û%û-û5û;ûDûOûHûOû_ûjûsûyûyûyûyû{û}ûûûû~û}û{û{ûzû{û{û{ûxûuûtûsûqûpûqûsûuûsûrûpûoûnûnûmûmûoûoûoûoûoûqû{û‹ûû₪û₪û û˜ûû…ûvûpûmûmûoûoûnûoû{û‰û’û†ûyûiûjûhû]ûRûFû;û4û/ûEûYû[ûVûKû=û0û3û0û1û;ûFûSûYûeû}û”û«ûֱûֿûÚûחûוûÝûֿû¼û¥ûûuûjû\û_ûcûcûeûfûfûeûkûuûuûwûpûeû\ûZûYû[ûYûVûUûTûSûVûWûSûOûHû>û2û)ûLûJûBûAûNû]ûjûvûƒû‚û‹û™û¦û¯û¯û¯û®û®û­û­û®û°û±û±û²ûµûµû¸û¾û¿û»ûµû®û©û¦û¥û¥û§û¨û×û×û¨û¦û¨û¨û¦û₪û¢û£û¦û­û³û²û¶û¶ûµû³û¯û«û₪ûûû…ûwûhû[ûRûKûAû6û ûûûû!û*û3û=û?û>û<û;û8û7û8û8û8û8û7û8û6û3û.û-û-û-û+û)û(û'û'û&û&û&û&û&û&û%û$û$û#û"ûûûû"û3û:ûDûKûHûRûZûfûoûtûyûzû|û~û€ûû€û‚ûû{ûvûuû{û}û{ûwûsûqûqûpûoûpûrûsûrûoûmûlûlûlûlûmûqûsûtûsûtûvû{ûûû§û«û¦û¢û¢ûû˜û“ûû‹ûˆûƒûƒû~ûtû~û€ûuûpûwûoûiû^ûPûAû<û4û1ûFûXû[ûVûNûCû5û,û2û/û0û/û9ûTû\ûlû†ûû°û½û׀ûÛûÚûׂûֶû²ûû}ûrû_û]û_ûbûcûeûgûiûdûcûhûgûbû_ûZû[û[ûZûYûUûRûPûOûRûWû\ûZûXû^ûZûRûJûKûKûEû@ûPûVû]û^ûsûƒûûû˜û₪û©û×û«û®û¬û«û¬û­û®û¯û®û¯û°û·ûְûִûֱû¼û´û«û§û₪û¦û×û¬û¬û¬û×û¨û¨û×û©û§û₪û¦û¨û¬û¯û­û«û«û±û¯û©û§ûû–û‹û}ûoû_ûSûIûAû:û%ûûûûû$û*û2û:û@û@û>û<û;û:û<û=û<û<û<û;û;û8û3û-û+û*û*û*û(û'û&û%û%û$û$û%û"û"û#û!ûû!û"û"û!ûû$û6û=ûCûOûVûSû]ûgûnûvûyûzû}ûûû†û†û€û{ûvûsûvû{û{ûyûuûrûqûqûpûqûrûqûnûnûoûpûnûnûoûpûpûpûpûpûsûuûuû{ûûû©û©û₪ûû›ûû–û‘ûûûû‹û…ûqûkûhûcû\ûVûSûQûNûFû<û8ûAû7ûBûMûUûPûKûEû8û4û3û/û1û:ûKûTûbûvûûû¨û³ûֳûַûֳû½û±û¥û‘ûvûlû[û\û]û_ûaûaûcûhûhûbû[û\û[ûZûYûXûYûYûVûTûPûNûPûTûWûZûVûOûFû=û5û*û4û0û3û5û7ûAûJû\ûrû~û}û}ûû•û£û«û¬û¬û­û¬û«û«û×û¬û¬û®û³û»ûֳûÊûָûֱû¸û¬û§û¥û¨û­û°û±û±û¬û×û×û©û«û©û§û₪û¥û¦û©û±û·û·ûµû²û®û¦ûû“û†ûvûeûUûGû2û$û#û"û ûûû!û&û-û3û3û-û&û ûûûû%û'û%û$û$û$û%û#û,û0û,û)û*û)û)û(û'û&û#ûûûû	ûûûûûû#û"û"û!û'û/û6û?ûJûJûIûUû^ûgûqûwûwûzû|û~û€û…û„û}ûyûtûtûyû{ûyûvûqûpûqûrûqûtûuûtûtûuûsûqûpûoûoûnûmûnûqûtûvûvû}ûˆû•ûû ûû˜û—ûû—û“ûû‰ûˆû}ûmûmûqûpûkûeû^û[ûYû\ûXûNûDûDû<û>ûJûJûFû?û8û1û3û4û6û8ûOûbûdûeûvû~û‘ûû§û±û¿û¼û³û§ûûûuûtû^ûYûZû[û\û\û^û^û^û]ûZûWûVûUûTûUûWûUûQûRûPûOûQûTûVûZû]ûXûPûIûAû8ûJûLûLûJûCû7û?ûJûaûtû€û}ûƒû‘û û§û«û­û®û®û­û«û¬û¬û¬û¯ûµû»ûֳûׁûױûֻû½û®û¥û₪û§û¬û²û´û·û½û½û¸û÷û½û½û¼û»û¹û¸û¸û¸û¶ûµû´û¯û©ûû•ûûƒûuûhû[ûNû;û%û$û$û"ûûûûû%û+û.û.û+û(û&û$û%û,û/û-û+û(û-û0û)û#û,û.û*û*û*û)û)û(û'û&û$ûûûûû
+ûûûûû û!û û$û)û.û4û-û6û@ûLûVûcûnûvûxûzû}ûû‚û†û„ûûxûsûtûwûwûuûsûqûpûpûpûpûqûsûrûqûrûtûqûoûnûmûlûkûkûmûqûqûsû~û‰ûû“û’ûû˜û•ûû}û~ûûûyûwûqûnûpûpûnûiûbû^û^û_û^ûVûHû3û1û9ûIûEû=û7û3û8û8û8û<û5ûJû`ûiûeû_ûkû~û‰û–û¡û¬û¯û×ûû‘ûûvûmûWûWûWûXûVûUûWûXûWûXûUûUûTûSûSûSûUûTûRûRûQûRûTûUûVûVûSûNûHûBû=û@ûKûKûKûKûKûLûOûYûcûkûwûuû~ûˆû–û¡û×û±û³û³û°û­û«û°û÷û¿û÷û»û¿ûֶû׀ûװûֶû¹û¯û¥û₪û§û«û±û²û­û¬û¯û¶û÷û½û»û¹û¸û¸ûµû±û±û²û°û­û§û û™ûû„ûxûjû\ûLû2û%û(û%û ûûû"û(û)û*û-û/û/û-û*û,û3û>ûCû=û7û3û8û9û7û1û'û)û,û)û)û'û(û(û'û&û%û"ûûûûûûûû û û û û!û$û)û1û<ûJûVû]û[û[ûhûoûsûwûzû}û~û|ûwûsûoûnûoûqûsûqûoûoûnûmûnûnûoûpûsûrûsûuûrûpûnûlûjûiûiûkûlûkûkûsûwû|ûû„ûû‘û‘û‰û}ûûûû…û~ûvûrûoûqûrûnûiûhûlûnûfû^ûSûTûKû6û5û3û2û:û:û;û?û>û@ûDûSûiûrûrûpûnûuû‚ûûû§û©û¢û—û‰ûvûqû_ûVûVûTûUûSûQûRûRûTûSûRûRûQûOûOûOûPûQûPûRûSûTûUûUûVûSûMûHûBû;û2û$û;û0û4û2û1û2û9ûMû`ûhûuûû~û„ûûû×û°û¼ûֱûֳûֳû»û±û·û¾û»û÷û¼û¿ûֶûּûַû·û¬û§û¦û©û¯û±û®û­û¯û°û¬û©û©û¯û¸û¸û¸û¶û¶û³û±û¯û«û¦ûû“û‰û|ûoûbûRû6û#û"û#û%û ûûû#û&û(û*û.û2û3û/û.û0û5û;ûDû=û5û:ûJûJûDû:û.û+û*û(û'û&û'û'û&û&û&û%û$û#û!û!û ûû!û!û û ûûû û$û.û7ûAûMûTûNûVûbûnûuûxû{û}û}ûzûuûrûqûrûqûtûuûsûqûoûoûpûpûqûpûnûqûqûtûxû{û}û‡û‡û…ûƒûû€û€û€û€û‚û…ûûûûû‘û‘ûû€û…ûûûû‰ûû{ûtûtûxûvûqûmûoûlûgûgûiûcû[ûQûHûCû>û:û9û8û3û,û9ûLûXûkûzûûzûtûoûxû„ûû˜û›û—ûûyûjûjûWûTûUûVûVûTûRûRûRûSûUûTûTûTûRûRûRûOûOûTûXûYûYûXûUûRûPûNûJûCû<û4û*ûKûKûKûIûIûKûMûRûWû_ûlûvû€û‡û€ûû¢û­û®û°û¸ûְûִû¾û¶û¾û¾û»û÷û¾ûֵûֳû¹û­û§û¨û©û­û­û«û×û«û­û­û«û«û«û×û×û§û£û¢û ûû›û˜û“ûû‚û{ûxûsûeûUûCû&ûûûû!û!û û û#û"û#û$û)û/û4û2û/û/û1û6û:û5û1û3ûAûIûCû8û*û$û*û(û(û&û'û'û&û'û'û'û&û#ûûûûûûûûûûûû%û.û8ûAû;û;ûFûRû[ûiûtûzû|û~ûû|ûxûtûqûrûtûwûxûxûvûsûrûsûrûrûsûrûoûoûrûwû€ûûxûtûnûjûiûiûjûgûgûkûoûrûuûwûxû{û}ûˆûû¢û¡ûû”ûû‚ûzûuûvûxûyûuûpûnûoûoûxûuûnûfû[ûRûIûBû>û@ûGûFûOûjûzûnû}û“û˜ûûûƒû‚û~û…û‡ûû”û‰û{ûkûdûUûQûPûPûNûIûHûIûHûGûIûLûNûRûQûNûLûKûMûPûUûXûXûTûTûSûQûNûIûBû8û.û#ûIûIûIûHûHûIûIûLûRûXûdûoûzûƒûûû¡û¨û×û­û®û­û°û¹ûּû־ûֶû¼û°û°û°û°û­û©û©û¨û§û×û«û©û×û«û¬û®û¬û«û¯û¸û÷û¸û²ûµû´û±û¬û§û û™ûû‚ûtûfûXûLûDû=û2ûûûû û#û%û%û$û$û$û'û.û3û2û1û1û.û,û*û(û*û1û9û>û:û0û$û)û'û&û&û&û&û&û%û&û'û&û'û'û%û#û!ûûûûûûûûû û+û6û>û4û:ûEûOûYûgûoûtûuûxû|û}û{ûvûsûuûzû|û{û{ûzûvûtûsûsûsûsûtûpûqûrûyû„û‚û|ûsûmûjûhûhûhûgûgûjûlûnûqûsûxû|û{û}ûû§û©û¥ûû˜ûûƒûyûwûyûzûyûuûsûpûlûmûsûoûgû^ûWûPûJûKûNûOûJû^ûmû‚ûûûû¦û£ûû‹û…û„ûû…û€ûyûxûmû\û^ûPûLûHûEûEûCû@û@ûBûBû?ûDûMûQûQûOûMûLûMûOûQûSûRûPûQûQûRûQûKû@û5û+û û*û(û*û-û.û.û/û5û<ûAûQûfûvû}û}ûû›û¥û¨û×û­û°û¸ûׁûאûßûÙûֽûµû¬û®û¬û×û¨û©û§û¥û§û¨û©û¨û«û¬û­û®û³û³û­û×û¨û¥û ûû›û˜û’û‰û‚û|û~ûxûnû^ûPûEû0ûû û!û"û#û$û$û#û"û#û&û+û0û3û3û2û1û-û'û#û#û&û)û0û2û4û,û(û&ûû	ûûûûûûûûûûûû	ûûû
+ûûûûûûû"û(û4ûBûNûXû]ûTû[ûhûnûrûuûyû}û~ûzûwûtûvûûƒû€û~ûû|ûvûtûtûsûsûtûqûnûpûwû~ûûxûqûlûjûhûfûeûfûhûjûkûlûnûqûtûxûxû}û’û×û­û¨û¢û˜ûû…û{ûxûzû{ûzûxûxû|ûxû}û|ûtûnûgû^ûXûUûUûXû]ûXûdû{û’û‘ûû¢û©û₪ûû”û€ûqûrûpûtûsûbûYû[ûZûRûNûMûLûIûFûIûIûGûDû?û>ûCûKûQûRûPûOûOûPûRûSûSûQûQûPûPûHû@û6û+û)û+ûIûIûIûIûIûIûIûKûOûUû\ûhûwû…û‹û…û‘û¡û¨û«û±ûµû¸ûֻûהûטûאûײûִû°û®û®û«û¨û§û£û¢û₪û₪û₪û©û°û°û®û®û²û³û­û©û§û¦û¢ûûû™û’û‰ûûxûnûoûjûZûOûFû8û#û&û)û(û#û û û û!û#û'û*û/û1û.û-û,û$ûûûûû ûûû"û#û,û)û%ûû
+ûû	ûûûûûûûûûû
+û	ûûûûûûûû!û)û5ûBûMûZûbû_û]ûgûnûsûwûzû{ûzûwûuûuûxû~û‚û„û€û€ûûzûvûvûwûtûqûmûkûlûsûvûsûnûjûgûdû^û[û]ûbûcûdûeûgûmûnûpûrûtûtûû™û©û­û¦ûû“û†û}ûwûuûvûsûtûwû{û}ûûûyûsûlûhûcû_û]û]ûaûXûcû{ûû–ûûû®û¬û¨û ûûzûkûfûbûcû`ûZûVûQûMûJûHûFûDûBûAûAû@û=û1û2û<ûGûRû_ûaûdûjûoûfûaûpûrû]ûHûFû@û9û8û7û/û(ûHûIûIûHûHûHûGûKûPûVûaûnû{ûˆû”ûû’û¡û¨û«û­û±ûµûְûײûטûטûÞûׁû½û¬û¬û©û¥û¢û¢û¡û¢û¢û¥û×û­û®û®û«û×û×û¨û¦û£û¡ûû›û˜û•ûûû‰û‡ûzûpûdûUûDû&û û%û+û*û&û"ûûûûû û$û'û)û+û)û'û(û1û2û/û.û-û.û/û-û,û*û ûûûû	û
+ûûûûûûûû#û%û#û û"û"û!ûûûûûû!û)û7ûDûQû[ûYûVû`ûiûnûtûwûxûxûxûvûtûvûyû~û}û|û~û€ûû{ûyûwûuûqûnûkûjûlûqûrûqûkûfûcûbû]ûWûXû^û`ûaûbûeûkûoûrûsûtûsû{ûûû¥û¢ûûûûvûsûnûkûkûoûsûwûtûqûvûuûuûpûlûiûfûbûeûlûdûfûvûûû”û¥û±û°û«û¡û’û|ûcûcû_û\ûYûVûQûMûIûGûDû@û?û=û<û;û:û7û,û(û2û@ûUû`ûfûhûcû]ûoûwûoûbûcû]ûQû?ûCûEû<û2û)ûEûGûGûGûGûHûHûKûPûUû`ûoû|û‰û‘ûû–û£û«û®û¯û°û²û¾û׃ûזûבû״ûֻûµû¬û«û¨û¦û£û£û£û£û£û¢û¥û©û¬û­û«û¨û§û¨û§û£û ûûû›û—û’ûû„û„û|ûoû]û=û'û!û!û'û,û)û'û%û$û#û!û"û%û*û.û8û8û5û2û/û.û,û+û,û+û,û*û(ûûû
+û
+û	ûûûûûûûûûûûûûûûûûûûûûûû"û,û:ûIûVû\ûSûZûcûkûqûwû{ûyûwûuûsûtûuûxû{û|û}ûû‚ûû~ûzûxûtûpûnûnûnûmûmûhûdû`û[ûWûVûRûNûPûSûYû^û`ûcûiûmûqûuûuûoûwû†û—ûû–ûû…ûxûqûnûlûlûmûmûrûvûtûrûtûzûwûvûsûqûoûmûpûxûû~ûû›û¥û«û°û´û²û¨û›ûûvû\ûPû@û@û>û:û7û4û.û*û'û!ûûû"û ûûû#û)û1û@ûTû_ûdû^ûYûjûzû€û|ûsûiûXûDû=û;ûAû<û1û&ûBûFûGûGûHûHûHûLûRû[ûhûvûƒûû™û“û–û£û§û«û®û°û¯û±û½ûֽûׂûֹû¼û®û§û¥û₪û¢û û¡û¢û¢û¢û û¢û§û©û×û¨û¨û¨û§û₪û¡ûûû›û™û•ûûƒû€ûyûmû_ûSûHû:û$û$û'û)û'û&û%û$û%û#û"û$û'û4û:û9û6û2û/û,û+û,û+û+û*û(û û
+ûûûûûûûûû
+û
+ûûûûûûûûûûû!û ûûûû û-û>ûNû[û`ûTûZûbûjûoûtûxûzûyûuûsûrûrûuûvûyû|û€û…û‡ûû’ûûû‹ûˆû†û…û„û‚û€û}ûxûsûjûSûMûMûMûMûPûTûYû[û^ûbûgûoûtûsûrûuû{û…û“ûû‹û…ûzûnûkûiûhûjûkûnûqûqûqûxûyûyûyûwûuûtûqûxû‚ûûˆûû®û´û¹û½û÷û´û×û¢ûûsûaû`ûEû=û;û8û5û0û)û$û!ûûû ûûûûû û%û.û;ûHû^ûfûhûaûmû~û„ûûzûwûvûnûUû:û)ûûû û7ûDûFûGûHûGûFûJûOûWûaû^ûhû„û“ûû“û¢û©û«û®û±û²û³û¸û½ûְû¸û®û×û¨û¦û₪û₪û¥û¦û¦û£û ûûûû£û§û¨û§û¨û©û¨û¥û ûû›û˜û’û‹ûû†ûzûkû]ûQû?û$û#û(û*û,û*û'û&û&û&û#û"û'û,û0û0û7û7û4û0û,û*û)û)û*û*û*û(û#ûûû	ûûûûûûûû
+û
+û
+ûûûûûûûûûûûûû$û3û@ûKûLûHûSû]ûdûlûqûsûvûwûwûtûsûtûtûuûxû{ûƒû‰ûûû…ûûyûvûuûqûpûoûnûlûiûdû_ûWûQûOûLûJûIûIûKûPûTûUû[û^ûfûoûsûrûpûnûnûvû{û{ûzûsûiûdûbûbûdûiûmûpûpûmûkûhûfûcû_û]û]û\ûcûwûûûû¦û·û½ûֱûֶûִû¼û±û§û•û~ûtûjû]ûUûNûJûGûEûAû<û6û/û+û(û'û'û)û-û4û:û7û1û>ûJûXûdû\ûgûû“ûû†û…û‡û‡û}ûeû6ûûûû2û2û0û/û2û=ûGûNûRûUûSûhûyû…û–ûûûû¦û«û­û®û³û·û³û±û±û¯û­û©û§û¦û¨û©û­û¯û¬û¨û£ûû›ûû û₪û©û×û×û×û«û¬û³û²û¯û×û₪ûûû„ûvûiû\ûNû7û$û&û)û+û-û,û*û)û(û&û$û"û%û-û1û0û1û6û3û0û-û+û+û+û+û,û+û'ûûû	û
+ûûûûûûûûûûû
+ûû
+ûûûûûûûûû û-û;ûGûMûEûQû]ûeûjûpûsûsûsûtûtûuûtûsûtûvûxû{û€û„ûˆûû…ûûyûvûtûpûoûmûmûlûfû`û[ûVûPûLûIûGûGûGûKûOûNûOûVû\ûbûhûkûiûiûiûeûnûsûqûrûrûoûbûXû_ûfûhûkûoûpûlûjûkûiûgûhûmû{û~û}û€û†ûƒû˜û²ûֲûֵûֵûֶûֵû»û³û©û˜û„ûmûeûJû9û:ûAûGûEûAû<û6û1û.û+û)û(û)û-û6ûAûFû<ûBûNûUûVûWûdûtûû›û•û–û›û“û‰û}ûcû0ûû
+û.û6ûBûFûFûDûFûIûLûKû^ûtûˆû“û¡û—û™û£û¨û¨û§û¨û«û°û±û±û°û®û×û§û¥û¦û©û®ûµû¶û¯û§û₪û¢û¢û£û¥û©û«û«û«û«û×û©û¥û¡ûû₪û¦û¢û—û‹ûûqûdûVûIû6û$û'û)û*û*û*û,û*û'û&û&û(û,û/û.û+û%ûûûûûûûûûûûûû	û	û	û	ûûûûûûû"û û"û#û"û"û ûûûûûûû"û.û<ûIûUûZûRû`ûjûmûpûsûuûvûtûuûvûvûuûtûwûwûyû}ûû„û‡û‚û|ûyûxû}û„û†ûû‚û‚û€ûzûtûlû[ûGûFûBûAûEûIûIûJûOûXû]û`û`û_û\û^ûeûlûpûnûjûkûlûkûdûYûbûhûiûmûqûpûlûlûmûkûiûjûpû}ûû}û€û„û~ûû₪ûµûֲûֽûֻûֶû½û´û×ûû…ûoûlûVû:û;û=û9û0û%ûûûûûûûû%û2û9û=û2û5û@ûLûSûUûVû\ûkû{ûû–û–û™û–ûû}ûgû=ûûתת7û=ûAûEûFûGûHûLûMû`ûqû„û–ûû¨û›û û¥û§û¦û¥û¦û©û×û«û¬û­û¬û«û§û¦û¦û¦û¨û¬û±û­û©û¥û₪û¦û§û¦û₪û£û¢û£û£û¦û¯û³û°û­û«û§ûû•û‰û}ûrûcûUû:û&û$û&û'û'û(û*û+û-û,û)û'û)û,û,û+û'ûûûûûûûûûûûûûû
+û
+û
+ûûûû û$û#û#û#û ûûûûûûûûûûû û)û7ûEûQûYûWûVûfûqûqûrûqûrûuûuûwû{ûzûwûuûvûwûzû|û~ûƒû†û„û€û…û‹ûˆû†ûˆû‡û…ûƒûûzûuûpûkûhûeû^ûKûDûFûIûMûTûYû]û_û^û[ûXûVû^ûfû`ûdûdûfûcû\ûOûYû_û`ûbûhûkûkûmûvû€û„û…û„û€û}û~û~ûû‚û€û‰ûû«û¼ûֻû־ûַû½û±û¢ûûvûiûdûLû5û8û:û9û8û8û5û0û+û(û)û)û*û0û5û;ûEûBû9û@ûIûOûQûRû\ûhûuûû‡ûûûˆû~ûpûbû@ûûןת5û8ûBûEûGûIûKûMûOûdûvû‰ûû£û«û¥ûû£û¥û¦û₪û₪û¨û«û­û¯û´ûֳûָûָûֶûִûְû¿û½û¼û»û÷û÷û÷û÷û÷û¹û¹û¹û·û·ûµû·û¶ûµû´û±û­û§ûû•û‹û~ûoû`ûPû;û%û'û(û*û*û)û*û,û-û,û)û'û'û)û*û)û*û1û2û.û!ûûûûûûûûûûûûûûû
+û	ûû û$û$û!û û ûûûûûûûûû"û-û;ûKûYûbû_û]ûjûrûrûoûpûqûrûuûwû{ûzûxûvûvûtûuûxû|ûû…û‡ûûûûû‹ûûû‡ûƒûû{ûwûuûrûoûlûkûlûnûpûrûtûuûsûnûrûsûpû`ûPûVû^û\ûRû[û[ûXûMûPûXû]û]û_ûeûiûjûkûnûpûpûpûvûûû€ûû€ûûû~ûûû±ûֵûֻûֶû÷û­ûû†ûoûeûcûLû5û6û6û3û-û$ûûûû û)û+û.û2û;ûBûFû=û=ûFûMûTûVûXûaûlûmûvû~ûxûwûyûqûcûZûHû%ûû5û;û@ûEûJûMûPûTûRû\ûsû„û—û©û®û¡ûû£û×û¬û­û¬û®û°û´û¹û¿ûֲû¿û¶û¯û¬û¨û¥û¥û¦û¥û₪û₪û₪û§û¨û¥û₪û¢û£û₪û₪û£û¡ûûûûû¡û˜ûû…ûyûkû\ûMû1û$û&û'û*û+û+û)û)û+û-û.û1û8û9û7û6û4û0û-û$ûûûûûû#û&û$ûûûûûûûûû	ûûûû$û"û!û ûûûûûûûû û+û9ûGûUû_ûZûXûbûkûnûqûsûtûtûuûvûyû{ûzûwûsûrûrûsûwû{û}ûûû}ûzûwûuûsûtû}ûƒû„ûû~û|ûzûvûtûqûpûnûpûqûsûuûxûyûxûwûuûpûhû^ûWûOûPûQûHû6û<ûCûFûOûTûTûYûaûeûhûjûmûoûrûuûuû~ûûû|û{ûtûrûûû—û¨û»û²û°û«ûûûvûrûrûcûPû2û0û1û3û6û:û7û3û.û*û*û.û2û:ûAûFûAû<ûGûMûRûWûVûWû_ûdûeûrûuûqûtûwûiû^ûXûFû ûשת9û?ûEûIûMûQûWû\ûZûjû€û’û¨û»ûְû¸û¨û¦û©û«û«û«û­û¯û²û·û¿ûֵûִûֱûְûֶûֲûְû¿û½û»û¹û¸û¹û¹û¸û¸û¸û¶û·û¶û¶ûµûµû³û±û¯û¬û₪ûû“ûûûsûdûVûBû(û&û$û&û)û)û(û(û(û*û,û+û)û'û!ûûûûûûûûûûû$û'û'û'û"ûûûûûûûûûûûûû"û!ûûûûûûû#û0û?ûKûVû`û]ûXû]ûeûiûmûpûqûsûrûrûuûwûxûzû„û‰ûˆû‰ûˆû‡û‹ûûûûûûûûûû‰û‡û…ûƒû€ûû}ûzûwûvûuûuûvûwûyû|û~û}ûzûxûtûnûgû`ûYûVûSûQûOûNûPûTûVûOûLûQû[ûaûfûhûjûkûoûsûzû~û„ûƒûû~û|û{ûxûzû‹ûûû³û©û¢û¡û–ûƒûqûqûnû_ûTûMûEû?û=û<û8û4û0û-û+û0û5û:ûCûHûDûCûHûPûQûTûVûUûWû`ûbûbûnûpûkûiûmû[ûNûHû?ûûרת>ûBûFûKûQûXû_ûfûfûwûû¦û¼ûֻûּûֵû·û©û×û¬û«û«û­û®û¯û´û½ûֶûָûֳû»û´û®û©û¦û¦û£û£û û û¡û¡û¡û£û¥û₪û£û£ûûû›ûû˜û”ûûˆû…û‹û†ûxûkû^ûMû4û%û$û%û(û(û$û!û"û"û%û'û'û$û ûûûûûûûûûûûû$û)û)û'û ûûûûûûûûûûûû!û!ûûûûûûû û*û6ûAûOû]ûbûYû\ûeûlûpûuûzû~û‰ûûˆûˆûˆûˆû‡û‡ûˆûˆû†û…ûû‹û‹ûûûûûûû‹ûû‰û‡û…û‚û€û~û{ûyûyûwûwûxûxûxûzû}û~û{ûwûtûnûgû`ûZûVûTûRûOûNûMûNûRûHûGûOûXû`ûeûjûlûpûsûwûwûuûrûkûiûhûhûiûmûsû„û‹ûû›û£û›û—û”ûˆûtûeûhûbûUûNûFû>û:û9û7û2û-û1û3û:ûAûEûJûRûUûEûDûLûQûSûTûRûRûTûXûWûUûZû[ûJûHûGû6û)ûû‎תםתHûLûQûWû]ûdûjûqûpû~û”û§û·ûֹûװûׁûÊûֲû¿û×û«û«û¬û¬û­ûµû½ûֳûֳû¾ûµû¯û«û§û¥û£û¢û¡ûû û ûûû û¢û¡û¡û¡ûû›ûû™û–û“ûû‡û}ûtûlûkûjû^ûQû5û&û(û*û*û(û#ûûûû#û&û&û%û#ûûûûûûûûûûûûû!û-û&ûûûûûûûûûûûûû ûûûûûûûû%û2û@ûMûYûXûTû]ûfûmûqûvû{û~û|ûxûvûxûû…û†û†û‡û†û‡û‡ûˆûûûû’û•û–û’ûûuûsûpûmûkûkûjûhûfûcûaûaû_û_û_ûbûdûgûjûpûzûyûuûoûhûcû^ûYûWûUûSûRûSûWû\û^ûQûTû^ûcûgûjûkûnûsûxû}û„û„ûûû|û{ûzû|û~ûƒû…û†û‚ûƒû{ûuûnûkûrûjûbû[ûTûNûEû@û>û<û9û5û0û:û<ûBûEûIûQûWûMûGûLûSûVûYûXûUûPûIûFûCûDûHûFû?ûBû=û4û1û"û	ûכתQûWûZû]ûbûiûrûxû|ûû¥û÷ûַûװûÛûײûּû½û®û×û«û¬û¬û×û©û­û¶û½ûֲûְû»ûµû¯û×û¦û¥û₪û£û¢û¢û£û¡ûûûûûûûûûû™û˜û—û“ûû…û|ûrûhûgûiû\ûDû(û&û(û)û#ûûûûûû û"û%û!ûûûûûûûûûûûûûû%û)ûûûûûûû	û	û	ûûûûûûûûûûû&û3ûAûMûYû[ûUû_ûiûmûoûrûyûûû|ûxûvûuûsûpûoûnûoûpûqûsûwûzûzû~ûû”û˜û™û˜ûûwûsûpûmûkûlûjûfûcûbûdûdûdûeûdûeûhûiûlûvûxûtûpûkûfûeûcû`û^û[û\û`ûbûcû`ûPûUû\ûaûkûrûtû{ûƒûƒûƒûƒû‚û€û~û|û{û{û|ûû„û…û†û‡û…û‚û~ûzûwûrûkûeû_ûZûSûLûFûEûDûCû?û<ûKûLûNûRûSûXûZûJûOûRûXûXûYûWûQûLûHû@û;û4û3û2û%û$û'ûûûüתנתץתdûdûeûhûkûnûuû}û…û„ûû´ûֵû׃ûÝûÚû׀û½û°û«û­û¬û¬û¬û«û¯û³û·û¹û·û´û±û®û×û¨û¦û¦û¦û¥û¢û¡ûûû›ûûûû›û›ûûûûû™û•ûû†û~ûvûoûsûpûdûWûFû-û(û(û#ûûûûûûû"û%û"û ûûûû
+ûû	û
+ûûûûûûû#û û%û"û!û!û!û û!û!û!û ûûûûûûûû$û.û;ûJûUû[û[ûRûWûbûkûlûoûpûwûû}ûyûvûtûrûpûpûpûoûpûqûrûsûvûxû{ûzû{û|ûû‚û…û†û‚ûûûû‰û…û„ûû€ûû~û}û~û€û€û€û€û}û{ûyûvûsûnûjûhûfûdû_ûaûeûfûeûfû`ûTûZû`ûgûrû|ûû†û„û‚û€û€ûû~û|ûzûzûzû{û~û€û„û„û…ûƒû€û|ûwûrûlûjûgûcû]ûXûTûRûOûRûUûVûUûWûWûXûTûCû9ûAûEûJûRûVûVûXûYûWûRûKûAû8û/û/û(ûû‏תקתטתגתÞתÛתװתmûlûlûnûsûyûû‰û’û—û₪û÷ûִûׁûßûױûַû¸û®û¬û­û¬û«û¨û§û¨û×û­û®û®û¯û¬û¨û₪û£û¦û©û©û¥û¢û ûû›ûû›ûûû›ûû›ûû›ûû¥û×û¦û¦û¥ûû•û‹û~ûpûaûQû8û ûûûûûûûûû û'û+û2û2û/û,û)û(û'û'û%û%û&û&û%û$û#û"û!û!û!û!û û û û û ûûûûûûûûû"û.û=ûKûWûWûRûZûfûlûpûqûsûuû{û|û}û…û‰ûˆû†û…û…û„û…û…û„û…û†ûˆûûûû„ûƒû‰ûû‘ûû‹û„ûûûû…û‚û€ûû~û~ûû€ûû€û€ûû~û|ûzûwûuûrûqûnûhûVûTû_ûpûuûsûmûZû[ûbûfûkûsûzû{ûxûtûqûmûjûhûgûdûbû^û^ûaûkûsûtûpûmûjûfûaû]ûXûRûMûIûFûDûFûSûUûTûSûOû@ûHûWûXûSû?û@ûLûUû_ûkûlûeû\ûTûOûJûEû=û9û;û5û,û#ûûû‏תנתגתותעתעת‚ûû€û€ûû…ûˆûûû£û§û§û±ûֱû־ûװû׀û¿û³û­û«û×û¬û«û×û¬û¬û­û¬û¬û­û«û¦û£û¥û©û«û¬û©û£ûûûûûûûûû›ûûû ûûû˜û–û’ûûˆû~ûrûjûmûiû\ûNûCû;û+ûûû!û!û û û!û$û*û1û1û.û+û(û&û'û'û&û%û%û#û$û$û"û!û!û û!û!û û ûûûûûûûûûû!û#û+û7ûDûRû_ûYûWûcûkûoûoûpûqûtûvûyû{ûyûwûuûqûoûnûnûmûnûpûpûqûtûvûwû{û†û•ûû¢û£ûû˜ûû‡ûzûpûnûjûhûfûeûfûhûlûvû}ûû}û|û|ûyûxûwûtûfûUûWûZûaûcû]ûUûSûUûYû`ûhûnûpûqûvûyûtûpûlûiûhûgûeûdûbûaûbûhûpûxûxûrûoûoûxûuûrûpûoûlûiûgûdûbûaû_û]ûXûFû?ûDûDû@û>û@ûHûVû^ûdûmûqûjûeûjûcû\ûVûOûCû8û.û#ûûûûלתÝתßתדתךתמת‰û†û†û‡ûˆû‹ûû–ûû¨û×û§û¸ûְûֶûֳû¾û´û®û«û©û§û©û×û«û×û­û®û­û×û×û«û¥û¢û£û¥û©û©û¦û ûûûûûû›û›ûûû›ûûûû™û˜û–û”û‘ûû†û|ûtûuûrûfûXûKûBû7û#ûû û&û)û2û4û4û3û1û/û+û)û(û(û(û(û&û&û'û%û$û$û"û"û!û û"û#û"û!ûûûûûûûûû"û'û*û4ûBûOûXûVûMûXûbûiûlûlûmûoûqûtûwû{ûyûuûqûmûmûmûmûnûqûqûpûrûtûvûyû‚ûû›û₪û§û§û£ûû–û‰ûxûoûoûlûiûjûjûkûoûsûsûpûkûjûiûgûeûaû]ûZû[û\û]û^ûcûfûdû_ûXûXû\ûaûhûmûnûoûqûqûpûlûhûhûiûjûhûgûeûfûhûnûtûxûyûû‚û~û|ûyûvûtûqûnûkûiûgûfûeûaûTûDûDûIûKûIûGûFûIûPûZû_ûdûhûnûnûdûbûeû]ûYûQûGû?û3û$ûûû ûשתץתעתסתןתלת›û˜û˜û˜û˜û™ûû¢û©û¯û­û²ûֳûֵûֳûֲû¼û´û­û«û©û§û§û§û©û«û«û¬û®û®û¬û§û©û´û¶û¿ûֱûְûֱûֱû¼û¨û¡ûû û¡ûûû›ûûûûû¢û£û£û₪û₪ûû—ûûûû€ûsûdûTûFû5ûûû û(û0û4û5û4û2û0û-û)û(û'û&û'û&û&û'û(û&û&û%û#û"û!û û!û!û!û ûûûûûûûûû!û.û8ûDûOûSûLûMûUû`ûjûmûoûoûnûpûsûuûxû{ûzûwûtûoûmûmûmûoûqûtûvû{û~ûƒû†ûû˜û¥û®û²û¯û©û£û—ûˆûuûnûlûjûkûiûhûjûqûwûvûqûlûiûhûgûfûeûeûeûgûhûjûmûtûuûqûjûcûbûeûgûlûnûmûmûmûlûkûgûdûeûgûhûgûgûeûeûgûnûsûtûtûsûpûlûlûtûsûrûpûmûlûkûiûiûiûiûgûUûKûMûNûMûMûNûPûUû[û_ûbûeûhûdû_ûfûaûXûQûHû?û3û%ûû
+û ûרתפתעתנתמתלתכת§û¦û¦û₪û¥û₪û¢û§û¯û¯û®ûָûÞûדûÙû־û¾û±û¬û×û¨û§û¨û×û×û×û©û×û­û±û¹û·û±ûֳûֵûµû¿ûֵûֲû·û×û¯û°û³û´û¡ûûû›ûûûûûû£û¨û¯û¯û×ûû”û’ûûˆû{ûkû[ûNûAû/ûûû$û(û2û3û2û0û.û+û(û&û%û$û$û$û#û"û!û$û%û$û#û"û!û ûûû û!û ûûûûûûûû)û5û?ûKûSûNûKûUû`ûiûnûpûpûpûoûpûtûxûyûxûxûvûqûpûnûmûmûpûrûtûwû{ûû…ûûû“û¢û×û­û­û¦ûûûûxûmûkûkûkûkûjûkûtû€û|ûtûpûmûlûjûhûfûeûfûgûiûkûoûsûuûqûjûgûfûhûmûsûtû{ûzûyûvûtûqûiûcûlûqûyûqûsûdûfûkûyû}ûûû~û|ûyûuûqûoûnûmûlûlûlûoûsûuûwûqûaûRûPûNûLûKûMûOûSûXû\û_ûaû`û[ûPûHû>û5û4û1û#ûû
+ûץתßתזתעתסתםתםתלתךת¯û°û°û¯û®û¯û¯û²û´û«û°ûֻûוûחûאûװûֲû±û«û¨û§û¥û¥û¦û£û¢û£û©û÷ûֻûֿûֶûֱû׀ûÙûֿûַû׃ûֽûֲûּû־ûֹû·û¢ûûûûû™û˜û˜ûûû¢û¦û­û±û­û₪û¡û›ûû…ûxûoûiû]ûPûBû.ûûû û$û-û4û3û0û.û*û'û'û%û%û%û$û$û&û&û&û$û"û û û û!û"û!û ûûûûûû"û%û&û+û4û>ûHûSûYûUûSû`ûkûpûqûqûqûqûsûwûzû{ûyûyûxûvûtûpûnûmûmûnûnûpûuûyûûˆûûû™û£û©û©û¢û˜û‘û’ûûlûjûkûmûkûhûiûrû{û{ûtûqûlûjûkûlûjûiûjûnûpûsûvûyûyûtûnûjûiûjûmûoûpûmûmûjûjûrûtûkûsû~ûzûuûtûwûtûcûdûfûjûjûkûiûdûbûcûkûmûmûlûlûnûoûrûsûnûcû[ûXûUûSûRûPûMûMûOûQûTûTûTûRûOûLûEûAûBû9û2û&ûûû ûחתßתßתÝתÛתÛתÛתÚתÜת“û“û‘û‘û’û•û›û û û§û»ûװûיûךûßû׀ûֳûָûֵûֱû¿û½û¼û»ûµû´ûָû׀ûׁû׳ûÜû׳û־ûÛûחûבûֿûַûֻûֳûֻûײû׃ûֻû»û¨ûûûû˜û™û˜û™ûûû¡û₪û¦û§û½ûטûü/ü:ü1üÿû§ûdûRûPûFû:û(ûû#û*û4û4û2û/û+û(û'û%û$û$û$û%û'û&û%û"û ûûûûûûûûûûûûûû$û'û,û3û=ûHûTû\ûVûXûcûlûpûpûqûqûpûsûvûwûxûvûuûuûsûrûpûnûmûmûmûkûkûpûuûzûûû†û“û›û¢û¢ûû˜ûû“û€ûjûkûmûmûkûiûjûnûrûqûoûlûjûkûlûmûnûnûoûrûsûwû|ûû{ûwûpûiûgûhûkûlûmûlûnûqûrûtûyû†û©ûֱûִû½û®ûû‘ûûxûkûlûxûzûwûtûpûmûjûjûjûjûlûoûqûtûwû}ûûû}û{ûuûrûnûkûiûhûfûfûfûdû`û]ûYûSûMûBû7û,ûûûûלתÜתÚתÛתÛתÜתÝתÚת״תױתûûû›û›û¡û©û®û«û¨û±ûָûÚûחûßûֿû¼û­û×û¨û¨û¬û·û¸û°û¾ûֿûװûײûÞûגûÞûÚûךûצûפûךûÚûÊûַûׁûÜûÚû׃ûֵû±ûûû™û›ûûûû™û™ûû û£û×ûֱûכûü,ü9ü=ü2ü
+ü´ûkûRûOûFû@û9û2û/û/û0û1û.û+û*û'û%û#û ûûûû$û%û#û!ûûûû!û"ûûû ûûûûû û'û-û5û@ûJûTûZûPûSû_ûkûpûrûpûpûpûqûsûvûvûwûvûuûvûuûrûpûnûnûmûmûlûoûuûyû{û{ûyû„û“û–û”ûûû“ûû‡ûsûiûiûkûkûjûiûhûjûoûrûnûkûiûkûlûmûnûoûqûsûwû|ûû~ûzûrûkûdûcûeûeûfûhûgûgûgûlûrûyûƒû¢ûֱûÊûַû»û±û¢ûû„ûoûiûfûbû]ûXûUûUûVûXû]ûhûmûoûqûlû_ûaûgûiûhûbû\ûUûSûQûPûPûRûQûOûMûKûGû@û6û/û+û+û(ûûû	ûףתÜתÙתÙת׳ת׳תÚת״ת׃ת׀ת₪û₪û¥û¥û§û©û­û²û±û¯û¯û¹ûֹûװûÚûּûֳûֹûֳû¿û¼û»û÷û³û÷ûׁûÜûאûאûטûכûדûÛûלûüû‏ûצûחûװûֻûׂûÝûÞû״ûּû´ûû›ûûûûû›û˜û—û˜û™û›û©û׃ûתûü7üIüPüMü>ü#üעû˜ûKû4û*û,û5û9û3û0û0û/û,û*û'û$û û+û'ûûûûûûûûûû$û)û!ûûûûûû û%û)û0û:ûEûQû]û_ûVû_ûhûmûpûrûoûpûsûuûtûtûvûvûwûwûxûvûtûqûmûnûoûnûnûqûuûxûyûwûuûûû“ûûû‘ûûûyûjûjûjûkûjûjûkûiûiûjûjûiûhûiûjûjûiûiûkûoûrûtûyû}û|ûvûoûeû_û_û`ûaûbûdûcûaûaûkûtûƒûû©ûֶûױûײûּûֳû¼û¡û…û~û†ûûyûuûpûmûjûgûgûiûiûkûnûkû`ûiûrûtûuûuûwû~ûyûtûnûjûfûeûbûcû`û]ûZûTûLûBû6û+û ûûûמתÛת״תײת׳תװת׃תװתׂתֿת־ת¦û¦û¨û§û§û¨û¬û³ûµû²û°û°û÷ûֶû׀ûִû´û­û×û¦û¢û¢û£û¯ûֶûÜûךûנûמûץûü üנûצûü
+üüüûלûßûÙûדûבû״ûֶû«ûûûûûû˜û˜û–û•û•û–û˜û¬û׳ûתûü8üHüPüOüAü)üü¬ûVû9û,û-û2û?û=û6û1û/û,û*û+û:û[ûrûzûzûmûNûû
+ûû	ûû
+ûû'û%ûû
+û	ûû"û(û/û8ûCûPûZûTûQû\ûeûhûlûnûqûrûrûqûrûtûvûvûwûxûxûxûxûyûxûuûrûqûpûrûtûtûsûsûtûsûuû{û€ûƒû‚ûzûvûuûrûoûjûjûkûlûlûlûlûlûkûhûgûiûgûhûiûjûgûgûiûkûpûpûrûwû}ûyûtûlûcû`ûaûaûaûcû`û^û`ûhûtû‹ûû¿û״ûהûßûױû׀ûֻû÷ûû‘ûvûaû`û]ûWûRûOûPûSûVû[û^ûZû[ûkû~û„û„û„û~ûwûoûkûVûQûQûQûQûOûMûMûFû?û6û/û,û'û"ûûûצתÜתײתװת׃תׁתֿתֽתּתּתÊתÊת¥û¦û¦û§û¨û×û­û¯û±û°û¯û¯û±û´û²û®û®û®û«û«û©û¦û₪û¨û»û׀ûגûעûשûשûü	üüüûüüüüûכûהûבûÞû׃ûֶûµû¯û û™û™û˜û–û•û—û û¦û§û§û¦û¨û¸ûגûü.üGüWü[üSüAü'üüûִûû~ûjûNûDûGû?û8û3û1û1û4û<û[ûtû}û€ûzûkûLû&ûûû
+ûûûûûûû û$û(û-û4û=ûFûRû\û\ûSû]ûeûjûmûoûrûsûuûwûyûyûwûtûrûuûwûzû€ûƒû}ûyûsûmûlûlûnûrûpûpûqûqûsûwû|û€û€ûyûvûsûnûlûjûlûnûmûkûlûmûkûjûjûiûhûgûgûgûiûgûdûfûiûkûmûmûoûrûmûhûdû_û]û]û[ûYûXûUûTûZûjû„ûû¥û¾ûÚûנûץûחû״ûװûָû¯ûû‚ûsûjû^ûWûRûOûPûSûWûYû[ûXû`ûtû„ûˆû‡û„û|ûqûdû\ûSûQûQûOûPûVû`û]ûYûTûLûCû7û)ûûû ûותײתױתװתׁתֿתּתÊתּתױתßתאת¦û¦û§û§û¨û¨û¨û§û¨û¨û¯û¸û¶û®û¬û«û¬û­û­û±û³û½û½ûµûֳûÞûץûüü	üüüüüüü üפûיûבûÜûױû־ûִû¶û«û¢û™ûû™û˜û—û–û—ûû£û£û¥û©û־ûץûü<üYünürüjüYü:üüׁû™ûû€ûiûRûTûNûDû?û=û=û?ûAûWûrû„ûû‹û{ûcûGû+û*û'û'û&û%û$û#û#û%û(û-û2û7û>ûFûRû\û\ûTû^ûfûkûoûqûsûuûvûxû{ûxûuûtûrûwûxûzû~ûûzûvûpûjûiûjûmûoûmûnûqûrûqûsûwûyû|ûxûuûrûoûkûjûiûgûhûkûnûnûkûiûgûgûeûdûbûcûeûeûcûdûfûhûiûjûmûlûhûbû^û[ûZûXûVûUûTûPûSûcûjûƒû¢û¥û¹û״ûןû‎ûûûםûÞûׁû¿û¯û—ûyûfûYûSûMûKûNûPûQûTûWûVû`ûpûû„û‚û€ûxûoûdû[ûTûOûMûKûLûLûQûYûUûNûHû;û-ûûûûתתנתלתזתחתךתךתחתותהתגתגתגת¨û§û§û§û¨û©û¨û¨û¨û¨û°û½û¼û¶û­û«û«û­û®û²û·û¾û¾û¸ûֹûאûצûüüü ü"üüüüüשûםûßûײûױûֿûָû½û®û­û§û•û—û—û“û‘û’û“û”û”û•û–û¬ûגûü)üKüdüzü~ü}üwüdüCüü¸û“û’ûûeû[ûXûMûGûCûBûDûFû^ûyû‹û’ûû€ûmûVû;û>û<û;û9û9û8û8û7û/û!û,û?ûCûFûLûUû^û[ûUûaûkûrûuûwûyûyûzû{ûyûxûvûtûtûwûyûzû|û|ûwûsûmûhûfûgûkûlûlûkûmûoûmûoûqûtûwûuûtûtûnûrûwûuûnûjûjûmûpûlûhûeûeûcûbûaûaûbûbûbûdûeûeûhûjûqûyûxûvûtûpûnûmûlûiûfûbûaûaûgûû û×û¶û׳ûץûü
+üüץûחûÜûֿû¸ûûzû\ûPûKûKûMûQûQûQûRûRûWûdûwû€ûƒû€û{ûtûwûtûnûhûeûcû`û^û\ûWûNûFû9û+ûûûûצתÝתױתױתױתױתױת׃תֿתÊתַתַתַתָת¬û×û§û§û§û¨û¨û¨û§û­û»ûׂûÚûװûÊû·û×û¥û©û®û¹û½û½û¹ûֿûטûÿûü"ü!ü"ü!üüüüשûןûוû׳ûֿû׀ûÊûֲû»û²û´û×û“û•û•û’ûûûûû‘û•ûû»ûםûü9üYürüˆüüˆüƒüwüdü6üםû¯û™ûûwûbû^ûYûRûMûKûLûPûcûû™û§û×û û’ûyûQûIûMûHûFûDûAû?û=û/ûû%û.û@ûGûMûVû_û[ûYûgûqûwû{û~ûû|ûvûvûvûtûrûqûrûtûwûwûwûxûuûqûmûjûhûgûiûlûmûkûlûnûoûpûrûsûvûwûuûsûwûû˜û•ûûyûjûiûoûnûiûeûcûbûaû^û]û_ûaûaûcûcûcûeûhûhûhûkûuûsûqûoûnûlûjûfûaû]û]ûkû‚û¡û¬û½ûאû‏ûüüüüÿûשûךûֽû®û€û[ûNûKûMûXûfû_ûYûWûTûUû]ûjûqûvûuûoûfû\ûSûNûMûLûMûMûGû@û9û=û<û0û"ûû	ûÿתסתÙתװתױתױת׳ת׳תױתׁתּתֹתֶתֵתַת¯û­û©û¦û§û¨û¨û¨û×û¯û¿û׃ûßûÛû׀û¿û±û§û×û³û¹û÷û¹ûֲûÝûעûüü#ü!üüüüüüרûמûדûװûּûַûִûֱû·û«û­ûûûû’ûûûûûûû’û₪û׃û‏û"üBüZüoü‹ü’üü…üüsü[ü)üגû®ûûˆûtûgûlûdû^û`ûcûfûxû˜û²û¼û¼û¶û­û—ûkûLûQûPûLûJûHûHûHûGûHûHûJûOûTû[ûcû[ûVûcûnûsûvûzû}û~û}ûvûrûqûpûpûlûkûmûpûrûqûqûpûnûiûhûiûhûgûjûjûiûhûjûlûmûnûmûoûqûoûnû~û’ûû›û“û†ûrûgûhûmûiûdûbûcûbûcûaû`ûaûaûaûaû_û`ûcûeûfûlûuûuûsûpûoûmûjûgûaû]û]ûjû„û¢û¯ûֻûךûüüüüüüüüמûֵûûsûfûbûWûQûiûpûhû^ûSûOûTû\ûcûmûoûnûmûjûgûeûcûaû_û[ûZûVûOûGû@û5û(ûûûûקתÞתׂתװתײת״תÙת׳תׂתּתַתֶתַתַת«û©û¦û£û₪û¥û¥û¦û¦û×ûµûֻû׳ûÞû׳ûֻû»û¨û¥û¨û®û«û±ûֲûÚûפûüüüüüüü	üüרûןûאûֿûִû¿û¸û«û¡ûûûû~û}û{ûxûyû}û}û€û†ûû”û·ûטûü'üCü_üzüü‘ü‡üüsü`ü:üנû¹û³û ûûmûtûuûqûpûpûmûûû·ûִûֲû¾û¹û®ûû‚ûYûTûUûRûPûPûOûJû>ûHûXû]ûaûeû^ûZûgûpûuûwûyû}ûû~ûxûtûqûpûpûoûlûjûkûlûnûoûoûmûlûkûjûkûjûkûlûmûlûlûkûkûmûnûnûnûmûjûlû~û‘ûû›û“ûƒûnûbûfûqûzû{ûzûzû{û~û}û|ûyûyûxûwûvûuûuûtûuûxûxûwûvûtûpûlûgûcû^û[û`ûmûû™û«ûֹûדûרûüüü ü üüüüאû°ûˆûgûcûZûPûaûtûpûgûiûaûQûTûUûUûSûQûOûMûLûKûKûJûJûHûBû<û4û/û-û%ûûû
+ûûתיתװתװת׳ת׳תÚת״תױת׀תֽתֻתָתֶתֶת­û«û¨û¥û¦û§û§û§û¨û®û½ûּû׳ûÛûׂûֶû¾ûְû¶û¹û·û«û¬û÷ûֿûיûנûÿûüüü
+üüûûןûהûÙûֹû»û·û²û¢û˜ûû”ûûzûzûzûwûwûxûyûyû}û‚û…û’û¹ûכûü$üBü\üqü{üüütüiü\üNü/üעûָû¹û¡û‡ûqûvûpûlûnûpûzû˜û³ûִûַûֲû¼û°ûû‡ûfûhûdûdûfûgûeû_ûMûGûQûhûqûpûeûXû`ûiûrûtûuûvû{û}ûxûuûoûmûmûlûjûhûiûlûnûmûkûiûgûgûhûiûhûhûgûiûjûkûiûgûjûkûlûlûmûkûiûmû€û•û˜ûû{ûbû`ûdûfûcûcûhûoûrûpûwû{ûyûxûxûwûuûvûuûtûtûuûwûuûuûsûqûnûjûdû_û]û`ûkûzûû¦ûֲûײûכûü
+üüü!üüüüםûַû˜ûoûcûZûOû^ûqûmûaûTûLûNûOûQûSûPûNûMûLûKûKûKûHûGûEû>û7û-û+û)ûûû
+ûüתלתװתֿתׂתÞתחתיתךתכתךתךתטתזתותגת×û©û¨û§û¥û¥û¥û§û₪û¨û´ûֹûֻûּûֻû»û¯û©û₪û§û£û¨û­û¹ûֹûÛûףûרû‎ûüüקûףûנûגû׀ûֳûµû¨û¦û¥û™û“ûûˆûpûlûiûkûkûlûnûpûtûyû‡ûû™û³ûבûüü>üVülüsüwürüfüZüMü=ü üךûַûֳû·û¡ûû‹û†ûûû~û|ûû©û¾ûּûÊûֲû·û¦ûûqûtûtûtûuûuûsûmûYûWûeûrûnûWûYû]ûbûgûjûnûpûqûuûwûsûqûmûlûnûnûkûiûiûjûlûnûmûlûjûjûjûjûjûiûgûfûgûiûgûfûfûgûiûjûjûiûeûbûlûûƒûûrûZûXû`ûcûbûaûcûmûwûuûyû}ûzûyûyûwûvûuûtûtûuûxûzû{ûxûuûrûmûiûeû`û_ûaûiûrûû›û¯û׀ûדûקûüüüüüüüעûׁû˜ûhûaûNûIûUû]û]ûUûQûMûLûJûLûNûNûJûIûIûIûIûKûIûHûEûAû<û>û8û-ûûûûפתלתטתזתהתהתותזתחתיתךתכתיתטתחתדת©û¨û¦û¦û§û¨û¦û¦û¦û¨û°û¼û׀ûÊûַûֲû±û§û¥û¥û¥û¡û§ûµûּûÚûךû ü	ü‎ûüûקûדû׳û׃ûַû´û¬û¦ûû™û–û†û€û~û}û{ûmûjûjûjûiûhûjûnûnû{û˜ûֳûהû‎ûü1ü?üQüZü\üZüUüLüAü3ü"üשûּûֳû»û×û“ûû‹û‡û†ûˆû‡û’û¬ûֱûּûֵû¼û²û¦û‘û‚û„ûû€û~û|ûzûlûXûWûaûaûXûYû]ûcûgûjûkûnûpûqûsûtûrûoûnûpûrûrûpûkûkûlûmûmûnûnûnûnûmûlûmûlûjûiûiûlûnûnûmûmûlûlûkûhûgûgûkûnûvûtûcû]ûSû[û_û_ûbûeûnûvûvûmûgûdûcûbû`û`û`û`ûaûhûnûpûyûwûuûqûmûiûdûbû`û`ûgûoû€û”û¢û¾ûׂûטûןûשûüüü‎ûנûבûַû•ûgûgûcû`ûcûcûcûdûaûcûdûeûeûeûdûeûeûeûdûbû`û]ûZûPûFû@û6û*ûûûûץתטתׁתֹתַתֶתֵתַתÊת־תׂתױת׳תױת׀תÊתִת¦û¦û¥û£û¥û¦û¥û¥û£û¦û°û¿ûֱûֽûֿû¸û±û§û ûû¢û§û²ûֲûׂûלûצûüü
+üלûוûדûÚûַûְû»û©û—û’ûû‘û~ûsûqûpûfû`û[ûaûbûgûgûhûmûwûxû•ûֳûףûüü ü0ü@üOüTüRüMüEü9ü.ü üü׀ûְû¶û₪ûû™û’ûûûûû’û«û÷ûֲûֳû½û´û¨û”û†û|û`û^û]û[û[û\û`ûjûuûwû~û†û…û„û„û„û…û†û‡û‡û†û„û„û„û„û‚û‚û„ûƒû„ûƒû‚û‚û‚û‚û‚ûûûû‚ûû‚ûûû~ûû~û}û|û{ûyûxûwûsûoûlûgû[û\ûdûaû]û\ûPûWû]ûbûdûiûlûmûkûfûcûaû`û^û]û\û]û`ûgûoûqûxûvûuûrûnûkûgûbû`û]ûZûbûoû†û¥ûֲûֻûÝûהûהûםûשûנûטûßûװû¾ûûdûUûHûIûJûIûIûKûPûRûNûKûJûKûKûLûMûNûNûMûHûAû<û6û6û2û,û$ûûûûףתבת־תּתֻתֹתַתָתֻתֽתׂתÛתÞתÛתײתֿתָת¨û§û¦û¦û¦û¨û¦û¦û¦û©û±û¿ûָû»û½û´û¢û™û˜û›û•û™û©û÷û׀û׳ûיûüû üתûשûכûÚûײûױûֲû²û×û¡ûû†û…ûûqûfûjûUûWûYû]ûWûSûUû^û_ûfûsûˆû¦ûֻûדûüü!ü0üBüDüIüEü<ü1ü'üüשûֿû»û­ûûû…ûyûxûxû{ûˆûû­û¼û¾û½û÷û²û¥û•ûƒûyûiûiûiûhûhûiûnû|û…û‚ûxûpûmûmûmûkûlûpûrûsûpûnûnûmûnûpûrûuûvûtûpûkûjûmûpûpûoûpûqûrûvûwû~ûû~û~û}û~û}û{ûzûxûtûsûoûiûdû`ûZûSûUû[ûVûKûRû^ûbûcûfûiûgûdûcûaû^û^û]û^û\û\û_ûfûoûtûwûxûvûtûoûkûhûcû_û[ûWûYûmûwû‰û û®û´ûֳû־û״ûÞûÞûÝûײûֽûֲû­û‚û`ûLûIûJûHûHûLûRûRûPûMûLûKûKûMûPûOûKûFûAû=û8û6û7û3û+ûûûûûףתאתֿתּתּתÊתָתָתÊתּתװתßתßתÛתװתֽתֶת¨û¨û¥û¥û¦û§û§û¨û§û©û±û¶ûֱû¾û²û±û©û–û“û•û™û•ûû¯ûִû״ûÞûסûüסûיûזû׳ûֱû·û®û˜û‚û{ûsûqûhû^û^ûLûHûRûLûIûLûNûKûIûKûTûWû^ûmûû±ûׂûמûüü ü0ü2ü-ü)üüü
+üתûבûֳû÷û×û™û˜ûƒû}û}ûyûyû~ûû¢û®û÷û»û·û¯û₪û’ûƒûqûoûoûpûpûoûnûtûûˆû‰û{ûqûmûjûkûjûjûnûsûsûrûqûoûmûlûnûrûvûxûvûqûmûkûmûnûoûoûnûmûpûsûuû}ûûû}û~û~û~û|û{ûxûtûlûfûbûZûPûJû@ûJûJûKûDûPûVû]ûaûdûfûcûaû`û_û]û]û]û]û]û[ûXû\ûdûnûrûsûsûoûmûkûgûdûbû`û`ûbûfûwû“ûû×û½ûֳûֵû׀ûÞûׂûׁûׁûַû¹û£û}ûUûIûJûKûLûMûNûPûOûOûPûMûKûLûLûOûPûMûHûCû=û7û0û1û0û%ûûû‏תןת׳תֿת׃ת׃ת׀תֽתÊתָתַתּת׳תגתךתלתכתיתזת©û§û¥û§û§û¨û¨û¨û¨û×û¯û·û¾û²û®û×ûû‘ûû’ûû‹ûûû×û­û¾û׳ûÙûÊûָûֳû®ûû—ûûtûfû_û_ûOûKûHûCû?ûBûDûAûAûCûBûBûCûHûNûKûXûgûzû“ûְûזûüû	üüüüüüüüûûכû׃ûְû¸û©û›ûû„û|û{ûzû|û~û…û•û¥û¬û¥û£ûû‘ûˆû|ûuûtûrûrûrûrûsûvû|ûƒû…û‚ûxûrûmûkûjûlûpûuûvûwûuûqûmûmûoûqûuûwûuûpûmûmûnûoûqûpûoûoûpûsûtûsû|û~û}û~ûû€ûû{ûxûpûhû_ûXûQûIûEûBûBûCûFûBû@ûIûUû`ûdûhûfûcûaûaû_û]û\ûZûZûYû[û^ûbûbûeûlûnûmûjûeûjûgûcû^ûXû]û_ûeûjûxûû¥û¯û³û¹ûִûְûְû÷û°ûû‚ûhûhûeûdûeûeûdûcû`û\ûaûaûbûcûcûcûcûbû_û]ûYûRûHû9û/û#ûû	ûשתיתׂת־ת־ת׀תׂת׀תֽתֹתÊתֻת־תײתÝתחתמתלתךתחת¨û¦û¥û¥û§û¨û§û§û¦û¦û¨û¯û¸û´û­û¬û¢û’ûû“ûû‡ûû“ûû û°ûִûִû¬û¡û˜û…ûvûrûjûYûUûXûIûAûAû?û4û4û?û@û=û3û)û(û)û,û5ûGûCûNû^ûyûû¼ûײûגûסûüüü	üüüûûסûוûױûֳû¼û±û û—û‰ûûû~û‚û…û†ûû™û™û–û›ûû—ûûwûwûvûvûvûxûvûuûvû{ûûû{ûtûpûlûjûiûjûmûqûuûwûtûpûkûjûlûnûqûsûsûrûpûmûkûlûnûqûpûoûnûnûmûjûiûgûdûdûkûoûmûiûpûoûdûYûNûEû:û%û$û,û,û+û0û8ûBûOû\ûbûfûeûaûaûbûaû`û[ûYûYû[û\û[û\û[û\ûYûUûWû\ûhûlûkûhûdû`û^û]û`ûdûlûxû„û’ûû£û¨û×û×û₪û™û‰ûhûQûNûMûNûNûOûNûLûLûMûMûNûNûLûKûKûNûVû[ûZûRûLûDû:û-ûûûûץתדתֽתֽתּתּתֿתׂת׀ת־תֽת׀תװתÛתßתותלתכתיתחת©û¨û§û¦û¨û«û×û§û¦û₪û¥û«û¬û©û¬û£û•ûûûˆû}ûxû}û€ûûûûû‘ûûûxûmûkûeûVûMûOûRûAû@û?û2û0û-û.û+û,û-û.û-û2û:û4û3û7ûBûSûbû€ûû³û½ûׁûבûדûלûפûנûמûכûדûױûֶû¾û¹û¬û›û“û‚û„û†ûû–ûûûûû˜û—û–ûûzû|û{ûzûzû|û~û}ûyûvûwû{û~û€û~ûwûsûoûlûjûkûnûsûwûvûrûmûkûlûlûmûlûlûlûjûhûiûgûgûiûkûmûmûjûgûeûdûeûdûdûgûwû…û…ûzûjûgûcûRûHû=û1ûûû!û$û*û2û6û>ûJûVû^ûdûcûaûaûaûbûcû`û\ûYû[û\û[ûYûYûZûYûVûWûZûdûmûkûhûcû`û_û^ûdûbûiûvû}û}û„ûû†û‚û‚û{ûmûcûbûfûdûbûdûeûeûeûeûdûdûcûcûdûdûeûdûcûbû_ûZûRûGû;û-ûûû‏תעתחתׁת־תֽתּתֽת׀תװתױת׃ת׀ת׃תײתÚתßתותלתלתלתךת¨û¦û¦û₪û§û©û«û§û₪û£û₪û¦û£û¥û£û›û‘û‹ûˆû~ûrûlûkûcû]ûhûuûjûbûdûdû^û_ûeû]ûOûLûNû?û;û6û$û!û&û'û$û&û*û+û)û&û#û&û"û&û2ûCûLûSûiûˆû—û®ûֻûװûÛûךûכûסûףûדûÙûֽû¿û÷û¶û×û•ûˆû‹ûûû‘ûûûû‡û†ûƒû€û{û{û}û€ûû€ûû~û~ûûû|û{û|û‚û†û„û|ûwûtûrûnûjûjûlûoûqûpûmûlûjûjûjûlûmûmûmûkûjûjûjûkûoûpûmûjûeûdûeûfûfûhû}û‘ûû“ûû}ûgûOûSûLû@û,ûûûûû"û+û5û<ûHûUû^ûcûbûdûfûfûdûcû_ûZûYû[û]û\ûZûWûVûVûVûUûXû[ûgûmûlûgûcû`û`û`ûcûgûkûoûvûvûxû~ûvûnûkû_ûSûOûOûOûNûMûNûNûNûNûMûMûNûOûRûQûRûVûVûQûWûWûOûCû9û,ûûûûצתךת׃תׂתׁתֽתּת־ת׀תׂתױת׳תÙתÜתÞתבתÞת״תױתׂת־ת§û¦û¦û¦û×û¯û­û«û¨û¥û¥û²û°û­ûû’û‰û‚û{ûlûcûaû_ûTûSûYû`ûWûYû_û]ûZû^ûdû[ûSûTûJû9û:û5û'û!û%û(û#û%û(û,û*û.û,û#ûû!û(û1û=ûHûaû{û†û›û°û÷û¼ûַûׁûֽûֻûִû÷û°û©û£û™û›ûˆûûû•ûû û›û”ûû‹ûûˆû„ûû|ûyûzû|û}û~û€ûûû}û{û}û€û‚û‚û~ûxûtûqûnûlûjûkûnûqûqûmûjûgûfûgûgûgûfûdûdûeûeûcûbûbûaû`û_û`ûdûdûcûbû`ûcûxûûû•ûû€ûjûMûFûCû8û.û'û&û&û*û1û9ûBûHûAûGûUû^ûdûhûmûkûjûsûtûrûqûpûqûpûpûqûqûpûpûqûsûtûsûpûlûiûgûgûgûgûfûhûfûeûgûhûgûhûhûiûgûZûNûNûOûNûLûLûLûNûOûNûMûLûNûPûPûRûTûWûPûFû=û9û<û5û-û!ûûû ûצתיתׂתׁתװת׃ת־תֽתֿתׂתױת׳תÜתßתבתדתבתÛתÚתÛתÜת¥û¦û₪û¡û¦û¬û±û²û­û₪û¡ûûû˜ûûûxûpû`ûVûUûVûXûPûRûZûSûPûTûRûPûTû]ûYûLûKûFû;û8û3û$ûûû#û!ûû!û&û*û2û3û4û1û1û2û6û/û4û@ûXûfûtû‹û›û™û₪û­û¬û­û¶û®û§û₪û ûû–û„û…û‰û‹ûû˜û ûû™û‘ûû‰û†û‚û~û{ûzûzûzûzû|û|ûzûyû{û{û{ûzûxûtûsûsûsûrûoûnûjûiûjûjûkûlûjûgûeûcûcûcûcû`û_ûaû^û\û[ûZûYûYû]ûdûiûgûhûiûhûcûjûûû˜û”û‹ûûkûRû5û7û-û&û$û"û"û'û2û9ûEûKûDûRû^ûcûiûlûlûiûeûaû]û]û]û]û^û^û\ûZûYûZû`ûiûjûaûYûQûMûKûJûKûMûQûSûSûUûZûeûgûgûgûiûjûhûgûeûhûjûkûaûPûNûNûNûNûNûNûOûQûSûSûSûQûWûXûRûJû@û5û&ûûûûסתÜת׳תÙת״תװתׁתׁתׂתÙתבתדתדתגתגתאתÞתÜתÛתÜתÜת₪û£û¢û₪û«û¶û¸û·û¯û£ûû˜û’ûû‡û{ûpûhû`ûYûTûSû[ûVûVûZûYûOûQûRûHû@û@û9û6û-ûûûûûûûûûûûûû$û'û-û,ûûûû"û/û/û3ûFû^ûqû€ûû”û’ûûûûûûû™û”û„ûû‚û…û†û‡ûˆûû˜û›û™û’û‹ûˆû†ûƒû€ûû}û{ûzûyûyûyûyûyûyû|û|ûzûxûvûtûsûrûrûoûlûhûeûbû`ûbûdû^û\û]û\ûYûYû[ûYûXûXûXûUûSûRûSûTûSû`ûfûaûaûcûbûXûaûpû„ûû‰û‚ûvûgûOû-û&û"ûûûûû#û+û4û?û>û?ûMûYû^ûcûfûfûeûdûaûZûWûWûZû[û\û]û]û\û]ûcûmûrûfûkûkûjûhûgûhûhûhûiûiûjûiûhûiûiûiûiûiûhûjûjûmûpûvûyû{ûwûgûXûYû\ûZûSûNûKûIûGûEûBû?ûBûAû:û0û#ûûûüתזת׳תÚת״ת׃ת־תֽתֿתװתÝתדתהתהתדתßתÞתÚת״תÚתÛתÚת¥û¥û¦û©û±û½û¿û·û¯û§ûûû—ûû†û‚û€ûqûoûaûSûKûEû>û<û<û;û9û7û8û8û8û6û4û)ûûûûûûûûûûûûûûû'û%û+û-û.û,û,û0û4û1û4ûCûYûdûlû|û„û…û‰ûû—ûûûû›û”û„û‚ûƒû…û‰û‹ûû—û™û“ûûˆû…û‚û~û~û|ûzûwûxûwûwûwûxûzûyûxûzûzûyûyûvûtûsûpûoûkûeûjûqûbû\ûZûZûUûQûQûSûOûNûOûSûOûNûRûQûNûNûOûNûLûNûPûMûKûQû[ûYûeûyû…ûûwûjûYû=ûûûûûûûû û&û0û9û<û8ûBûPûZû]û_û`ûaû`û^û[ûYûWûXûZû\û]û]û[û[û`ûiûuûnûaûXûRûOûPûRûQûQûRûTûUûUû`ûfûhûiûlûlûnûoûqûsûoûiûjûeûcûeû_ûXûZû[ûWûRûNûNûMûKûPûMûBû2û&ûûû ûכתױתÚתÛת״תױת׀תּתּת־תֿתװתÛתגתהתותגתאתÞתÛתÚתÚתÛת₪û¦û©û¬ûµûֲûֽûÊûְû°û û™û“û‹û~ûrûgûiûfûVûHûBû=û;û:û;û:û9û7û7û7û6û6û5û5û4û3û3û2û-ûûûûûûûûûûûûûûûûûûûû&û2û@ûNûbûuûzûƒûû“û“û‘û†ûˆû‡û„ûƒûû‚ûƒû‰û‹ûûûû‹û…û„ûƒû€û}û}û~û|ûyûwûwûvûuûuûyûzûxûzûzûxûxûxûuûrûoûjûcû]ûbûhû`ûYûWûYûJûMûNûEûEûGûNûFûEûDûDûDûCû@ûDûCûBûAûCûBûEûLûVûRûaûuû{ûyûsûhûWû;ûûûûûûûûûû(û1û7û4û?ûNûZû^û^û^û]û_û^û]û\ûYûXûYû[û[ûYûWûYû]ûcûaû^ûYûRûPûPûSûUûTûTûUû\ûcûeûfûgûiûjûmûoûoûqûsûuûwûsûkûiûaû`û^û_ûgûhûcû[ûRûKûGû?û5û)û!ûûûûûסת״תױתÙתÜתÙת״תױת׀ת־תֿת־תׂתÚתאתדתהתבתÜתײת׀ת׀תׁת׃ת₪û¦û©û¬û°û»ûִûֹûֲû²û¢û˜û’û‰ûzûmûnûfûWûIûAû<û:û;û;û<û;û:û8û9û:û;û9û4û#ûûûûûûûûûûûûûûûûûû*û+û+û,û+û,û0û5û/û6ûDû]ûcûkûiûvû}û„û†û…û…û†û‚û€û€û€û‚ûƒû†ûûû‹û‰ûˆûƒûû~û}û|û{ûzûyûwûvûuûuûuûwûvûtûvûwûxûxûtûoûnûlûfûcû`û]ûUûSûWûVûLûMûQûLûDûDûHûDû;û<û?û5û.û1û2û*û)û.û-û(û)û+û0û1û7ûHû[ûcûkûkûcûXûEû+ûûûûûûûû û'û0û8û3û?ûMûWûZû[ûZû[û^û^û_û`û_û[ûYûZû[û\ûXûUûWûXûZûYûVûSûRûSûUûVûUûUûUûSûPûPûQûVûbûmûnûqûrûuûvûoûcûjûtûyûyûuûpûjûoûyûpû`ûNûEûAû=û4û1û.û&ûûûûשתכת׃תױתÚתÙת׳ת׃ת־תּתÊתÊתֹתֽתׁתׂתÚתאתאתÞתÜתÜתÝתÞת¢û¥û¨û©û«û°û¼ûְû±û¢û—ûû„ûxûkûjûeûUûHû>û:û3ûûû û'û*û)û&û'û+û9û:û9û5û3û3û2û2û2û2û0û.û*ûû'û)û&û#û û(û*û*û)û*û)û)û)û)û,û1û7û=ûIû]ûeûdûmû|ûƒû†û„û…û…û„û‚ûûûûƒû…û†û‡û‡ûˆû…û‚ûû~ûxûxûzûyûxûwûvûvûuûwûxûxûuûuûwûxûyûwûrûlûfûgûcû]ûWûPûOûGû@û@ûBû9û3û3û2û)û'û*û*û.û*û"û%û$û&û1û+û*û4û3û2û6û8û:û>ûIû[ûaûaûXûKû8û!ûûûûûûûûû!û,û5û.û7ûGûOûUûYûXûXû[û[û]û_û_û]ûYûVûWûWûUûUûTûSûRûSûRûSûUûVûXûZûdûgûgûfûgûgûgûgûjûmûrûxûzû{û|ûpûqûƒû‰û‰û†ûƒû|ûrûnûtûmûbûZûbû\ûTûLûDû9û*ûûûûצתנתלתיתטתחתזתהתדתגתבתבתאתבתאתאתßתÞתÞתÜתÛתÛתÜתÜת¡û¢û¡û ûûûûû›û”û‹û‚ûxûpûfûeûdûYûJû=û:û8û0ûûû"û&û&û(û-û2û2û:û7û5û4û4û4û3û3û3û0û/û.û,û(û3û2û(û û&û-û-û,û,û+û*û*û+û-û2û;ûCûMûZû`ûaûkûxû‚û„û„û„ûƒû‚û‚û‚û€û€ûûû€ûû~ûûû}û|ûzûwûvûwûxûxûxûvûwûwûwûxûxûvûvûvûxûzûxûsûmûdû`û_ûYûLûFûGû7û.û*û+û&ûûûûûûûûûûû ûûû&ûû!ûûû#ûûû,û)û/û8û>û8û2û-û ûûשתקתקתרתüתÿתûûûû+û2û.û8ûDûOûUûUûWû[û]û`û`û`û]ûZûXûXûWûUûVûUûSûQûOûQûTûUûWûYû[û_ûgûfûgûgûgûhûjûbû[ûaûfûkûmûkûpûûû‘ûûû‡ûûpûfûgûiû_û\û`ûXûOûGû=û3û&ûûûûקתנתםתלתךתזתחתזתדתדתגתבתבתבתאתאתאתßתÝתÜתÚתÙתÚתÚת¡û£û¢û¢û¢ûûû ûûûˆû}ûrûfû\û[ûUûEû7ûûûûûûûûûû û#û(û0û6û7û5û0ûûûû,û4û2û0û.û*û*û7û:û7û(û!û*û+û+û*û)û(û'û'û)û,û2û:ûBûOû]ûXûcûoû|ûû„û„û‚û€ûû€ûû€û€ûûû~û|û|û}û|û{ûzûwûwûxûwûwûvûtûuûuûwûxûwûvûtûsûuûxûxûuûqûhû`û]ûWûZûCû4û0û,û#û#û+ûûûû!ûûû û$ûûû ûûûûûûûûûûû#ûû&û#û&ûûû
+ûûרתץתץתצתתת‎ת‎תÿתûûû+û2û+û2û>ûKûRûSûUûYûZû]û^û]ûYûVûTûRûRûRûQûOûMûMûMûMûOûRûTûXûZûcûfûfûeûeûfûgûiû`û_ûkûrûuûwûrûuû€û’ûûûƒû|ûsûlûrûoûhûeûaû]ûVûNûFû=û2û%ûûûûצתנתמתלתטתזתזתהתגתגתבתבתבתבתבתבתבתאתÞתÝתÛתÚתÚתÙת₪û¡ûûû—û–û•ûûûˆûûwûsûtûnûaûQûCû,ûûûûûûûûûû!û"û%û,û/û4û6û5û6û8û8û8û6û4û0û.û+û.ûEûRûRûIû8û(û/û+û(û'û&û&û&û'û)û.û6û@ûMûYûZû\ûlûyû€û‚ûƒû‚ûƒûƒû‚û‚û‚û‚û~û}û~û}û|û}û~û~û~û|ûzûxûxûxûwûvûvûwûxûyûzûwûuûsûuû{ûyûoûsûrûiû\ûRûGû9û.û(û"ûûûûûûûûûûûûûûûûûûûûûûûûûûû	ûûûûûûüתפתצתצתצתקתûתÿת‏ת‎תûûû"û û%û1û;ûCûLûRûWû[û]û\û\ûZûXûVûUûUûUûSûRûQûPûQûPûOûQûTûYû[ûXûTûQûNûNûRûSûRûWûfûwû€ûƒû…ûûxû|ûû‘ûû„û}ûsûgû[ûVûUûNûJûBû9û5û9û2û&ûûûתתזתÞתדתיתיתחתהתדתגתבתאתאתאתבתבתבתאתבתגתבתßתÛתÚתÙתÙת–û•û’û‹ûˆû‰û‡ûû}ûyûsûiûiûgûdûVûIû7ûûûûûûûûûûûûû#û+û,û'û ûû#û)û-û1û8û6û2û/û-û0ûJûYû^ûZûMû1û+û.û,û*û(û'û'û'û(û+û0û7ûDûOûVûUûaûqû}ûûû€ûûûûûû‚û€û€û€ûû}û~ûûûû~û}û{ûxûyûxûwûwûxûyûyûyûwûwûvûtûvûtûnûqûkûcûZûQûEû;û3û+û"ûûûûûûûצתסתסתסתסתףתץתשתûת‎תüת‏תûûûûûû
+ûûûûûûûûפתץתרתרתצתץתשת‎ת‎תûתû	ûû ûûû-û3û8û?ûJûQûUûXûYûZû[û[ûXûWûWûWûVûUûTûUûTûRûQûRûTûWûZûVûUûRûOûNûPûTûXûaûlû€û‹ûûû†û~ûyûûˆû‹û†û{ûtûjû`ûZûUûPûIû>û3û(û ûûûûקתאת׳תÚתÜתÝתהתדתבתבתגתגתבתאתßתאתבתגתדתותהתהתהתאתÝתÛתÜת”ûûû—û–û•ûûû‡ûƒûyûuûnûdûWûLûAû3ûûûûûûûûûûûûûû#û+û,û,û/û4û4û1û3û4û0û,û*û9ûTûfûmûjûeûZûBû&û-û-û+û)û(û(û'û'û)û,û1û:ûDûOûXûXûgûxû‡ûûû‘û’û’û’û’û‘û‘ûûûûûû‘ûûûûûûûûûûûûûûû‹û‰û‡û„û€ûyûqûjû_ûUûNûEû<û5û-û'û!ûûûûûûûûûסתןתמתםתןתעתצתקתץתקתשתרתüת‏תûûûû	ûûûûûû	ûû	ûûûûץתשתתתüתüתûûûûû%û%û)û3û?ûKûOûQûTûVûWûYûXûTûSûRûSûTûUûVûTûRûQûPûQûTûTûTûTûRûOûMûLûOûSûXûeûvû†ûûû‹û~ûtûmûoûrûoûiûaûXûOûIûEûAû;û5û:û6û+ûûûûפתגתׁתױת״תײת׀תֻתַתַתַתֶתָתֹתַתֵתָתֽתׁתױתÚתהתהתבתÞתÝתÜת„û…ûû‹ûûû‰ûƒûûyûuûlûbû]ûQûFû?û=û=û=û=û=û<û9û5û$ûûûûûûû#û*û)û+û1û2û3û6û4û0û/û/û?ûYûnûvûsûkû_ûOû7û%û,û)û(û(û(û'û(û)û*û.û5ûAûPûaû\ûeûwû}û~ûûû€û€û~û€ûû~û~û€ûû~û}û}û~û~û~û}û~ûˆûûûûûûûû‹ûû‰ûˆû†û„û€ûzûtûlûaûVûKû?û2û&ûûûûûûûûûûûûû
+û	ûûûûûûûû	û
+ûûûûûûû	ûûûûûûüתûûûûû‎תûתצתצתתת ûûûûûû'û)û-û9ûHûLûPûSûUûVûXûXûWûYû[û\ûXûUûQûNûMûOûPûRûQûRûSûRûMûKûIûNûTûVû`ûlûzûƒûˆûûzûƒûû}û}û{ûyûvûpûjûeûaû[ûTûKû?û0û!ûûû‏תסתßתּתֿת׀ת־תֻתֶתֳתֳתֵתָתּתׁתּתָתֹתׁתװת׳תÛתגתהתגתאתÝתÜתxû|ûû{ûwûvûiûmûmûjûdû_ûZûXûQûHû@û=û<û;û;û;û:û9û7û4û'ûû#û"ûûûû û)û1û2û2û0û/û.û.û0û+û9ûOûaûmûmûcûXûJû3û'û)û(û'û&û&û#û&û(û)û.û6û=ûLûZûTû_ûnûxû~û€ûûû€û€û‚û‚ûû~û€ûû}û}û}û}û|û{ûyûzû~û|ûzûzûzûyûyûwûvûwûyûwûsûmûeûYûOûIûLûBû4û(ûûûûûûûûûûûûûû	ûצתטתיתךתכתםתמתמתנתץתרתתתûתשתקתפתןתיתיתמתףתפתןתעת‏תûûûûûûûûûûûûû!ûûûû&û/û9ûBûJûPûRûUûZûdûnûkûfû_ûXûUûPûMûLûLûMûNûPûPûRûSûPûMûJûNûUûZûbûnûyûû‚ûyûnûgûcûfûcûcû^ûWûQûLûIûFûBû;û1û)ûûûû	ûתתכתÛתּתׁתױת׃תּתֶתֱתֱתֶתֽת׃ת־תÊתָתֽתױת״תÜתÞתאתהתבתÞתÝתÝתqûsûqûhû\ûMûKûFûKûRûNûGû8û8û>û>û;û:û:û;û;û;û:û9û7û2û,û<û?û5û*ûûû"û(û*û1û1û0û0û/û.û/û1û4ûGûXûlûnûdû[ûOû8û ûûû	ûûûûû%û'û*û/û7ûCûNûWûTû_ûlûvû}û~ûû~û{û{û}û}û|ûzûwûvûxûyû{û{û{û~û„û„û€û}û|û|ûzûyûyûxûxûyûxûvûwûxûqûhû\ûQûDû4û'ûûûûûûûûûûûûûûûûךתזתזתזתזתחתיתםתנתפתרתשתצתםתחתחתיתיתיתךתכתםתףת‏תû'û*û$ûûûûûûûûûûû$û-û1û+û*û0û9ûDûKûOûRûWû`ûlûmûhûaûYûRûNûKûKûKûJûKûLûLûKûMûNûKûMûQûVûWûZû_ûgûfûfûcû_û\ûZû[û]û[ûWûTûPûJûHûFûBû9û/û$ûûûûûףתות־תֻת־תׂת׃תֿתֹתֵתֱתֱתֵתֿת׀תֻתָתֹת׀תױתÙתÙת׃תַת¿ת¾ת¾ת¾תoûiûdû_ûZûOû@ûCûJûFûEû@û;û=û=û;û<û<û<û>û@û?û=û3û û)û7û>û>û5û+û ûûû$û,û1û1û0û0û0û/û.û.û/û:ûLû\û^ûZûQûCû/û'û*û(û'û&û&û%û%û&û'û)û+û2û=ûMûUûQû[ûiûwû}û}û}û|ûzû|ûû€ûû}ûyûwûxû{û}û}û}ûû„ûƒû‚û~û}û}û|ûzûxûwûvûvûtûmûeû\ûZûXûPûDû6û)ûûûûשתכתכתםתנתקת‏ת ûûûûûûûûûûû‏תיתךתכתםתםתנתםתטתטתךתלתלתלתםתמתעתשתû+û4û3û*û!ûûûûûû	ûûûûû"û'û-û7û8û-û4û@ûJûOûVûcûpûrûkû^ûTûPûNûLûKûJûHûIûHûHûHûIûJûJûJûMûOûSûUûVûVûZû`ûjûlûiûdûdûgûeûcûbû_û]ûYûRûKûAû7û-û"ûûûûתןתות׃תָתּתׁתׂת׀תּתַתֲתֱתֶתֿתװתÜתÝתÝתÝתÝתßתÞתÜתÛתÚתÙתÚתÙתpûjû`ûYûSûFû8û=û@û=û9û7û7û:û;û;û9û+û&û/û.û(û#û û!û)û6û<û@û:û1û#ûûûû%û&û0û0û/û/û.û.û.û,û4û>ûMûKûHû=û.û%û+û)û(û(û'û'û&û'û&û%û'û(û,û6ûDûRû`û`û`ûnûxû}û|ûzû|ûûûûûû{ûyûxûyûzû{û}ûƒûûûûûûûûûûû‰ûˆû…ûûvûkûcûXûKû=û-û"ûûûûû	ûשתכתםתסתשתÿתûûûûûûûûû‏תחתהתזתזתחתיתיתטתחתחתךתלתלתםתמתנתפתעתרתû'û5û3û(ûû
+ûûûû	ûûûûûû&û-û4û3û+û1û;ûFûNûVûbûmûoûiû`ûVûQûQûQûQûOûMûMûPûOûMûOûNûMûMûMûLûNûRûSûSûTûXûZûYûWûTûSûRûPûMûKûHûDû?û8û.û'û'û&ûûûûקתםתזתÜתֶתַתֻתֿתׁת׀תּתֹתֹתֽתׂתÜתÝתÜתÝתÜתÜתÜתÛתÚתÙתÙתÙתÙתÙתdû_ûXûPûJûEû?û9û5û/ûûûû û û û!û!û(û1û3û.û(û$û#û'û1û9û=û8û0û%ûûûû'û1û3û2û1û1û0û.û.û.û(û(û2û/û)û-û.û+û(û(û)û)û*û)û(û'û'û'û'û'û,û7ûDûRû_û^ûcûqûyûzûyûzû|û€ûû‚ûû€û~û|ûzûyûyû{û|û€ûƒû‹ûûûûûûûû‹ûˆû„û~ûvûkûaûVûJû=û2û'ûûûûûûûûûûûûûûûûûû
+ûûûûûûûûûתטתטתטתיתחתותזתטתכתכתכתסתץתףתתתû!û&ûûûûûûû	ûûûûûûû û&û+û3û<û>û5û@ûJûRû_ûlûmûhû^ûVûUûVûTûQûNûLûOûQûPûPûNûLûKûJûJûKûMûNûRûSûTûWûXûXûWûSûRûQûOûKûHûFûFûLûIûBû7û)ûûûûצתחת׃תÞתגתֿתֲתֳתֵתֹתּתֽתֹתÊתׁתÜתÝתÝתÝתÝתÜתÙתֶת½ת¾ת¿תְת½ת»ת÷תYûNûFû<û4û,ûûûûûûûû"û û û"û#û+û4û8û4û1û*û&û(û1û6û9û5û.û$ûûûûûûûûû!û+û0û.û)ûûû!û#û)û.û.û-û*û(û*û*û*û*û*û)û)û'û%û$û+û4ûBûNûPûQû`ûmûsûwûxû}û„û‹ûû‹û‰û†û„ûû~û|û|û}ûû‚û„û€û}û|û~û~û~û}ûƒû‰û‰û‡ûûxûoûfûZûMû@û5û)ûûû ûןתנתנתסתםתמתסתץתתתûûûûû
+ûûûûûûûûצתזתחתךתךתטתיתטתחתטתכתלתמתעתףתרתûûûûûû
+ûûûû
+ûûûûûûû%û-û3û8û.û4û>ûIûQû\ûbûbû^ûXûVûWû[ûZûVûTûRûRûRûRûQûOûMûMûKûIûKûLûMûPûTûUûUûTûQûPûRûQûMûJûHûGûDû?û9û2û)û'û%ûûûûץתßת״תÚתאתאתָתֳתֵתַתֹתּתּת־תֿתÊתִתֱתְתֱתֱתֳתִתֳתֶתֹתַת¿ת÷ת¶תCû9û-ûûûûûûûûûûû"û!û û"û$û)û4û:û6û1û+û$û%û-û4û3û/û(û ûûûûû#û%û#û"û#û"ûûûûûû/û3û5û2û/û-û*û*û+û*û*û,û,û+û)û'û%û&û+û5ûAûJûHûLûXûdûpûwûxû€û†ûû‘ûûû‡û„û„ûû|û|ûû‚û‚û…ûû’û“û”û–û”ûûûûûˆûûvûoûeûXûKû>û1û%ûûûûמתןתסתעתסתעתעתעתקת‎תûûûûû	ûûûûûûûûנתותזתטתטתטתטתחתטתחתטתלתפתתתüתûûûû ûûûûû
+ûûûûûûû û$û*û4û?ûGû<û;ûFûOûUûXûVûWûUûUûWû[û[ûWûTûUûVû]ûdûdûeûdûdûdûdûdûdûcûdûdûcûcûbûcûcûdûbûbûaû^û\ûZûVûQûJûAû8û+ûûûûצתגתהתאתײתַתֲתֲתִתַתָתÊתÊתÊתָתִתֱת½ת½תְתֹת־ת־תֻתֿתׁת־תֶת¿ת÷ת1û+û!ûûûûû	ûûûûûûû!û û û"û*û5û9û4û.û$û û!û(û,û*û&û!ûûûûûû(û,û*û(û&û"ûûûûû û.û/û/û/û-û+û*û*û,û,û-û-û+û)û'û%û$û%û)û3û=ûDûIûCûLûWûfûpûvû{ûƒû‹û“û–ûûû‡û…û€û{ûzû}û€ûƒûû“û”û–û—û•û•û‘ûûûû‰û‚û{ûtûhûYûLû>û/û"ûûûרתסתפתרת‎ת‏ת‏תûתקתקתשת‎ת ûûתצתסתלתיתחתטתךתךתטתטתחתזתיתכתםתןתכתךתךתיתהתזתנתüתû
+ûûû	û
+ûûûûûûûûûû û$û(û-û1û8û7ûLûPûMûJûLûLûLûMûMûOûRûTûTûUûUûSûSûSûSûTûSûRûNûNûLûJûIûIûJûKûKûKûMûMûLûMûMûKûJûHûGûEû@û6û/û'ûûûûûûûתחתÝתםתךתותטתהתגתבתבתבתßתבתגתÞתֹת½ת¼ת¾תֱתֹת׀ת׃ת׃תױתײתֽתֵת¾ת¼תû	ûûûûûûûûûû	ûû&û5û9û<û>û=û>ûAûBûAû<û7û)û û%û&û%û"ûûûûûû(û.û-û)û&û!ûûûûûûûûûûûûûûûûûû%û)û'û$û"û%û*û1û:ûCûPû^ûcûZûfûrû|û„ûûû“ûûû™û—û–û“ûûûûûûû‘û”û—û˜û—û—û™û˜û”ûûû‚û{ûtûgûXûIû;û-û ûû
+ûץתכתםתמתפתרתüתüתשתצתפתרתûת‎תûתצתסתכתיתכתלתןתץתפתנתלתכתנתפתץתקתרתצתןתךתזתךתפת‏תûûûû
+ûûûûûû û$û'û+û/û1û3û6û;û=û9ûQû`ûYûOûMûMûMûKûKûNûRûTûSûRûRûTûUûTûQûPûQûQûNûLûJûIûJûOûUû`ûiûfûeûeûdûdûdûcûcûbû_û\ûVûOûIûAû7û*ûûûûעתÜתßתזתכתכתיתותהתהתדתגתגתדתדתדתדתהתגתÜתÊת¿תֵתֿת׀תֿתֻתֲת÷ת·ת¶ת)û&û#ûûûûûûûû!û$û'û.û5û9û:û<û=û=û>û>û<û9û5û.ûûûûûûûûûûû(û/û1û:û;û8û4û.ûûûûûûûûû
+û
+ûûûûûû&û(û'û$û#û$û)û/û8ûCûQû`ûiûdûfûrû{ûƒûˆû‹ûû“û”û•û“û“û’ûûûûûûûûûƒû‹û™û”ûˆûû–û‘û‹ûƒûyûnûbûTûFû9û+ûûûûנתךתךתכתלתןתפתתתתתרתץתץתקתתתתתקתפתןתךתכתלתמתעתץתפתנתמתםתסתףתצתרתתתÿתûûûûûûûûûû
+ûûûû'û.û2û3û6û8û;û<û?ûAû@û;ûLû_û]ûTûQûQûPûKûHûJûLûMûNûMûNûPûNûMûJûIûKûKûJûJûIûIûKûOûTû[ûfûfûeûeûdûdûcûbûaû_û\ûXûRûLûDû;û.ûûûûעתÙתÛתטתםתלתיתותדתדתגתאתאתאתבתבתßתאתגתגתאתÞתÜתÝתßתאתגתדתבתÞתÜתÚת&û$û!ûûûûûûûû!û%û)û/û5û8û:û;û;û;û=û<û:û8û5û3û-ûûûûûûûûûû"û.û0û5û8û4û0û.û,û,û,û,û+û*û(û(û(û'û(û)û'û'û'û&û%û%û#û#û&û)û1û;ûFûUû`ûcû\ûfûqû{ûˆû“û•û–û–û—û–û”û“û‘ûûûûûûûûû’û¦û±û¯û©ûû’û–ûû‡ûûyûmû_ûRûCû3û%ûûûû
+û
+û
+û
+û
+ûû
+û	ûûסתלתנתפתתתûתפתםתךתיתכתןתרתשתקתסתמתמתנתסתףתץתרתקתןתיתךתףתûûûûûûûû%û,û4û8û<û@ûBûCûCûDûEûEûFûCûCûXû_ûaûdûcûYûPûMûMûLûJûJûKûLûMûJûIûIûJûKûMûMûNûMûLûMûPûVû^ûfûfûeûdûcûdûcûaû`û]ûXûSûNûFû<û/û!ûûûקתותײתדתטתßתחתחתהת״תִתִתֶתֶתֶתֶתֹתֽתׂת־תֹתֳת¿תֱתָתֿת׃תÝתותותהתבתÞת"û ûûûûûûûû!û#û ûûû+û4û7û9û:û;û:û:û9û6û4û4û3û3û3û3û2û2û1û-ûûû û+û.û5û4û2û.û,û+û*û*û)û)û(û(û(û'û'û'û'û'û&û&û&û&û&û&û&û(û/û9ûEûRû_ûcû[ûgûsûzû€ûƒûƒûƒû€û~ûûû~û|ûxûwûxûyû|û€û‚û‚ûû–û®û»û¸û°û₪û’ûûûˆû€ûwûkû`ûRûBû3û%ûûûû
+û	û	û
+ûûû
+û	ûûûץתיתםתפתרתשתעתםתךתךתנתקתתתשתפתןתםתןתסתעתפתûתûûûûûûûûûûû"û,û5û<ûBûEûHûJûLûMûMûMûMûMûMûLûEûOû]ûaûhûmûaûUûOûMûMûIûHûHûHûIûHûHûHûGûHûIûKûNûOûOûPûUûWûZû]ûdûeûdûbûbûcûaû^û[ûUûOûFû:û,ûûûûצתזתׁתײתÞתגתותחתזתבתֽתֲתֳתֶתֶתִתֳתָתׁתײת׃ת־תָתִתֹת׀תװתÜתזתטתזתהתגתאת ûûûûûûû"û&û(û*û+û,û0û2û3û6û7û7û9û9û8û8û5û3û3û3û2û2û1û1û1û1û0û1û2û3û4û4û3û2û/û-û,û+û+û*û)û)û(û(û'û&û&û&û&û$ûûû	ûûû%û%û(û1û;ûGûSû`ûeû\ûdûpûyû~ûûûû|û{û|û|û|û|ûxûvûuûuûyû}ûû}û…ûû³ûֱû¿û³û§û™ûûûûƒû{ûrûgûYûIû8û(ûûûûûûûûûûû	ûû ûכתטתכתסתצתץתנתמתמתלתמתצתüתûת‎תûûûûûûûûûû	û	ûüת‎ת
+ûûû"û(û0û8û>ûDûKûOûRûTûUûXûXûXûZûWûKûCûKûTû^ûeûaûZûRûOûNûKûFûFûGûHûIûHûJûJûIûJûKûNûPûQûRûRûTûSûTûVûQûOûQûTû]û`û^û[ûVûQûKû@û3û*û!ûûûûתןתßתׁתÚתגתחתזתדתגתבתבתßתßתÞתÛתֽתַתֻתֽת־תÊתֹתÊתֿת׃תױת׳ת״ת״תײת׀תֹתֲת
+ûûûÿתÿתûûûû&û-û/û.û.û0û1û4û6û6û7û7û7û7û5û3û3û3û2û2û2û2û2û1û1û2û3û4û4û1û2û1û/û,û+û*û)û)û(û(û(û'û'û&û%û%û$û!ûûûûû"û&û+û4û@ûKûVû`ûkûjû`ûkûvû{û~ûû~û|û|û{û}û~û~û}û{ûxûxû{û}û€ûƒûûƒû”û°ûֱû¿û´û¨ûûûûˆû€û{ûtûiû]ûLû=û-ûûûûכתכתנתקתûתûûûûפתותזתטתלתףתפתסתמתמתןתנתרתüתüתÿתûûûûûûûûûûûשתûûû&û'û(û+û1û8û?û=û=ûLûWû[û\û]û]û_ûaûaûcûfûgûjûkûlûkûiûgûeûdûcûbûbû`ûaûcûdûdûeûeûeûeûdûdûdûdûdûdûdûdûdûbûbûbû`û`û`û[ûYûTûMûEû>û3û)ûûûûצתכתחתזתותזתהתבתבתאתßתÞתÝתÝתÜתÜתÛתױתֲתֱתֵתֳתֲתֳתָת־תױת׳תÙתÚת׳תׂתֻתֵת
+ûûûûûûûû û.û2û3û2û0û1û2û4û5û5û0û1û5û6û4û3û2û2û2û1û1û0û0û0û/û1û3û3û4û4û3û0û.û,û+û*û*û*û)û(û'û'û&û%û%û$û$û%û%û#û#û"û#û%û+û5ûCûOûYûbûjûgû]ûfûrûyû{û|û|ûzûyûzûûûû|û|û{û{û|û{û|û~û}ûƒû’ûû®û³û«û¢û—ûûû‹û…û€ûzûrûfûUûDû6û$ûûûמתמתףתûת‏תû	ûûûûûûûûûûûûûûûûûûûûûûûûûûûû	ûû‏תûû+û0û1û3û8û@ûDû8û6û>ûCûEûEûEûFûGûFûFûFûGûMûRûTûVûTûRûPûMûMûKûIûIûJûKûLûLûKûMûOûOûOûNûOûOûQûOûOûNûNûOûOûMûNûQûNûKûIûHûLûNûJûFû>û4û(ûûûûףתיתותותותהתדתאתאתßתÞתÞתÝתÝתÝתÜתÜתÛתװתְת¾ת¾ת¾ת¿תֳתֹתׁתײתÛתÝתÚת״תװת־ת
+ûû
+ûû û ûûû)û5û:û9û8û7û5û5û7û7û6û6û5û5û5û3û3û3û2û2û2û1û1û1û1û1û1û4û5û6û6û5û2û/û,û+û+û*û*û*û)û(û'û'û'û&û%û%û%û%û$û$û#û#û#û)û6ûAûNûYûbûgû^û`ûlûvû{û{ûyûxûxûzû~û†û‰û„ûû|û}û|û|û{û~ûû€û€û„ûû¥û¦û£ûû’û‹ûûû†û‚û|ûtûiû\ûMû=û*ûûûףתסתקת‏תû
+û	ûûû
+ûûûû	ûûûûûûûûûûûûûûûûûûûûûû ûûû û,û4û7û:û@ûGûCû9ûCûJûMûMûKûLûLûLûJûLûLûMûOûQûSûSûRûPûOûMûMûLûJûIûIûJûLûMûNûNûNûPûOûNûLûMûPûSû`ûbûaû`ûaû`û`û_û^û^ûYûTûRûOûFû>û3û(ûûû‎תסתיתחתותהתהתדתבתßתßתÞתÝתÝתÝתÜתÜתÛתÛתÛתÛתÛתÛתÛתÚתÙת׀תֶתֽת׳תÚתÚתײתׁתֽתַתû	ûûûûûûûûûû ûû#û0û+û/û7û8û6û5û5û6û6û5û5û4û4û4û4û3û3û4û5û5û5û5û5û5û3û/û,û*û*û)û(û(û'û&û&û&û&û&û'û'û&û%û%û%û%û$û#û$û,û:ûEûRû_û]ûXûcûoûwû{û{û{ûxûuûwûxûzû~û„û„ûûû|û{ûzû{û~ûƒû„ûûû‡û”û•ûûûûû‹ûˆû†ûûzûsûeûXûHû;û.û#ûûûûûû	ûûûûûûקת	ûûûûûû	ûûûûûûûûûûûûûûûûûÿתûûû&û4û:û=ûAûEûHû>û=ûJûOûQûSûRûPûOûPûPûQûRûRûSûUûVûTûRûQûQûQûPûNûMûKûIûJûKûMûPûRûQûOûPûOûMûNûPûSûRûOûKûKûLûLûLûLûKûJûIûCû>û7û.û,û-ûûû‏תלתאתזתותדתדתדתדתגתאתßתÞתÝתÝתÝתÜתÜתÜתÜתÛתÛתÛתÚתÚתÚתÙתװתֵתָתׂת״תÝתבתאתÙתִת
+ûû	ûûûûûûûû%û-û.û-û*û1û0û&ûûû!û2û6û6û5û6û5û4û3û2û2û2û2û2û2û2û3û3û3û4û3û.û+û+û*û)û)û&ûûûûû"û(û(û&û#û"û"û"û"û#û*û6ûDûOûZûgûlû`ûeûoûvûzû}û~û}û{ûzû{û{û~ûûƒû€û~û{û{û|û}û~ûƒû…û…ûƒûû’û“û’û‘ûû‹û‰ûˆû†û„û€ûzûqûeûVûGû9û-û!ûûûû
+û	ûûûûûûת‏תûüתשתצתתתûתû
+ûûû ûû ûûûûûûûûûûûüתüתûûûû*û9ûDûKû?ûJû_ûhûiûjûjûiûjûiûiûjûkûkûkûmûlûkûmûlûkûiûhûiûhûfûiûkûsûsûmûfûTûPûOûMûNûLûJûJûLûPûLûJûJûJûIûIûIûGûEûBû:û2û)û(û&ûûû ûןתÛתגתאתדתהתגתגתגתדתגתבתßתÝתÝתÝתÜתÜתÛתÛתÛתÛתÛתÚתÙתÙתÙת׳תַתֲתÊת׀תÜתÝתÛתÛתÙתû
+û	ûûûûûûû0ûAûGûGûBû;û:û5û(ûûûûûûûû!ûûûûûûûûû"û*û-û-û/û0û-û+û*û*û*û*û*û(û$ûûûûûû&û'û$û"û"û!û!û!û%û3ûHûXûdûlû`ûdûoûwû{û~ûûûû}û{û{û|û}û€ûûû}û{û|û}û~ûûƒûƒûˆû‹ûûûûûû‹ûûˆû‡û†û„ûûzûsûiû\ûKû@û4û)ûûûûûûûûûûקתûûüתצתûת û û‏תûûÿתûתûûûûûûûûûû
+û	ûüתûûûû&û;ûNûJûSûIûFûOûSûSûSûSûTûRûRûRûRûTûWûWû[ûYûVûUûSûQûSûUûSûOûMûMûQûWûXû[ûcûjûVûMûLûLûKûJûIûIûMûMûKûIûIûIûJûIûGûBû:û2û(û û"ûûû ûסתÜתװתÝתגתדתגתדתדתהתהתדתגתאתÞתÝתÜתÛתÛתÛתÚתÛתÚתÚתÚת״ת־ת÷ת»ת½תְתֶתֽת״תÛתÚת״תײתû	ûûûû	ûûûû-û?ûLûIûCû:û4û2û6û4û/ûûûû&û*û'û!ûûûûûûû$û)û,û-û-û0û/û-û+û)û*û*û*û*û&ûûûûû"û#û'û%û"û û û û"û'û1û@ûQû^ûeûZû^ûhûsû{ûû€û€û€û€û}û{û|û}û~ûƒûû~ûzûyûzû|û}û|û|ûzû|ûû‰û‰û‰ûˆû‰û‰ûˆûˆû‡û…û„û‚û|ûtûhû^ûTûHû;û0û'û#ûûûûûûûûûûûÿתûûûûûûûûûûûûû	û	û
+û
+û
+ûûûûû û)û+û"û.ûDûUûJûBûEûNûUûXûWûUûSûSûRûPûQûTûUûWû[û_û_û]û]û[ûYûVûSûSûSûTûUûXûcûnûsûnûjûrûgûOûLûKûJûHûGûIûLûLûJûHûGûHûGûDû?û7û-û$û#ûûûûüתןתותגתבתדתגתגתגתדתותזתחתזתדתאתÞתÝתÜתÜתÛתÛתÛתÛתÛתÚת״תֿת÷ת÷ת¼ת¿תִת־ת׳תÙת״תײתװתû
+ûûûû	ûûûû+û=ûEûBû@û9û2û6û4û3û-ûûûû$û*û*û#ûûûûûûûû"û#û,û.û.û*ûûûûûûûûû
+ûûûû û"û(û&û#û"û!û"û&û1û?ûNû^ûhû`ûbûnûxû~ûû‚ûƒûûûû{ûyûzû|ûûûû}ûwûuûwûxûwûvûvûwûxûwûvûvûtûsûtûuûsûqûoûpûqûpûlûrûsûkû`ûUûGû9û1û.û+û,û+û+û+û*û*û*û*û&û ûûû#ûûûûûûûûûûûûûûûûûû û$û+û2û6û.û8ûHûVûRûKûKûPûSûWûWûUûTûSûTûRûRûSûTûTûXû\û]û\û^ûaû\ûXûWûWûYûZûXû[ûnû„ûûûyûsûwûeûMûLûKûIûFûFûGûHûIûIûIûIûFû?û8û-û ûûûûûרתםתחתותהתהתהתדתדתדתהתחתיתכתכתיתותגתÞתÜתÜתÜתÝתÞתÞתÝתÜתÛת׳תֶת¹ת÷ת¼ת¿תֵתַתִת½ת¸תµתûûû	ûûûûûûû.û=ûAû?û<û0û%ûûûûûû$û)û&ûûûûûûûûûûûûûûûûûûûûûûûûûûûû û"û(û%û"û!û"û&û0û;ûFûTûcûoûkûbûmûyû€û„û†û…û†ûƒû}ûxûxû|ûûûû~ûzûvûvûwûxûuûwûyûxûyûxûyûyûxûwûyûƒû‰ûû‹û‰û‡û…ûû|ûuûnûeû\ûSûMûHûEûBû?û;û8û6û4û2û1û-û)û%ûûû!û%ûûûûûûû û"û%û&û(û)û)û*û,û-û-û/û4û8û;û>û3û=ûOûUûVûRûRûUûZû[ûXûYûXûZû[û[û\û]ûZûXûYûZû[û]û^û[ûYû[û[ûXûXûXûWûbûwû‹ûûûtûfûXûPûKûIûGûFûGûGûGûHûGûCû?û9û1û*û-û'ûûûûûץתלתחתהתדתדתגתגתגתגתדתחתךתםתמתלתיתחתגתßתßתבתבתדתדתבתßתÛת׳תֵת¸ת÷ת»ת»ת¿תֳתֵתֱת»ת¶תûûû
+ûûûûûûû"û.û<û;û2û)û"ûûûûû#û-û0û*û#ûûûûûûûûûûûûûûûûûûûûûûûû!û"û"û"ûû"û$û#û&û+û5û?ûKûUû`ûjûjû\ûeûqûyûû…û‹ûû‹ûû‡û~û{û}ûû†ûˆû„û€û|û|û|û}û{û|ûû„û‚û|ûyûzû}û|û|û~û~ûû{ûxûvûsû{û|ûzûtûjûaûWûSûMûIûHûFûBû@û=û:û7û5û3û0û-û'ûûû$û"û'û(û)û*û*û,û/û2û4û4û4û5û5û6û7û6û7û8û:û=ûBû>û>ûOûSûUûVûXûYûZû]û_û^ûaûeûhûkûoûkûfûcû`ûbûcûdûcûbû_û^ûeûcûbûbûaûbûpû†ûû…ûzûmûaûXûQûPûQûNûNûNûMûMûKûDû<û0û)û,û*û%ûûûû‏תעתÝת׳ת״ת״תױתװתװת׃תײתÜתבתדתזתדתÝת״ת׀תַתִתַתÊתÊתַתֳתְת¾ת¾ת¼ת»ת¼ת½ת¾ת¿ת¿תֲתָתֽתֻתֹתûûûûûûûûûûûû$û!ûûûûûûûû!û(û-û+û'û ûûûûûûûûûûûûûûûûûû#û'û'û(û'û$ûûûûûûû$û%û*û2û:ûDûNûYûeûkûbûiûvûû‡ûûûûû†û~û{û}ûû€û‚û€ûûûû€ûû€û€û}û~ûû„ûûxûtûuûvûwûxû|û‚û…û{ûyûvûqûlûrûtûoûjûeû_ûZûUûRûOûKûGûFûDûAû@û?û=û=û<û:û8û7û7û8û8û9û;û;û<û=û>û?û=û<û<û<û=û>û>û@ûAûCûFûIûDû=ûMûTûUûZû]û]û[û[û_ûcûcûeûhûkûoûrûjûfûdûdûeûfûdû_û]û\û\û[û[û]û_ûdûsû‹û˜û“û†ûzûnû^ûOûOûRûOûMûMûJûEû?û7û1û(û(û(û!ûûûû‏תפתאתױת׳תÚתÚתװתֿתֻתֽתׁתױתßתטתנתנתטתבת׳תÊתַתֹת־תׂתװתׂתֿתֹתֳתְת¿תְתֱתֱת½ת½ת¿תֱתֶתֽתׁת
+ûûû	û	ûûûûûûûûûûûûûûûû û)û1û2û0û(ûûûûûûûûûûûûûûû$û ûûû"û)û+û+û'ûûûûûûû!û&û)û1û<ûFûQûXûbûmûqûeûoû{û‚ûˆûûû‹û‹ûˆû‚ûû‚û‚ûƒûû~û~û~ûû‚û…û‡ûˆûƒûûƒû‚û}ûwûsûqûrûsûuûxû|ûû|ûzûwûuûrûzûxûuûqûkûfûbû_û\ûZûXûUûTûSûQûQûNûNûNûKûKûKûKûKûKûIûHûGûJûKûLûMûMûKûIûGûHûHûGûFûEûGûIûMûRûUûIûJûRûWûZû^û_û^û`ûcûcûbûcûgûiûkûkûgûdûcûbûaûaû`û^ûZûXûXûZûZû[û]ûbûnûyû‡ûûû‚ûsû^ûMûKûQûPûLûIûEûBû:û3û-û)û.û)û"ûûû ûפתאת־תׂת׃ת־תֻתָתֵתֵתָתֹתֽתÙתטתץת‏תצתךתßתװתֿת׀תײתÚתÜתÝתÛתױתÊתְת½ת¿תְתֳתֱתֳתֲתֱתִתָתÊתûתûûûûûûûûûûûûûûû+û2û5û6û9û<û?û?û>û=û:û6û4û2û0û0û0û/û.û,û+û+û+û+û+û+û,û-û0û3û6û6û4û1û.û+û(û&û%û%û%û)û2û=ûIûUû`ûmûyûƒûûû‘û’û“û”û”û”û”û“û”û’û‘ûûûûûû‹ûûûûûûûûû‹ûûˆûˆûˆûˆû‰û‰ûˆûˆû‡û‡û‡û†û…û„ûû~ûzûvûpûlûkûhûfûcûaû`û_û_û`û_û^û]û^û^û]û]û[ûZûZûYûZû\û[û[ûZûYûZûZûXûUûSûSûSûTûUûUûVûYû\û^ûcûhûkûnûpûpûpûqûqûrûrûqûpûqûpûqûqûpûpûpûnûlûkûiûhûgûgûgûhûhûhûiûeûfûiûuûuûzûxûoû^ûJûCûGûFûDûBû<û8û4û0û&ûû#û"ûûûÿתעתÞתֵתֲתִתִתְת¿ת¿ת¿תְתֳתִתֶתֽתÛתזתסתןתטתאתײתֽתÊתֿתװתײתÙתÝתדתדתבתאתÚתּת¹ת¸ת·ת¸ת¹ת¸ת»ת»ת ûûûûûûûûûû	ûû ûÿתûû(û.û1û3û5û7û;û>û@û@û=û8û1ûûûûûûû
+û	û
+ûûûûûûûû%û'û(û2û1û-û)û'û%û%û&û,û8ûEûOûYûcûkûkû_ûfûpûxû{û}ûû~ûû‚ûû€û€û~û{ûyûuûrûqûpûqûuûyû}û|û{ûzûxûuûuûvûwûû‡û†û†û†û†û†û…û„ûƒû„ûƒû‚ûû~û|ûxûuûtûrûpûoûnûnûnûlûkûjûiûiûiûiûiûgûeûbûbûbû`û_ûaû`û`ûaûaûbûaû`û_û^û^û_û_û_û`ûaûbûcûdûgûjûmûmûmûmûlûnûnûpûpûpûnûmûlûlûmûnûmûlûjûiûhûhûgûgûgûgûfûfûfûfûgûgû_ûaûkûqûpûiû\ûKûBû@ûBû?û;û6û0û'û û#ûûûû‎תףתכתחתאתֻתְתְת¾ת¾ת¾ת¾ת¾ת¾ת¿תְתֲתָת׀תÛתגתךתזתזתגתßתÞתÞתÝתÝתÝתÞתÝתÞתßתÞתÛתÚתÙת״ת״ת״ת׳תײתײתײתû	ûûûûû	ûû
+ûûûûתשתתתûûû)û.û0û0û"û%û0û<ûAû?û:û3û"ûûûûûûûû	û
+ûû	ûûûûû&û1û+û#û"û-û*û(û%û%û%û+û8ûHûUûaûlûoûbûiûrûwûyûyû{û~ûû€û€û~û}û|û{û{ûxûtûrûqûpûqûsûzû…ûûûûû‹ûûûû‰ûˆû†û‡û‡û†û…û„û‚ûƒû„ûƒû‚û€ûû|û{ûxûvûuûsûsûsûrûrûqûpûpûoûoûoûoûmûlûkûlûnûnûlûjûiûhûjûjûjûjûiûhûhûgûdûdûdûcûcûdûfûgûgûiûkûlûlûmûmûlûlûlûmûnûmûlûkûkûkûkûkûkûkûjûiûhûhûhûgûfûgûfûeûfûeûeûgûgû`ûaû\ûZûMû?û5û3û0û.û+û&ûûûûûûûûûתףתלתיתטתותדתדתגתגתגתבתגתבתבתאתÜתÊתֻתׂתײת״תװתֽתֶת¿ת½ת½ת¾ת¾תְתֲתֳתַתֿתÛתÝתÜתÛתÚתÚת׃תײתÚתÙת׳תײתûûûûûûûûûûûüתרתקתתתûû!û+û0û-ûû,û5û5û2û+û$ûûû%û,û,û'ûûû	ûûûûûûûûû+û<û:û0û#ûûûû%û'û0û@ûPû]ûiûrû|ûƒû‡û‹ûûû’û’û“û•û”û”û“û“û’û’ûûûûûûûûûû‹û‹û‹û‹û‹ûûˆûˆû‰û‰ûˆûˆûˆû‡ûˆû‡û…û„ûƒûƒû„ûƒû‚û€û~û|û|ûzûzûxûvûtûuûuûuûuûtûsûrûrûsûsûrûqûmûYûJûHûGûHûIûJûLûNûMûNûRûRûOûLûLûNûOûNûLûLûKûKûNûRûTûSûTûTûUûUûWûYû[û[ûWûUûSûTûWûXûVûTûRûPûOûQûRûQûRûRûRûPûMûLûOûPûPûOûJûKûLûMûKûSûPûJûBû=û7û1û(ûûûûûשתנתיתותהתחתטתחתהתגתאתדתגתבתגתבתאתßתÞתÞתßתßתßתאתÞתÜתÜתÜתÛתײתֲת¼תְתְתְתֳתַתÊתֽתֹתִתֱתֲתַתײתÙתײתֵת¶תûûûûûûûûûûûû
+û
+ûûûû$û(û.û+ûû*û6û5û2û+û$ûû#û(û.û.û0û/û+û(û'û&û&û%û%û$û!ûû/û>û>û6û*û#û!û û"û)û6ûHûXûcûiûcû\ûeûlûrûuûxû{û€ûû“û”û”û“û‘û‘ûûûûûûûûûûûûˆûˆûˆû‡û†û…û„û„ûƒû„û†û…û†û†û…û„û‚û€û€û€û€ûû~û|û{ûzûyûxûxûwûvûvûuûvûuûtûsûrûrûqûqûpûpûlûZûSûWûZûQûPûRûUûVûUûZûbûaûlûnûkûjûjûkûjû`ûPûYûYûUûSûUûUûXûXûXûZûXûVûRûNûNûOûOûQûTûSûQûNûNûPûPûPûPûQûRûPûNûKûKûLûLûLûKûEûBûJûHû=û>û1ûûûûûûûû	ûûÿתצתסתלתאתֽתׁתװתׁת־תּתׂתÜתבתÛתֶת¿ת½ת¾תֱתָת־תÛתאתÞתÜתÚתÚתÚתÙת״תֽת÷ת÷ת¼ת¾תְתֵתָתּתÊתִתֲתֹתׂתװתׁתÊת¾ת¶תû
+ûûûûûûûûûûû	ûû‏תû!û,û-û.û+ûû*û2û2û0û*û%û û!û$û+û.û-û+û-û*û(û(û'û&û%û$ûûû û"û û û"û û!û#û,û:ûHûTû_ûiûrûvûpû_ûeûnûtûxûzû~û…ûû•û“û‘ûûûûûûûûû’û’û“ûûûûˆûˆûˆûˆû…û„û…û…û†û‡û‡û‡û‡û‡û†û„ûƒûƒû‚ûû~û|ûyûyûyûyûxûxûxûxûxûxûxûyûxûvûtûsûrûrûrûrûqûmû\ûbûmû[ûTûUûVû\ûhûqûpûqûpûoûmûlûlûlûlûkûdûrûzûsûYûQûTûVûXû[û\û\ûYûTûPûOûOûPûPûPûOûQûYû_û^ûZûVûTûSûTûSûOûLûLûIûHûIûJûFûAû;ûCûDû=û4û+û#ûûûûû	ûûשתעתלתחת״תÊתװתÙתײתׁתֽת׀ת׀תֻתֶתִתִתֲת¿ת¾ת¿תָתײתÚתÜתאתÝתÛתÚתÙתÙתÙתÙת״תװתֱת»ת½ת¿תְתְתְתְתַת׳תÛתÙתױת׃תױתׂתûûûûûûûûûûûû ûתתûû#û+û-û.û'ûû(û+û(û%û"ûûûû!û'û+û)û)û,û)û'û'û&û&û%û$û!ûûûûû#û!ûûû#û/û@ûOû]ûiûlû\ûbûlûqûtûwûvûuûyû~û‚û†ûƒû€û~û|ûzûxûyû|û{ûûƒû†ûû‘ûûû‹û‰û‡û†û†û…û†û†û†û‡û‡û‡ûˆû‰ûˆû‡û…ûƒû‚ûû€û~û}ûzûyûxûxûyûyûwûxûwûwûwûwûvûuûsûpûpûqûqûrûrûkûvû{ûqûmûYûYû\û`ûhûmûqûpûpûoûmûlûkûkûjûdûvûˆûûûyûWûSûXûYû\û]û\ûXûSûNûNûNûNûPûQûPûPûSûZû_û[ûXûUûTûXû]ûZûTûOûIûFûDû@û;û5û/û1û+û'û!ûûûûû
+ûûû‎תצתןתיתהתÜתֻת׃תÚתדתדתגתבתאתאתבתÞתבתדתדתבתÝתװתָתױתÛת״תÝתÜתÚתÙתÙתÙתÙת״תװתֲת÷ת»ת¼ת½ת÷ת¼תֵת׀ת׃תֽתױתװתׁת׀תֿתûûûûûûûûûûû	ûûüתûû!û(û,û/û*ûû$û,û*û&û!ûûûûûû&û+û*û(û'û'û&û%û%û$û#û$û$û%û$û#û!û ûû!û%û1û@ûNû[ûcû\û_ûlûuûyû{û~ûû„ûû’û—û—û”û‘û‘ûûûûûûûû‘û’û’û’û‘ûûûûˆû‡û…û„û„û„û…ûˆû‰ûû‹ûû‹ûûˆû„ûƒûûû~û}û{ûyûyûxûxûxûxûyûxûwûyûxûwûuûtûrûrûrûsûuûtû}û‘û›û—û…ûoû]ûXû\ûbûlûkûlûpûoûmûlûjûjûjûfûoû‡û“û“ûƒû^ûQûRûWûZûXûWûUûSûPûNûNûOûOûPûPûRûWû]ûdûaûZûWûXû\û^ûYûSûNûKûGûDû>û8û0û&û'û#ûûûû
+ûûûüתצתעתםתטתßתָתִתֳתִתַתּתׁת־תֻתָתֵתִתֵתֻתװתßתדתבתÝתׁתַת״תÜת״תÜתÚת״ת׳ת׳ת׳ת׳תײת׳ת׳ת׳תײת׀ת»ת¹ת¼תֱתֱתַתּתֹתִתֱת÷ת²תûûûûûûתתסתלתמתסתעתקת
+ûû û&û)û+û/û1û2û5û6û6û6û3û0û.û,û+û+û+û+û*û)û(û(û&û%û&û%û%û'û)û*û)û&û#û!ûû û%û/û:ûGûUûaûaû\ûiûsûyû~û€ûû„û“û™ûûˆû€û{ûzû|û}û~û}û}û~ûû„ûˆû‰ûˆûû{ûvûsûqûqûoûlûkûlûoûsûvûyû~û‚ûˆûûû‡û„û‚û€û~û}û{ûyûxûwûwûxûxûxûzûyûwûvûtûsûrûpûqûrûuûwûsû‰ûû©û×û§û›û„ûmûvûtûrûpûoûnûnûmûmûkûkûjûhûyû”û₪û§û™ûûfûSûRûVûVûWûWûUûTûQûNûNûQûTûTûUûXûZûaûbû]û[û\ûaûaû\ûUûOûIûDû@û:û1û(û(û$ûûû	ûûüתקתףתןתךתחתהתגתבתבתבתאתױתִתַתֻתֻתָתֳתֳתֲתֳתֹת׀תױת׃ת־תֵת¿תֱתֽת״ת׳תÜתÛתÙת״ת״ת״ת׳תײתײתױתײתײתײתױתװתׁתׂת׃תׂתׂתׂתׁת׀ת׀תֿתûûûûûûûû
+ûתתכתנתסתנתרתûû û&û+û.û0û3û5û5û4û1û-û+û*û*û)û(û(û(û)û(û'û%û%û$û$û#û$û&û'û(û'û%û#û ûû!û/ûCûWûfûdûgûtû|ûûûƒû‡û…ûû™û˜ûû‡ûû|ûzûyûyûyûwûxûzû{ûû„ûˆû‰ûƒû{ûuûqûpûkûiûjûmûqûuûxû|ûûƒû‡ûûûû‡û„û‚û€û~û}ûzûyûxûxûyûyûxûxûxûvûuûtûsûrûqûpûoûpûrûtûvûuûûû¦û₪ûûûsûvûtûqûoûoûoûnûkûjûkûkûlûƒûû³ûֱûֲûְûµû û}ûbûQûQûQûTûWûUûSûOûMûOûTûVûVûVûWûZûXûWû\û_û^ûYûTûOûJûFûBû@û;û3û)û û ûûû	û ûרתסתםתךתזתותדתÞתֻת¿תְתֲתַתÊת׀תÝתהתדתגתßת״תֶתֹת׀תװת׃תֿתÊתִת¿תִתײתÜתÚתÙת׳תײת׀ת¼ת¸ת½תְת½ת¹ת·תµתµת¸תֳת׀ת׃תׂת׃ת׃תׂתׁת׀ת׀ת	ûû û‎ת ûû‎תקתסתלתןתסתףתתתû	ûûûûûû û,û+û/û-û+û)û(û'û'û'û'û&û&û&û%û&û&û&û%û%û$û&û'û(û$û$û&û#û#û1ûIû_ûhû_ûfûqûxû~ûû€ûûû‚û„ûƒû†ûû•û–ûûƒûû|û|û{û{û|û}û€û„û‡û…ûûyûsûqûpûnûnûqûsûtûsûqûtûvûyû~û‚û…û†û‰û‰û†ûƒûû~û}û{ûzûyûyûyûyûxûxûvûtûtûsûqûqûpûpûqûtûxû~û}û{û‘û¨û±û°û§ûû…ûhûsûrûoûoûoûnûmûlûkûlûoûvû•û®ûֵûּûÊûֱû®ûû`ûPûPûOûPûRûSûRûPûNûOûRûUûRûNûMûOûTûVûZû_û^û]ûXûRûMûHûBû>û8û.û+û'ûûû‏תעתכתזתהתדתדתגתאתÞתאתבתבתבתßתׂתָתױתבתבתהתדתבתßת׃תÊת׃ת״תװת׀תֻתִתֳת׀תÚתÚתÙת׳תײתײתײת׳ת׳תÙתÚתÚתÚתÙת״ת׳תײתװת׃ת׃תׂתׂת׃ת׃תׂת׃ת׃תûûûûûûûûû
+û	ûûûûפתûתûûûûûûû'û,û+û/û-û*û)û)û)û)û(û)û+û,û-û*û'û%û%û%û&û&û)û,û(û$û!û!û*û=ûQûaûnûgûcûoûyûû‚û‚ûû‚ûƒû„ûˆûˆû‡û„û~ûzûuûsûuû{û|û~ûûû€ûûû~û|ûxûuûsûqûpûpûrûsûsûtûvûxû{û€ûƒûƒû‡û‡û„û‚ûû|û{ûzûyûyûxûyûzûyûwûxûwûuûtûsûqûqûpûoûrûuûrû{ûûûû¶û¹û²û©ûû‰ûrûuûpûnûlûlûkûkûjûjûjûkûkûxû—û²ûֵûֿûֹû¾û§ûxûYûOûOûPûRûSûSûQûNûOûQûQûOûMûLûNûQûUûXûZûZûZûWûQûKûFûBû<û1û#ûûûû‎תעתיתהתגתבתבתגתגתאתßתאתאתßתßתאתבתבתדתדתדתהתגתאתאתßתßתדתיתכתיתחתדתßתÚתÙת״ת׳תײתױתױתױתײת״תÙתÚתÛתÛתÚת״ת׳תױתװתװתװת׃תׂתׁת׃תװתױתױתûûû	ûûûûû
+û	û	ûûûûתתûû&û)û+û,û.û.û+û/û0û.û,û*û)û)û)û(û(û(û(û*û-û,û(û#ûûûûûû$û%û#û û û*û@ûTûbûjû^ûaûnûuû{ûûûûûû„û‡û‡û†ûû{ûuûpûpûuûzû{û}û€ûû~û}û}û}û{ûyûvûvûyûzûxûuûtûuûvûvûuûyû|ûûˆû‡û…ûƒûûû|û|ûzûyûyûyûyûxûxûvûvûwûuûsûrûpûpûqûpûqûqûkûwû}û„û˜û´û¼û¶û­ûû†û|ûzûrûmûlûlûlûlûlûmûmûoûvû‘û«ûֵû׃ûׂûָû½û×ûû]ûOûPûPûRûSûSûSûQûPûPûQûQûPûNûOûSûVûWûVûSûRûQûLûFûAû;û2û%ûûûû ûףתדתֹתָת־תׁתװתßתגתגתבתבתבתאתאתאתÜתֽת׀תװתֿתַתֲתֲתֵתÊתױתÞתßתßתהתותגתßתÛת״ת״ת׳תײתײתײתװתֽת¼תֱתֽתÛתÝתÜת׀ת÷ת¸ת¹ת¹ת·ת¸ת»ת¿תְתֳתֵתִתûû ûûûûû	ûûûûûûûûûû û*û+û+û,û-û-û-û.û-û,û*û)û)û)û)û)û,û-û.û/û-û'ûûûûûûûûûûû&û4ûEûTûaûiû]ûbûoûvû{û€ûû€û„û„û†û‡û…ûû{ûzûwûtûtûwû}ûûƒû„û‚û€ûû~ûû~û|û{û{û~ûû~ûyûtûsûyûyûyûzûzûxûvûtûrûoûlûjûgûeûdûdûdûfûfûdûcûgûlûhûeûdû_û^û`û_û_ûkû…û‹û‹û”û—û û»û¿û³û¨û›û‰ûû„ûxûqûnûlûlûlûmûmûnûpûqûû¢û¼ûָûָûֳû½û¨û‚û\ûPûNûPûRûSûSûRûPûPûPûPûPûPûQûTûXûWûWûTûPûQûOûLûHûBû5û(ûûûûûרתםתגתֻתֹתׂתײתװתױתÛתדתגתבתבתבתבתאתÙת׀תבתיתזתÞתֶת¿תֱתַת׃תÛתßתאתאתÞתÝתßתÝתÙת״ת״תײת׳ת׳תײתׂתֱתֱתÊתÊתַתִת¾ת÷ת¸ת¹ת¼ת¼ת¼ת¾תְתֲתֵתַתֶתûû'û ûûûסתמתצתûûûûûû,û/ûû%û,û-û-û-û,û,û+û,û,û+û)û)û)û*û+û-û.û.û/û.û+û&û%û$û#ûûûûûûû)û<ûQû_û^ûVûcûpûzû}û}û}û}û~û‚û…û†ûû|ûxûsûnûkûlûmûpûwû}û{û|ûyûyûxûwûvûwûxûyûxû}ûû€ûƒûûûû€ûûûûûû€û~û{ûzûxûwûxûwûwûvûvûuûuûtûsûuûsûqûrûqûoûoûlûuû‘û û₪û û¢û£û¡û₪û¢ûûû•ûû‘ûˆû{ûsûoûmûlûkûlûmûnûtûsû‡û¢ûµû¸û¸û²û₪û”ûƒûcûSûDûCûDûGûIûJûKûKûMûMûMûOûPûSûUûRûMûKûIûHûFûAû;û3û(ûûûûûץתךתותאת־תֶת׀תײתÜתאתאתאתßתßתßתßתÞתÚתÊתֿתÜתדתזתהתÜתֹתְתֲתֹתװתÛתÜתÝתÞתגתאתÜת״ת׳תײתײתױתײתײתײת־תִתֽתׁת־תÊתֵת¾ת¸ת¸ת·ת¹ת¸ת¶ת¸ת¸ת»ת¿תֲתûûûû	ûû
+ûûûûûûûû#û5û?û:ûûûûûûû	û	û
+ûûûûûûûûû$û&û&û+û)û%û#û%û'û'û%û"ûûûû%û7ûMû[ûZûZûkûvû|û}û~ûû‚û„û‡û‰ûˆû‚û}ûzûvûpûmûmûpûrûwûzûyûwûvûwûwûrûqûrûtûvûuûtûsûpûlûhûhûjûnûpûrûtûtûvûzû}û{ûyûwûvûwûwûwûwûvûuûuûsûsûtûqûpûpûpûnûnûlûƒû›û©û­û©û©û¶û³û¨ûû™û˜û‘û†ûyûtûzûvûpûnûmûlûmûnûoûrûrû{ûûû₪û¨û û—ûûrûWûHû<û=û<û?ûBûDûFûIûMûNûMûNûLûMûOûMûKûHûFûEûBû>û7û,ûûûû	û ûעתחתßתÊת¿תֱתֶתּתײתÞתßתßתßתÞתÞתßתßתÜת־תֽתÙתÞתÜתגתאתÝתÛת״תֻתָתײתÙת״תÜתßתÞתÛת׳תײתײתױתױתײתױת׃תִתַת׃תױתׂת־תֻתִת½ת»ת÷ת÷ת÷ת¸ת·ת·תµת·ת÷תûûûûû	ûûûûûûûûû'û:ûIûLûEû5ûûûûû
+û	û	û
+ûûûûû%û)û.û/û-û*û)û&û#û ûûûû%û$û ûûûû)û<ûNû\ûYûfûsûwûyû|û€ûû„û‡û…ûû|û|û{ûuûpûoûqûsûvûxûzûxûvûvûvûvûqûqûvûû‚ûƒû‚ûû€ûûûû}û}û}û|û}û~û|û}û}û{ûyûwûwûvûwûwûwûuûtûsûrûrûqûnûmûmûlûlûoûnû‰ûû×û¯û®û¦û­û´û²û₪ûû—û’ûû„ûzû{ûvûpûnûnûmûnûnûoûqûqûmû‚û‹ûû‘ûûû‰ûtûYûIû;û6û8û:û;û<û=û>ûCûIûLûMûKûKûNûLûIûGûFûDûCû?û9û1û'û û"ûû
+û‎תמתהתװת¿ת¿תְתִתÊתַת¿ת¼ת÷ת÷ת»ת¼ת¾תְתִתּתױת״תÜתגתבתÞתÝתÜתÚת׀תֻתׂתÛתאתßתÜתÙת׳ת׳תײתײתײתײתַתָת׀תװת״ת״תײתׁתֽתֶתְת¼ת¼ת¼ת÷ת·תµת¶ת¶ת¶ת¹ת
+ûûûûûû	û	û	ûûûû
+ûû%û;ûNûPûHû8ûûûûûûûûûû!û#û$û'û-û1û,û)û,û(û#û$ûûû ûûûûû#û!û)û9ûNû_ûoû~ûû•û™ûû™û—û•û•û”û“û“û’û‘ûûûûûûûûûû‹û‹û‰û‡û†û…û„û„û„û„û„û„ûƒûƒû‚ûûû€ûû}û}û|û}û|û|û{ûzûyûwûwûwûxûwûvûuûvûvûuûuûsûqûoûnûnûoûnûnû‚ûû«û±û±û°û¸ûֲûֶûִû¹û§û”ûû‚û~ûoûZûZûZû[û\û\û]û^û]ûaûjûxûxûzû~ûvûnûkû]ûMûEû1û0û0û0û1û1û4û7û?ûFûJûSû_û`û`ûcûeûdûaû^û[ûWûQûIû?û6û+ûûû‏תןתזתגתבתבתבתבתבתבתבתאתאתאתבתבתÞתׁתֳתֻתױתאתבתבתאתßתÝתÝתÝתÞתÞתÝתÞתÜתÚתÚת״ת׳תײתײתױת׃תֲתָת׀תױתײת״ת׳ת׳תױתֿתֹתְת¹ת¹ת÷ת¸ת¶תµתµתµת¶ת»תûûûûû
+ûûûûûûûûû-ûCûPûIû?û/ûûûûûûûûûûûû"û"û&û/û/û*û*û(û ûûû&û8û8û3û.û&û#û,û6ûJû^ûkûmûlûyûˆûûû”ûûû—û•û”û“û’û‘û‘ûûûûûûûû‹ûû‰ûˆû†û„û„û„û…û„û„û„ûƒû‚û‚ûûû€û€û€ûû~û}û|û|û|û|û{ûyûxûwûwûxûwûwûwûyûyûwûuûsûpûmûkûjûjûmûqûû¦û´û¾ûֲûֲûÊû׀û׀ûֻûֳû³ûûû˜ûû|ûtûrûpûoûoûoûoûoûqûqûqûrûuûpûgûfû]ûWûTûOûJû-û(û*û,û.û/û-û0û7û?ûEûMûPûQûTûZûaûgûcû_ûYûQûFû=û0û$ûûûפתיתדתגתבתבתגתגתגתדתדתדתגתÝתָת¾ת¿תְתְתֳתֹתֿתֽתÊתַתִתְת¾ת½ת½תֳת־תÜתÝתÜתÚתÙת״תײתײתײתײתÚתßתדתחתיתיתיתזתדתבתÞתÛת״תױתװתײתײתױת׃ת־תֲת³ת÷תûûûûû
+ûûûûûûûûû,û>ûJûEû7ûûûûûûûûûûûûûûû+û2û,û"ûûûûûû1ûFûKûIûEû:û)û.û8ûKû_ûpûû}û{ûû˜û–û›ûû†ûûû€û~û~û€ûû}û~û€ûƒû‚û}û{û{û|û{ûsûnûkûkûoûnûmûnûoûkûkûmûpûsûtûmûiûjûhûfûiûpûwû{ûzûyûxûvûvûvûuûuûvûwûwûwûvûtûqûoûmûkûkûmûqûû©û½ûׁûÙûÛûÜûÚûװûּûֱû³û›ûû‡ûrû_ûcûbû]û[ûZûZû[û^û_û`û`ûfûsûuûuûlûjû_ûXûOû7û%û&û)û)û&û&û'û,û1û6û<ûDûKûNûQûWû]û`ûeûcû^ûXûQûFû6û(ûûûעת״תֵתֶתֶתֶתַתֶתֵתָת־תױת׀תֻתַתÊת־ת־תֿתֽתּתּתַתֵתֳתֳתֱתְת¿ת¾תְתÊתױתÞתÞתÜתÛתÙת׳ת״תױתÊתֲת׀תÚתßתגתגתחתחתהתבתÞתÛתÙתײתײת׳תÙת׳תײת׃ת׀ת׀תֿתשתףתעתןתןתמתמתןתןתםתכתכתנתÿתû(û4û:û3û!ûûûûûûûûûûûû û:û@û7û(ûûûû"û û&ûAûVû]ûYûUûOûCû5û3û?ûQûbûtûû|û‘û¡û₪ûûûû†û‚ûûûƒû…û†û…û…û‡ûû‡û€û|ûzû|û|ûyûtûlûkûoûrûpûnûoûmûkûkûpûsûsûlûiûiûhûgûlûqûnûgûcûcûgûjûiûgûeûfûjûpûvûtûnûoûpûjûfûeûdûgûpû{ûû¸ûׂûÞûאûÞûÝûÙûׁûַû¸ûûˆû‡ûqûaûfûdû]ûZûZûZûXûXûZû^û_û^ûaûfûfûdûaû\ûTûBû&û#û%û(û(û)û+û,û1û6û:û@ûJûNûPûUû]ûgûaûWûOûAû5û-û)û'ûûûÿתנתÝתֵתַתֹתָתָתֶתֵתֶתַתֹתּתÊתֵתַתֿתױת׳תװתׁתֻתַתָתֽת־תֹתַתַתֵתֳתֵתֹתַתֵתֱת¾ת÷ת·תµת¶ת·ת¼תֶתײתדתחתחתהתהתאתÜת״תװת׀תֲתְתÊתָתּתױתִת¯ת°ת±תקתנתעתץתפתסתנתנתנתםתלתמתףתתת	ûûû!ûûûûûûûûûûûû)û'û1ûEûLûIû5û$ûû!û"û"û%û@ûRû`û]ûXûPûEû9û5ûBûUûfûxû…ûû«û¾ûִûֱû¶ûû†û{û€û„û…û†û‡û†û†û‰ûû†ûûzû{û|û|û{ûzûtûqûuûzûyûvûtûtûsûqûnûoûmûlûkûjûjûhûiûoûpûlûfûeûfûhûjûhûdûdûhûoûuûvûkû_û\û]û[ûaûgûnû~ûû¸û׃ûוûןûסûלûחûÞû׃ûֹûֱû°û–û‚û}ûeûhûdû]û[û^û_ûYûWûZû^û\ûZûYûXûTûPûIû?û4û,û&û$û&û)û(û(û)û)û,û2û5û:ûAûKûPûTûYû]ûSûGû>û4û(û&û"ûûû ûנתÚתִתֵתֶתָתַתָתָתֶתֵתֻת׳תאתאתÛתÛתגתגתßת׳תֿתֹתָתָתֽת׀תֹתֶתֶתֶתֳתֲתֳתֱתֳתַתִתְת¼ת¾תֹתֽתּתֿתÜתטתיתגתÛתׁתִת»ת¶ת·ת÷ת¼תֹתÛתאתÚתײתÙת׃תֿתֽתמתמתסתסתסתמתךתטתיתטתחתחתכתסתתת‏תûûû"û%û(û+û+û(û&û&û(û)û@ûMûOûXû_û[ûFû)ûû#û#û#û'û=ûOûaûeû`ûUûJû?û6û9ûFûXûkûû…ûû¸ûַûֻûָû»û¦ûû†ûû~û|û}ûûûûûyûuûrûvûvûtûsûqûmûlûpûuûuûvûwûtûrûpûnûnûkûlûnûiûhûeûfûiûlûkûfûgûiûgûhûfûaû`ûdûgûlûpûmû_ûWû[ûbûcûkûuû‹û¬ûÊûהûץûתûסûוûÙû־ûַû¾û²û₪û‘û‚ûûwûqûnûlûjûiûiûhûgûgûiûkûmûmûlûiûdû_ûXûPûGû3û!û!ûûûûûûû#û&û+û4û?ûGûRûWû[û\ûXûSûLûBû6û'ûûûÿתסתדתֻתֲתֳתֵתֶתֶתַתַתָת׀תÜתאתגתבתדתותאתÚתׁתֻתֿתײתÜתÞת״תּתֳתֳתֱתְתֲתֳתֲתֳתָתÊתֵתְתֵתׂתװתׁתױתÝתבתÞת״ת׀תֵת¹ת¶ת¶ת·ת»תֵתׁתßתןתךתÞת׃תױתװתֽתקתףתרתûת‏תûûûûûû û û ûûûûûûû#û'û+û*û)û)û(û+û7ûSûVûXûeûpûiûWû<û"û!û#û(û%û-û?ûTûcûkû^ûSûFû8û9û?ûTûlû‚û‘û¯ûָû׳ûױûֽûְû¨û”ûûyûyûzûyûzû|û}û}û{ûwûvûuûuûrûnûlûnûoûtûxûzû„ûˆû‘ûû‹û†û‚û€û~û~û~û~û}û}û}û}û}û|û{ûzûxûwûwûuûuûuûuûtûsûrûnûgûbû_ûaûgûpû€ûû¶ûֽûדûקûץûךûÞûׂûַû÷û°ûûûûxû[ûTûRûRûRûRûQûPûPûPûRûXûdûfûjûjûgûcû]ûWûOûGû<û"ûûûûûûûû$û,û;ûJûVûXûZûZûUûNûGû>û3û'ûûû ûפתךתותדתאתאתאתßתאתßתÜת־תָתּתֻתֿתײתÛתßת״ת׀תָתֵתַתֽתׂתױתÚתßתבתßתÝתײתײתÙתװתֶת־תװת׀תֻתֿת״תÙתֿתֹתָתֿתױתÜתÚתײתׂת׀תֽתֱתְתִתׁתותץתכתÜת׳ת׳תׁתֽתüתןתנתעתשתûûûûûûûûû‎תנתרתûûûû(û2û0û.û)û!û1ûGû]ûaû_ûmûyûzûqû_ûEû%ûû%û.û*û3ûHû\ûeû\ûLû=û6û8ûEû\ûrû}û•û´û־ûßû״ûּûֱûµû û™û‚ûxûyûzû{û|û}û|ûzûwûxûzûvûrûrûqûqûsûxû|û‡û‘û’û‘ûû‹û†û‚ûûû}û~û}û}û~û~û}û~ûûû~û{ûyûwûwûxûyûxûwûtûpûjûdû_û^û`ûdûkûvûû¢û»ûװûלûץûןûגûׂûֳû´û©û™û†û‚ûlûUûTûTûUûTûRûQûRûRûQûVû[ûcûiûjûhûgûcû`û[ûUûMûGû>û6û1û.û.û/û0û3û9ûBûKûPûTûWûXûWûTûPûJûAû7û.û$ûûûשתםתטתותדתבתבתבתאתßתÞתÝתÞתÞתÞתאתאתßתבתגתßתׁתֳתִתָתֽתױתÜתבתדתאתÛתבתבתÝתÞתÝתÜתÛת׳תÙתÙת׳ת׳תױתװתׂתֹת½תÊת׳תײת׃תׁת׀תֿתֿתֻתֶתײתןתסתותÙתÙתׁתֽתûנתףתפתûתûûûûûûûûûüתמתרתûûûû*û0û1û-û'û+û>ûDûPûaûfûfûuû~û|ûpûYû8û'û%û*û&û2ûIû]û^ûUûGû4û5û:ûLûeûuûû“û­ûֲûּûÊûֲû»û°û û™ûƒûwûwûyûwûuûvûuûtûuûwûyûxûuûuûvûvûxû{ûû†û‰ûˆû‚ûyûoûjûiûjûiûhûiûhûiûjûjûjûmûlûlûjûjûiûhûiûjûkûsûwûtûoûiûcû`û`ûdûkûrûƒû˜û×ûֳûײûÝûגûßû׳ûÊû¿û¿û²û£û’ûûpûVûSûRûPûRûTûUûUûUûTûWû^ûfûhûlûjûfûdû`û[ûUûMûEû>û6û&ûûûûûû û%û/û7û=ûGûRûTûRûMûCû3û*û"ûûûןתׂתּתֹתַתַתֹתֹתֶתִתֲתֱת¿תֱתֲתֹת״תגתגתגתגתגתÞת־תֵתÊתÊתÊתֻתֽתױתגתחתאתגתבתÛתÝתÝתÜתÙתÚתÚתÙתÙת״תײתײת׳ת׳ת׳ת׳תװתװת׃תױתײתױתּתֽת׳תßת׳תÙת׳ת׀תֻתֻתûשתנתעתקת ûûûûûûûûû‏תןתףתüתûû&û1û-û/û*û,ûEûRûXûbûuû€û~û‡ûûûûnûLû+ûû&û!û,û=ûQûRûJû8û-û1û:ûJûaûvûzû…û–û°û¶û¾û¾û»û²û₪ûû™û|ûuûvûyûwûwûvûtûsûuûxûxûwûzû|û€ûûû€ûûû|ûwûqûlûiûjûhûfûeûfûeûeûdûgûgûkûrûtûoûjûgûeûgûlûtûvûtûqûmûhûbû^û_ûbûfûoûqûƒû•û¬ûְû־û׳ûÚû׳ûֿû¾û×ûûûûûrûlûkûjûiûhûgûhûgûgûgûgûhûiûgûgûeûcûbûaû]ûYûTûOûJûCû:û'ûûûûûû!û+û5û<ûIûRûUûRûMûFû<û1û%ûûûמת׃ת־תֻתֹתָת־ת״תÙתגתבתßתÞתÞתÞתÞתßתאתאתאתאתßתÜתֽתֳתÊתָתָתֻתױתטתץתןתßתֿתּתװתװת״תÝתÚת״תײתװתװתײת׳תײת׳תײת׃תױתױתײתױתױתײתײתֻתִתֿת״תײתÜת״תׂת־תֽת1ûûû	ûûû	ûûûûûûûûûû ûÿתû!û.û3û&û*û)û)ûCûOûXûWû`ûwû…ûƒû‰û‘ûû‚ûlûHû%û$û%û*û<û4û:û0ûû(û1û=ûLû]ûoûuû~û‰û™û©û×û¯û¯û¥û˜ûû”ûzûsûpûnûmûnûoûpûrûsûuûxû|û€ûû}û|ûû€û€û€û~û|ûzûsûmûjûjûhûeûdûeûgûfûfûlûsûtûtûxû{û{ûyûwûvûuûvûuûsûpûmûhûcû`ûcûgûkûsû‡û”û§ûµû±û²û¯û₪û—ûû„û…ûûyûrûnûlûlûkûkûjûiûhûhûiûiûjûiûjûkûjûhûeûdûbû^ûYûUûQûMûIûGûDûBû@û?û>û=û6û%û+û6û@ûGûEûGûGû@û6û'ûûûסתױתױתײתׁתּתֽת׃תÜתßתדתגתאתßתßתßתßתßתאתאתßתÞתÞתßתאתאתאתßתßתÙתײתךת‏ת ûץתÞתֽתֽתװתװתװתÝתÛתױתֵת·ת¶ת¸ת»ת¿תִתֻתֹתֵתְת¿ת׀תÚת׳תÛתÜתÚת׳תײתױת׀תֿת־ת־תFû.ûûûûûûûûûû ûÿתÿת ûûûÿתû!û/û0û%û'û(û%û;ûOû[û^ûlû‡ûû–û’û•û‘û‰ûyû^û<û ûû!ûûû&û)ûû$û)û4ûEûYûmû|ûûˆû˜û£û¢ûû•ûû˜û‘ûûûûûû‹ûûˆû‰û‹ûûûûûûûûû’û–û˜û–û•û‘ûû‰û…û‚ûû}û}û}û~û~ûû}û}û~û~û}û{ûyûyûxûvûuûtûtûtûtûrûoûkûgûbû`ûdûiûpûqûûûûûû˜ûû†û‡û…ûûxûqûmûjûiûiûjûiûhûfûfûfûeûeûeûeûfûfûfûeûdûdûbû_û\ûZûVûQûLûGûDûCûAû?û>û?ûAûEûGûIûKûJûFû@û9û/û"ûûûצתםתיתחתזתזתחתזתזתחתזתהתגתאתÞתÝתÝתÝתÞתÞתÞתßתÞתÞתßתאתאתßתÝתÛתׁתÛתןת‏ת‏תסתבתÚתÞת״תÚתÛתÚתÙת׳תױתׂתÊת·ת·ת÷תְתִתֵתְת»ת½ת־תײתײתÞתÜתÚת׳תװת׀תֻתÊתֻתּתAû,ûû
+ûûûûûûûûûÿת‏ת‏ת‏תûûüתûû,û)û"û'û&û=ûTûcûpû†ûû₪ûû•ûû‚ûvûcûIû'ûûûûûûûûûû!û*û7ûHû[ûkûxûûƒûûˆûû“û–û”û‘ûûûûûûû‹û‹ûûûû‘û‘ûûûûûû“û˜ûû›û™û•ûû‹û†û‚û€û~û}û}û}ûû€û€ûûûû}û|ûzûzûzûyûyûxûwûwûuûrûoûhûWûFûGûKûOûUû_ûmûyû„ûû”û˜û˜ûû‰û‰ûûûwûoûlûkûkûjûiûhûgûgûgûgûgûgûgûgûgûfûfûeûdûcûaû_û]ûYûVûSûOûMûMûIûGûFûFûDû:û/û5û6û0û)û#û#ûûûüתסתכתטתזתחתחתחתחתחתזתחתזתותגתאתÞתÝתÜתÜתÝתÝתÝתÝתÜתÜתÝתÝתÝתÜתÚתÙת׀ת״תךתןתכתהת׳תÙתÛתÙתÙתÚתÚתÙת״תײתװתׁתַת·ת÷תְתֱת½ת÷ת¸ת¹תִת־תׁת׀ת׳ת׳תױתׂתֿתֻתÊתÊתֻתSû;û ûûûûûûûûûû û‏ת‎ת‎תüתûûûû!û"û"û"û#û=û\ûsûyûû™û¥û û˜ûûˆû‚ûqûUû0ûûûûûûûûûû û*û9ûIû[ûlûxûxûrûwûyû|ûwûuûvûtûtûxû€û‡û‹û‰ûˆûˆû‹ûû‰û~û‰û‹ûuûrûrûxûƒûûûˆû‚ûwûoûjûfûcûaû_û`ûbûjûuû|û}û}û|û|û|ûyûxûxûyûxûxûwûvûuûtûrûoûlûjûjûkûkûlûoûsûzûyû‚ûû°û»û¹û¯û§û•ûzûhûqûnûkûiûiûiûiûhûfûfûgûgûgûgûgûfûfûgûfûfûeûdûcûaû_û]ûZûYûXûWûTûQûPûNûJû=û,û.û2û1û+û%ûûûûû ûףתכתיתטתטתטתיתךתכתמתןתםתכתטתהתßתÛתÚתÛתÚתÙתÙתÙת״תÚתÜתÜתÛתÚתÙת׳ת׀ת׀תדתרתתתפתטתÙתÜתÛת״תÙתÙתÚתÚת״תױתׂתׁתׁתֿת־תֿתֿתֿת׀ת׀תׁת׃תױתײת׳ת׳תײתװתׂתֽתֻתÊתֻת^ûJû0ûûûûûûûûûû û‏ת‎ת‎תרתüתû%ûûû û û û/ûUûtûû™û›ûûûû‘û‚ûwûiû]ûMû6ûûûûûûûûûûû*û:ûKûVûSû_ûmûxû|û~û}ûyûuûvûtûtûvû|û‚û„û‰ûˆû‡û‰ûû„ûû•û‘ûûˆûwû}û‡û“û‘ûûûû‰ûƒû~û}û}û|û{û{ûzûzû{û{û|û{ûzûyûwûvûxûxûuûlûeûvû}ûzûvûsûoûmûkûlûlûkûmûoûuû|û{ûû¨û³û¸û¯û¨û™ûûjû`ûNûMûQûVû[ûfûfûdûcûdûcûdûeûfûfûgûgûgûfûfûfûeûeûcûaû_û]û[ûZûZûWûQû<û/û2û2û2û.û'ûûûûûû
+û ûצתםתטתחתזתזתזתטתטתךתםתמתמתכתזתבתÜתÚתÚתÚתÙתÚת״תׂתׁתÞתÜתÞתאתÝתÙת׀תֹת׃תÝתÚת׃תÙתÚת׳ת׃תִת¿תּתÙתÚת׳תׂתַת³ת¶ת¸ת¸ת·ת¶ת³ת³ת²ת¶ת¾תֶתּתֽתּת־תׂת׀תֽתÊתÊתֹתMûIû8ûû ûחתךתמתפת‎תûûûûÿתûתפתצתû&ûûû û!û%ûFûiûˆûû¡ûû–û’ûû…ûuûeûXûKû=û+ûûûûûûûûûûû(û6ûHûRûNûZûlûvû{û}û|ûyûuûuûtûsûvû|ûû†û‡û‡ûûû‹û“û§û×û£û’û|ûwûûˆû‘û”û”û‹û…ûû†ûû~û}û|û}û}û|û{û|û}û~û|ûzûxûwûxûzûwûûû…ûwûzû€û|ûvûrûoûnûmûmûmûmûnûoûlûnû…û¢û³ûְû÷û±ûû†ûfûTûPûOûSû]û[ûSûOûMûMûLûMûOûOûOûQûQûOûMûLûLûLûIûFûCû@û@ûGûQûZûaû_û\ûYûWûVûSûNûHûAû9û/ûûûû
+ûûתתיתֿתֽתֽת־תׂתׁתװתאתחתךתלתיתדתßתÜתÚתÚתÛתÛתÚתײתֳת¾תֲתÊתױתÝתßתÝתװתֲתָתױתװתׂתÚת׃תְת÷תְתÊתֿת׀תײתױתׂת׀תֿתֿתֿתֿת׀ת׀תֿתֿת־תּתֳת¹תֵתֻתׂתװתׂתֿתּתÊתֹתֹתQûMûDû(ûûךתיתםתץתûתקתעתמתמתנתסתנתשתûûûûû û!û/ûTûvûûû£û›ûûû…û{ûhûWûGû9û+ûûûûûûûûûûûû7ûIûRûNû\ûmûxûyûzû|û{ûzûzûvûsûsûvûyûzûzû{û}û{û}û‘û®û·û¶û×û›û†û‚ûû’û“û’ûû~ûtûmûkûjûlûpûpûpûpûqûqûsûtû{ûzûxûxûyûzûpû„û–û•ûûvûdû\ûZûZû]ûaû_û\û\û^û_ûbûgûpû†û¡û´û¿û·û­ûû„ûjûUûVûVûWû\û[ûTûSûRûQûOûNûSûWûXûYûYûWûUûUûSûSûUûVûQûKûJûOûUû[û_ûbû`û]ûYûUûTûQûKûAû4û)ûûûûקתזת־ת־ת׀תװת״תװת׃ת׳תßתחתךתטתאתװתֶת¾ת»ת¼ת¿תְתְתֱתְת¾תֲתַתײתגתÜתÜתבתÛתײתּת¸ת¸ת½תְתְת¿תֵת־תײתװת׃תֽתֲת¶ת²ת±ת±ת²ת´ת³ת´ת´ת²ת±ת³ת¸ת½תֱת¿ת¹ת³ת®ת¬ת«ת×ת×ת×ת^ûQûHû:ûûמתותחתןתûתתתףתןתמתסתןתנתûת	ûûûûû û"ûCûZûuûûûûûûzûrûjûZûKûAû7û'ûûûûûûûû ûûûû6ûKûOûNû]ûlûwûxûxû{û|û{ûxûtûsûqûrûvûxûwûxû|û{û~ûû×û¼û»û°û¡û†û€û†ûûû‡û€ûxûrûoûlûlûnûqûqûpûpûqûrûvûwûlûfûbûbûeûgûoûˆû¢û¨ûûû{ûfû[ûXû[û`ûbû`û\û\û^û`ûfûlûyûûû©û§ûû‰ûxûbûQûWûYûXûVûRûPûQûSûQûNûMûRûWûXûZû\û\û\ûYûZû_ûdûcû[ûUûSûVû]û]ûbûbûaû^ûZûWûTûPûLûBû8û-û ûûûתתית־ת־תׂתÙתÝת״תױתײתßתזתיתיתךתיתזתבת־ת÷ת¼תְתֵת׃ת״תÚתױתÊתÙתלתותÜתÞתÚת׳תװתֹת¸ת½תָתֻת־ת׳תßתÞת׳תֿתֵת»ת´ת²ת²ת±ת²ת´ת²ת´ת³ת±ת­ת®ת²ת¿תֿת־תֽתּתֻתֹתָתַתַתָתUûEû=û"ûûחתחתחתכתמתפתצתפתעתןתלתךתיתנתתתûûûû û!û;ûWûqûûûˆû~ûpûeûXûIûEû>û ûûûûûûûû	ûûûûû+û9û>û>ûOûdûoûwûxûwûyû|û{ûvûtûsûsûvûvûxû|ûû€ûû£û÷ûֱû¶û¨û–û|ûyû}ûû|ûyûvûqûnûnûoûpûrûrûrûoûnûpûtûuûwûuûoûkûlûkûkûuû‘û°û®û¡û’û‚ûsûaûZû\û_û]û\ûZûXûXû^û`ûaûlûzû‡û›ûû•ûˆûyûcûRûWû[ûZûVûSûRûTûXûVûOûQûZû^û]û^ûaûeûfûdûeûlûnûgû_ûZûXûZûYûYûZû_ûbû`û]û[ûXûSûOûHû=û0û#ûûûזתֿתֽתׁתÙתגתגתÚתÚתÜתßתגתאתÜת״ת׀תֹתִתְת¾ת¿תֶתֿתֿתֵת½ת¾תֶתÙתןתלתÛתֹת¾ת÷ת¸ת¸ת÷ת¾תֹתׁתײתÞתדתאתÙת־תֳת½ת¹ת¶ת´ת³ת³ת²ת²ת²ת³ת´ת²ת³תµת¶תµת´תֱתּתּתֻתÊתֹתÊתÊתûpûYûAû(ûûחתותזתחתמתץתעתנתםתכתכתךתסת‎תûûûû û"û4ûOûfû|û|ûzûsûqûkû`ûQû@û)ûûûûûûûûûûûûû!û1û<û;ûNûhûyûyûvûtûuûxûzûxûvûuûtûtûvû{û|û~û~ûû„û’û§û·û¶û¯û£û‹û{ûyûû}û{ûwûtûoûmûnûpûrûsûuûsûqûqûoûnûnûlûlûjûjûiûiûuûû û×û¡û•ûû‚ûuûfû^û\û^û\û[ûZûYû[û]û`ûiûpûyû‰ûûtûpû_ûPûMûOûQûRûPûPûSûTûVûVûRûRûZû_û]û\û_ûeûgûeûfûlûqûlûcû[ûYûXûWûVûYûYû[û_û\ûXûTûMûEû<û/ûûûÿתטתׂתֿתֽתֽתװתÝתÝתÙתÛתÞתאתבתבתאתÜתÙתׂתֽתַתְת½ת¿תֱתִתִתָת־תׂתײתÛתׂתַתְת»ת¹ת¼ת÷ת¹ת÷תֱתֽת׃ת״תÞתבתÛת׀תִת»ת¶ת´ת´תµתµת²ת±ת²ת³ת´ת²ת°ת²ת¶ת±ת±ת¶תַתּתֽתֻתÊתÊתÊתfûXûDû-û"ûûםתטתלתנתעתפתםתלתךתךתםתמתעתûתûûûûûû:ûRû`ûtûkûdûbûgû`ûYûNû<û(ûûû ûûûûûûûûûûû û4û6ûCû`ûqûyûuûtûvûvûzûyûvûvûyû{û|û}û{ûwûsûvû|û‚ûû û§û¨û£û’ûzûrûzû{ûxûvûqûlûmûnûqûwûzûzûuûpûmûjûiûjûiûjûlûkûjûgûhûxûˆûû£û•û‘û‰ûyûhû^ûZû\ûYûWûVûTûUûWûYû`ûgûgûsûjûXûRûHûAû>û@ûAû>û?ûAûHûLûPûUûVûWûZû^ûZû\ûaûeûiûgûeûhûmûjûbû[ûWûWûWûUûYûZûYû\û[ûWûRûMûEû9û(ûûû‎תכתֿתÊתֵתֶתּתׂת׳ת׳ת״תÜתÝתÛתÚתÚתÞתÜתÚתÙתװתֻתָתֹתּתׁתײתױתׁת־תָתִתֱת¿ת½ת¿תְת½ת¸ת¸ת¹ת»תִתֽתׂת״תÞתײתֻתְת¹ת·ת¶ת¶ת¸ת¶ת°ת¯ת°ת¯ת­ת¬ת«ת¬ת¬ת­ת³ת¾תÊתÊתָתֹתֹתÊתÊתgûYûGû7û/ûûםתותטתמתעתמתךתטתזתזתיתטתכתקת	ûûûûû û+û2û@ûJû@ûAûBûFûFûEû;û.û ûû	ûûתÿתûûû	ûûûûû û(û5û=ûAûUû^ûhûoûuûuûuûwûvûwûyûzû{ûzûyûwûsûrûsûuû}û†û›û₪û û›û‰ûuûsûwûvûrûrûoûmûmûoûqûvûuûtûuûoûkûjûhûiûjûhûiûhûiûiûgûrû„û’ûû‹ûˆû†ûqûZûPûPûQûKûIûIûHûDûCûJûJûPûQûXûVûRûQûPûIûDûCûEûEûBûCûIûMûOûSûUûYû]û]û^ûbûcûbûcûcûbû_û\û[ûZûXûTûSûRûRûSûUûWûRûKûDûAûCûEû<û0û"ûûûףתךתדתױתֻתּת־תֿתײתÚתÜת״תׁתֿתװתÝתßתßתÞתÛתװת׀תׁתׂת׃תױתױת׃תֿתֹתֵתֲת¾ת»ת»ת¼ת÷ת¸ת¸ת·ת¸ת¸ת½ת¿ת¾ת¾ת¹תµת·ת·ת¶ת·ת¹תֲת¾תµת´ת»תÊתֽתֽתֽתּתÊתÊתֽתֽתֽתֻתָתֹתֹת¿ת«תgûZûJûHû5ûûתתכתעתפתפתלתטתהתדתגתבתדתזתףת‏ת	ûûûû û&û/û<ûJû9û8û?û>û5û3û-ûûû‏תûתûתüתÿתûûûû ûÿתûûû0û=ûEûEûUûcûgûqûuûtûuûvûvûwûzû}û|ûzûvûsûrûrûsûwû|û‰û‹ûûûmûhûkûnûnûlûoûlûjûiûjûlûqûqûrûsûmûiûhûfûfûfûfûfûdûcûdûiû|ûûûˆû|û|û€ûpûYûMûLûNûJûHûIûGûCûBûEûDûLûKûVûLûIûKûCû8û2û1û0û1û0û5û;û=ûAûKûOûSûWûXûYû^û]û\û[û\û[ûZûWûWûWûVûTûPûQûTûVûWûWû]û[ûWûQûLûEû9û,û!ûûÿתףתךתהתײת׀תײת׳תÝתÙתׂת׃תׁתÊתÊת׀תױת״תÙת״תÙת״תײתÙתÙתÚתÛת״ת׃תֽתַת¿ת¼ת»ת»ת»ת÷ת¹ת·ת¶ת¶ת´ת´ת´ת²ת°ת°ת±ת°ת¯ת¯ת¯ת°ת¹תֲתֽת׀תֿת־ת־תֽתֽתּתֻתֻתּתֽתֽתֽתֽתֽתּתָת¸ת¬תcûVûGû:û7û.ûûפתטתכתסתצתשת‏תûתתתתתûת‏תûûûûû!û!û!û û"û%û*û'û)ûûûûûûÿתûתשתתתתתûת‏תÿת û
+ûûûû"û,û9ûFûKûGûTûeûmûuûyûzûxûyûxûzû|û~û~ûzûwûsûqûrûsûvû}û†ûû€ûwû|ûpûiûjûkûlûmûkûkûjûjûiûkûmûlûnûlûfûcûaû`û^û[û^û_û\û^ûlû~û|ûuûvûsûjûeû`ûNûIûFûJûGûCûCûFûBû?ûBûDûCû@ûAûMû=û6û2û0û-û*û)û*û)û/û8û<ûCûKûOûRûUûZû[û_û`û^û\û[û[ûYûYûYûYûYûTûQûQûQûQûQûTû]ûZûUûOûGû>û4û&ûûûûקתמתזתÛת׀תÜתÞתÝתױתֿתׂתׁתֻתֻת׀ת׀תׂת״תÚתÛתÜתÜתÝתÝתÝתÜתÜתÝתßתגתבתßתÝתÜתÚתÙתÙת״תײתױת׃ת׃ת׃תׂתׂת׃תײתÚתÞתבתאתאתגתאתÛת׃ת»ת°ת¯ת®ת¬ת«ת«ת¬ת­ת®ת®ת­ת­ת­ת­ת¯ת²ת·ת‡û~ûqûeûWûBû*ûûכתסתקתרתםתזתהתהתגתßתותסת ûûû û!û!û!û!û#û%û$û%û&û#û!ûûûûû‏ת‏תûû	û	ûûûûûûûû"û1ûIûRûLûUûhûpûvû{û{û{û|û|û~û€ûûû|ûvûqûnûoûqûqûqûuûwûvûwûsûkûmûlûnûmûnûoûkûkûmûmûoûmûnûoûeûaû`û_ûZûWûXûWûSûPûVû[ûaûcûiûaûTûUû[ûPûAûBûQû=û8û8û9û4û2û5û7û3û7ûAûAû:û4û$ûûûûûûûûû'û.û5û?ûCûIûOûTûZû\û\ûZûYûZû[ûZûYûYûYûYûSûPûOûOûPûQûRûOûMûRûLûBû7û,ûûûûתתעתמתםתחתןת‏תû ûמתגתÜתֽת־ת־תּתֻתֽתױתÚתÜתÝתÛתÛתÛתÙת׳ת׳תױתׂתׁתׁת׃תÝתÝתÚת״ת׳תײתװתװת׃ת׃תװת״תÜתßתגתדתחתכתםתןתפתסתלתךתטתותÝתׂת׃ת׀ת¾ת­ת®ת²ת·ת½ת÷ת¶ת´ת¸ת¿תֱתpûfûZû\ûTû@û%ûûטתםתףתףתיתותגתאתÞתÜתדתנתû
+ûûû	ûûûûûûûûûûûûûûûûû
+ûûûûûû‏תûתתתÿתûû/û7ûEûGûVûhûoûuûwû{û|û{û{û}û~û‚û€û|ûwûsûqûpûpûpûqûqûoûoûoûnûlûnûnûpûrûrûnûlûkûkûkûkûhûjûjûcû_û^û[ûUûPûSûQûLûKûQûRûMûPûUûQûKûMûRûIû@ûAûMû8û1û2û3û0û*û*û)û$û#û'ûûûû!ûûûûû
+û	û
+ûûû%û/û9ûBûJûQûTûYû^û[ûYûVûWûYû[ûWûVûWûTûQûTûVûPûNûPûTûUûOûGû=û4û8û2û$ûûûÿתץתמתלתזתצתû	ûûףתות׳תָתֻתֻתֹתַתֻתׁת״תÜתÜתÚתײתׁת־תֽת־ת־תֿתֿת׃ת״תױתׁתײתÛתÝתÞתÝתגתטתלתנתףתפתפתצתרתכתׂתֽתֿתׂתׂת׀תֻתַתֳתֱתְתְתֱת¾תֵתֽת÷תµתµת·תµתµת·ת¼תְתqûgûYûIûCû>û$ûûךתמתקתצתצתûתשתקתץתחתגתםתüתûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûû7û8ûEûJûWûhûoûvûzû{ûyûyû{û~ûûzûzûuûqûqûpûqûpûnûoûnûnûoûoûnûoûrûpûuûuûqûoûjûgûfûhûeûcûdûbûYûUûXûVûMûLûRûRûLûPûZû`û_û\û`ûWûMûLûIû5û,û*û*û!ûûûûûûûûûû
+ûûûûûûûûûûûûûû)û2û;ûDûMûUûWûZûUûQûPûSûTûSûQûRûSûPûNûPûSûQûOûOûQûSûRûTûSûMûCû8û+ûû
+ûתתףתנתסתףתû!û)û!ûûûגתÚתִתֱתֱתֱתֲתֵתÊתױתÚתÙתװת־תֻתֹתÊתֻתּתֿת׃ת״ת׳תßתגתדתדתגתותכתמתןתמתאת־תÊתֻתֿתײתÛתבתחתפתûûûףתךתטתחתהתßתױתÊתֶת׀ת½תµת¸ת¹ת³ת¯ת°ת­ת‘ûˆû~ûrûcûMû/ûûÿת‎ת‎תüתûתûתתתתתשתצתטתםתתתûûûûûûûûûûÿת‎ת‎ת‏תûûûûûûûûûûûûûûûûûû*û=ûHûHûVûfûpûuûzûyûwûvûuûxûzûyûvûuûsûpûpûqûpûqûoûoûoûoûoûpûnûoûqûsûtûwûrûnûjûeûdûdû]û[ûZûXûQûMûNûMûEûBûGûFû@ûCûHûDûAû@û@ûGû4û/û(û"û!û!û#ûûûûûûûûûûûûûûûû ûתת‏תÿתûûûûûû)û4û9û@ûLûYû_û]û]û[ûWûVûYûXûTûSûRûUûUûTûQûPûSûUûWûVûMûHûGû<û-ûûûûתףתםתותמתûû+û.û(ûûûץת׳תֹתֳתֳתִתֶתֶתÊת׃תÜתÝת״ת׀תֻתֻתֽתײתגתיתןתףתכתױתׂת״תÜתÜתÜתÝתÝתÚתÙתÙתÛתßתגתהתזתותחתלתףת ûûûûÿתûתתתרתץתסתםתÞתֻתַת»ת²ת±ת¯ת­ת¬ת¬ת–û‡û|ûlû[ûBû!ûûןתרתקת‎ת‏תüתתתתתשתצתטתלתüתûûûûû
+ûûû	ûûûûÿת‏תûûûûû û ûûûûûûûûûûû	ûû*û1û2û>ûQûfûqûxûzûwûxûvûuûtûrûoûmûkûkûkûjûkûjûiûjûjûkûkûlûlûnûtûxûyûsûmûiûgûeûaû\ûXûXûWûQûNûKûEû@û@ûDûKûIûHûIûCûAûDûBû<û5û.û(û!ûûûûתתשתרתצתצתצתקתץתפתפתפתץתסתמתלתכתלתעתקתקתתת‎תûûûû'û.û8ûFûUû]û`ûcûbû\ûVûSûUûUûSûPûPûRûSûSûRûQûSûRûQûOûJûAû7û;û1û!ûûûצתןתחתבתפת
+ûû,û,û ûû‎תÞתּתֵתֶתַתָתֻתֽת׀תװת״תÝתÚתÜתדתןתûתûû	ûûûûûûûûûûûûûûûûûûûû!û ûûû!û!ûûû ûÿת‏תûתצתףתןתות׳תַתֶת°ת­ת×ת©ת¨ת©û—ûƒûtûdûPû5ûûÿתרת ûûתÿתÿתûתûתרתלתהתפתû	û
+ûûûûûûûûûû
+ûûû ûûûû
+ûûûûûû ûרתץתקתקתקתרתÿתû(û4û=û8ûCûUûfûpûvûxûyûxûtûsûrûqûpûmûkûjûkûlûhûfûhûiûjûjûlûmûrûvûvûuûoûjûgûcû`û]ûZûUûPûNûKûFû@û<û7û0û*û)û(û(û2û9û:û;û9û3û,û$ûûûûû‏תעתסתסתףתעתעתפתפתסתנתנתעתעתמתטתזתחתךתלתנתקתתתקתûתûûû&û1û>ûMûUû[ûcûeû^ûVûSûRûTûTûQûNûOûNûNûOûRûPûMûHûDû?û8û2û6û.û!ûû ûßתׂתׂתÚתכתûû#û%ûûû‎תבתֿתױת״תײתÝתהתהתגתאתÞתÛתÞתזתןתûתûûûûûûûûûûûûû û!û$û%û&û'û%û&û(û)û+û,û#ûû$û$ûû
+ûûûû‎תתתרתףתיתßתׂתװת׳תּתֹתָתַת´û¢û‡ûtûdûMû,ûûרתשת‎תרתסתךתהתßתÞתגתךתץת‏תûûûûûûû#û ûûûûû ûÿתÿתÿתûû û ûûûüתרתץתץתרתרתפתפתשתûû%û0û@û@ûEûQûcûoûtûxûyûûƒûû€û€ûû€û€û}û{ûnûeûhûhûkûkûlûmûpûqûuûuûuûsûqûoûmûkûiûfûbû_ûZûYûPûLûFû?û4ûûû!û,û2û3û0û/û'û ûûûûûû‎תכתךתכתםתןתסתףתפתסתןתןתנתמתזתßתÜתÝתבתזתףתשת‎ת û
+ûû#û"û"û-û9ûCûJûSû^ûcûdûZûUûTûUûUûQûMûOûOûTû^û`û_û]ûZûUûOûDû:û1û&ûûû‏תגתײת׳תװתÚתותתתûûûû‏תךת׳ת״תÚת״ת׳תÛתדתבתÝתÝתבתךתצתûûûûûû û"û%û&û'û'û'û'û)û+û,û.û.û.û/û0û2û4û7û7û9û5û$û+û1û/û>û?û9û4û4û4û1û*û%ûûû ûןתÜתֿתָתִתֵû´û›ûƒûuûeûSû:ûûרתתתÿתקתמתחתגתהתםתץתüתû	û
+ûû	ûûûûûûûûûû û‎ת‎תûתûת‎ת ûÿת ûûÿתüתשתשתשתüתûûûûû&û+û8ûHûCûKûYûhûpûvûwûvûsûpûmûmûnûlûjûiûfûgûmûjûjûhûiûhûfûdûeûaû[ûVûTûQûMûLûKûEû@û?û@ûKûFûCû@û8û0û*ûûû û,û6û4û2û1û*û#ûûû	ûûתתותהתותדתדתהתהתהתחתםתנתםתכתיתהתÞתÝתÜתאתדתותךתןתףתûתûûû$û2û@ûJûPûZû^û]ûXûUûUûUûRûPûPûOûPûOûOûQûSûRûOûPûVûRûNûHû@û8û+ûûûכת׳תÙתÙתבתקתûû
+ûûןתװתֿתÙתאתאתÜתßתגתגתבתßתÝתÞתגתךתצת ûûûû!û&û,û1û7û<û@ûCûFûIûKûLûMûNûMûGûDûJûKûIûHûEûBû6û.û?ûAû4û?ûAû<û9û9û5û-û%ûûûûפתאתװתֽתֶת»û¥ûƒûnû[ûCû-ûûעתיתהתבתßתבתבתßתÞתגתךתפתצתשתÿתûû	ûûûû ûûû	ûûûûûûûûûûûÿת‏תÿת‏תתתתתתת‏תûûûûûûû(û2û@ûJûMû\ûnûvûxûtûqûoûqûvû€ûû~ûrûtûuûûû}ûyûvûqûnûkûdû`û]ûYûRûQûPûLûHûEûEûAû>û>û=û:û7û6û2û,ûûû&û4û7û2û2û*û ûûûיתאתבתבתÝתÛתÚתÝתאתזתךתךתךתיתטתלתלתךתהתאתÛתÛתגתןתצתשת ûûûûû,û;ûHûNûQûXû[û_ûbûcû\ûUûSûSûVûTûRûQûRûPûRûQûOûQûXûXûUûPûHû>û1û"ûûיתÛתÚתװתײתÙתײת׃תׁתׁת׀תֿתֽתֽת׀תׂתװתׂתװתײתßתגתותךתןתצתûûûûû û%û*û.û4û8û=ûBûEûIûKûNûPûQûTûUûUûUûVûUûVûVûUûUûHûIûTûPûOûVûLûIûHûBû7û1û(ûûûüתותױתּתֵתüÜû÷û˜ûwû^ûDû%ûÿתותßתÞתÝתÝתÝתÞתהתלתנתףתקתÿתûû
+ûûûûûûûûûûûû‎תÿתûûÿת ûÿת‏תüתתתתתשתשתûת‏ת ûûûûûû'û4û>ûFûGûVûdûpûtûuûrûoûpûpûqûrûoûuû‹û›û›û–û‹û‡ûƒûuûpûlûmûgûcû^ûZû[ûUûPûMûKûIûAû>û?û6û/û,û(ûûûû
+ûûûûûûûûûûûתגתÞתגתהתבתבתßתÝתÛתÝתßתהתיתכתלתמתנתךתהתגתגתותגתדתכתצתûû*û-û#û.û:ûAûEûIûOûUûWûXû\û_û_ûWûTûTûTûSûPûOûRûUûTûWûZûUûNûFû<û2û'ûûûהת״תײת׃תׁתװתÚתÝתטתלתמתכתזתבתßתבתגתגתגתגתדתזתסת‏תûûûû$û-û2û4û5û4û6û1ûûûûûû!û&û)û,û/û2û7û>û>ûCûQû[û`ûaûWûRûcûfûYûYû_û]ûXûTûOûGû<û.û"ûûûתתלתßתֿתBüüדûֱû”ûoûUû:ûûסתאתÝתÚתÛתÜתÝתדתםתסתפתשת ûûûû	ûûûûûû
+ûûûûûû ûÿת‎ת‎ת‏תüתüתתתתתתתתתתתûת‏תÿת‏תûתûת‎תûûû3û;û=ûMûXûbûgûmûsûvûuûrûyû|ûvûvû’ûûûû”ûû‡ûzûnûoûlûfûaû[ûSûRûPûIûCûAû>û8û2û0û-û$ûûûûûûת ûûû	ûûûûûûשתאתאתותכתלתטתיתכתכתןתûתûשתסתטתאתÞתבתßתÜתÛתÛתÙת״תÞתזתסתûû!û0û9û1û6ûBûIûMûPûSûVûYûYûYûVûOûKûJûLûOûPûNûPûRûUû]û\ûXûSûNûEû;û.ûûûצתÚתײתֿתֽת׀תװת׳תÛתÝת׳ת׀ת־תֽתֿתׁת׳תבתגתגתאתותמתרתû
+ûûû$û,û0û%ûû û&û*û-û0û3û5û7û9û;û<û<û;û:û<ûDûRûYûWûWû[û]ûVûQûcûhû\ûQûGûBûBû?û:û6û4û1û+û!ûûשתחתÞתÝתXüüֻû”ûrûHû+ûû
+ûכתÝתÜתÝתÜת״תÚתבתטתםתסתץת‎תûûûûûûûûûû‏ת‎תû
+ûûûû‎ת‎תüתûתתתרתשתרתרתקתרתרתתת‎תûתרתשתûûûû*û6ûJûTûXû]ûhûpûrûsûqûrû}û†ûˆûû§û°û³û¯û¨ûû†ûrûqûmûfû`û\ûVûRûOûJûFûBû=û7û2û,û'û ûûûרתצתצתשתרתקתרתשתû
+ûû‎תכתבתגתדתיתעתעתןתסתפתקת‏תûûשתלתאתÜתßתÞתÛתÛת״תׁתׂתÚתותûתû û.û+û*û;ûNûZûYûXûZû]û]ûZûYûYûXûTûOûMûNûPûSûPûPûTû^û`û]ûYûRûJû=û1û#ûûûßתׂתֿתּתֽת׀תװתײתÛתבתאת״ת׃ת׀תֿת׀ת׀תֽתֿתׂתÝתנתתתûûû"û-û6û8û)û%û/û6û9û=û@û@û@ûAû@ûAûAû?û=û;û9û=ûFûUûYûVûYû^û`ûVû\ûkûdûWûOûKûJûIûHûGûFûDû@û<û7û/û#ûû ûיתküJüüײû—ûaû0û#ûûץתÜתÜתÜתÛתÚתßתדתחתכתנתûת ûûû‏תüת‎תûûûûûûû	ûûûû	û û‎ת‎תתתתתרתקתקתקתרתשתתתתת‎ת‎ת‏תûûûûû!û4ûCûJûKûPûXûaûjûoûqûpûpûuû€û‡û û«û²û´û®ûû†ûiûlûiû]ûUûMûFû@û;û5û1û,û'û#ûûûûûûû	ûûûûûûûûûûÿתמתÞתאתבתזתןתפתףתסתעתעתפתûת‏תûתףתרתצתסתנתןתםתסתףתןתÞתױתגתרתûû&û(û$û4ûEûVû\û[ûZû[û]û]ûZûWûUûRûPûMûMûPûPûNûOûTû[û[ûXûRûIûAû7û.û!ûûûךת׃תׁתֽתֻתֽת׀תׁתױתÝתßתÜתײתװתװתײתßתזתיתסתüת	ûûû%û-û1û'û!û%û+û3û;û@ûBûDûDûEûFûDûDûEûFûEûFûHûIûJûKûJûKûWû`ûSûSûYûZû[ûZûVûSûQûOûOûMûKûIûGûCû=û4û)ûûûךתױתZüNü#ü׀û—ûbûBû3ûûûותÛתÜתÜתÜתÞתבתותטתמתצת‎תûû û‎ת‏תû
+ûûûûûÿת	ûûûû	ûûûû‏תשתקתצתצתרתרתץתפתרתûת‏תÿתûûûûûû'û8ûBûHûMûUûZûdûmûmû{û‚ûû•û°ûַû־ûֿûֻûְû±û¢ûˆûkûkûfû]ûWûQûLûFû?û8û.ûû	ûûûתצתפתסתםתםתמתעתפתםתזתדתגתדתותזתדתßתßתßתßתגתכתסתעתעתעתףתצתפתלתßת״ת״תÛתאתטתעתמתזתדתחתסתתתûûû'û.û$û"û.û=ûPû[û[ûYû[û]û[ûZûXûUûTûTûTûWûaûbûcûbû_û[ûVûNûFû=û3û*ûûûûÿתרתףתןתלתיתטתזתזתזתחתחתטתזתחתטתכתסתשתûûûû%û-û3û5û'ûû&û-û4û<ûDûFûFûGûGûHûGûGûJûNûNûOûNûNûNûLûJûIûKûNûTû`ûkûnûfû^ûTûNûMûNûOûOûOûMûIûEû=û4û,ûûûüתחתXüGü	üֲûˆûSû3ûû‏תות׳תÚת׳ת׳תÜתבתדתבתאתאתדתלתצת‏תû û‎ת‎תûûûûûÿתûûûûûûûûûû
+ûûÿתûתשתצתפתףתףתרתûתüת ûû
+ûûûû0û>ûHûNûRûZûdûtûyûû†û‘û₪ûְûÙûגûÞûײûּûְû°û—ûyûfûiû]ûQû9û$ûûûûû
+ûûû‏תצתצתץתסתןתנתסתףתםתחתחתותדתזתלתטתדתאתÜתÝתהתלתןתנתנתמתכתיתהתßתÛתÛתÜתÚתÚתאתכתעתמתיתעתרתüתûû!û-û$û'û6ûDûQû]û_û[ûYûWûYûYûYûXû^û`û`ûaûdûhûjûkûjûgûbû]ûVûNûEû:û.û!ûûûÿתûתרתץתעתנתםתלתכתכתכתכתכתםתנתפתקתתת ûûûûû%û.û3û,û"û+û4û<ûDûIûKûKûKûKûJûLûNûOûOûQûPûMûMûNûNûLûJûHûIûKûPû\ûoû{ûzûoûeûWûOûPûTûSûOûMûLûJûCû:û.û!ûû‏תכתTü>üüׁû¡ûfûOû!ûûףתÞתÛת׳ת׳תױת״תßתßתÝתÜתÞתהתמתûתûûÿתûûûû
+û
+ûûûûûûûûûûûûû	ûÿתצתףתץתףתסתנתעתצתרתתתûת ûûû$û4ûBûLûMûNûVû^ûdûjû{û…ûû•û²û׀ûגûוûÞûױûָûµûû„ûjûfûZûOûDû;û&ûû
+û
+û	ûû‏תקתעתסתנתמתכתםתנתףתםתכתםתכתטתזתחתחתדתÞתÝתÞתדתיתםתןתנתכתטתותגתßתÞתבתבתßתÛתÜתבתלתןתכתיתפתüתûû%û2û,û2ûCûTû\ûaûcûeûeûcûbûbû`û]û[û^û_ûbûfûjûnûoûnûkûgû_ûVûNûCû7û+ûûûû ûüתתתשתצתפתסתןתמתנתסתעתףתףתפתצתûתûûûû û'û/û5û-û*û5û@ûJûNûOûRûSûSûSûPûMûNûQûTûWûWûUûQûOûOûOûNûLûLûOûRûZûiûwû€ûûsûdûUûQûSûTûSûOûLûMûJûCû9û/ûûûתתחתfü2ü üÙû±ûrûXû1ûûÿתךתÛתÜתÝתÚתÙתÜתßתאתÞתÞתחתנתûתûûûûûûûûûûû
+ûû
+ûûûûûûûûûû‏תקתקתצתצתצתצתקתתתûת‎תûûû"û.û8ûEûGûIûIûNû]ûfûmû|ûûû¦ûִûÚûיûיûÝûֿû½û¦ûûmûgû[ûNûCû;û3û,û'û ûûûûûûûûûûûûûû‏תûûûצתיתזתזתדתאתבתהתיתמתסתעתןתךתחתהתגתדתזתחתהתßתÝתותךתכתכתסתרתûûû(û,û!û/û>ûEûMûTûVûXûVûUûVûUûTûQûOûKûGûIûKûTû\ûfûrûpûjû`ûTû;ûûû
+ûûûûû û‎תûתשתרתצתעתףתץתץתשתÿת‎תףתלתûûûû%û,û4û:û5û)û2û;ûDûMûPûPûSûUûTûSûQûOûPûQûTû[û]û[ûXûSûRûQûOûOûSûXû[ûcûnûuû{ûyûpûbûTûRûSûTûSûPûLûKûHûBû:û.ûûûûûˆüLüüבûְû•ûjû\û=û"ûתתײתױת׳ת״תÙתÜתÛתÜתÜתÝתהתסת‎תû û ûüתüתûûûûûû	ûûûûûûûûûû	ûÿתקתעתןתעתÿתûûûûûû(û1û9ûAûGûMûSûWû[û^ûSûSûbûkû}û†û‰û¡ûְûÚûחûגû׃ûֲû°ûû|û`ûbûXûOûFû?û8û3û0û,û(û'û%û"û ûûûûûûûûûûûûûעתזתדתהתהתדתזתךתלתןתעתעתןתיתהתאתÞתאתדתזתטתגתÜתÚתÞתßתותעתרת ûûû'û û$û4û@ûEûPûVûVûXûWûUûQûPûNûOûOûIûCûIûUûcûoûqûmûuûqûiûTû5û-û'û ûûûûûÿת‏ת‏תüתûתשתרתצתטתבתזתטתכתףת‏תû û(û.û4û;û?û@û1û,û4û>ûGûMûQûQûRûUûUûTûRûPûPûPûTûYû[ûZû[ûZûVûUûTûUûZûZûZû^ûfûjûnûmûeû\ûUûSûUûUûSûQûLûKûJûFû=û0ûûûûû«ünü üüַû˜ûiûFû"ûûûשתÛת׃תÙתÚתÙת״ת״תÚתÝתדתמת‏תûÿתüתûתÿתûûûûûûû‏תÿתûûÿתû
+ûûÿתûתקתףתעתעתפתüתûûûûû û(û1û8ûAûIûQûXû^ûcûhûmûrûxû{ûû†û…ûû¶ûֹû׀ûּûִû¹û­û˜û}ûcûeû]ûRûJûCû=û8û4û/û-û,û*û)û)û)û*û*û)û'û'û'û"ûûû
+ûû‎תנתחתהתזתחתחתטתיתמתנתנתםתטתדתßתÝתÞתאתהתטתמתםתלתלתןתפתשתÿתûû'û+ûû&û6ûAûCûFûMûTûWûWûUûQûNûLûMûMûJûDûLû]ûpûxûuûlû`ûTûIûDûDûBû9û.ûûûû	ûûûûûûûûûשתםתףתףתצתûתûû,û4û:û=û2û*û0û8û@ûIûPûPûQûRûPûRûWûXûVûTûSûUûUûSûRûSûTûWûYûWûUûQûSûWûXûXû[û^ûcûgûfû^ûXûRûSûUûTûRûNûJûIûFûAûDû<û0ûû	û‏ת¿ü™üLüüזû¡ûxû^û0û	ûיתאת׳תׂתױתײת״תײתװתײתÛתבתמת ûûûûÿתûûûûûû	û‎תשתרתתתתתתתûûûûûûûûûû	ûûûûû"û/û<ûEûNûVû[û[ûQûLûXûdûqûwûzû{û~û‚û‚ûû«û»ûֳûֵû½û®ûû“û€ûqûoûcûZûTûNûHûCû?û<û:û9û7û7û7û6û6û6û4û4û3û1û.û(ûûû‏תûתמתותדתדתזתדתדתזתךתלתלתיתחתותותןתףתפתעתסתסתמתםתעתקתתת‎תûûû$û+û'û%û6ûAûCûFûMûTûWûSûRûPûLûHûIûJûIûFûOûaûvûû~ûtûkû`ûSûIûFûEû@û6û&ûûûû	ûûûûûûûû&û*û-û/û0û2û4û7û<û?û?û8û'û(û/û7û@ûHûOûRûSûSûRûWûaû^û\û^û`û_ûXûUûRûSûVûWûVûTûRûOûQûTûVûWû[û[û\û_ûaû\ûWûRûSûTûRûPûMûHûHûOûLûDû;û-û ûûûֶü·ü˜üLüüÚû¯ûvûRû ûûûûלתותעתעתעתסתמתßתאתמתüת‎תצתשתû#û/û%ûûûûûûûûûûûûûûûûûûûûûû
+ûûûûû)û9ûFûPûTûJû@ûFûMûYûaûbûfûjûmû{ûû|û}ûû û¨û¬û¨ûû—ûû}ûpûqûjûeû_ûYûTûQûNûMûLûKûKûMûLûNûNûMûLûKûIûFûCû>û6û.û"ûûםתזתגתאתדתבתßתגתטתיתךתטתותהתגתÞתÛתÛתßתכתסתןתלתÞתÝתנתûûûû)û'ûû,û9û>ûBûGûLûOûQûQûOûMûHûEûDûCûCûFûMûXûiûuû{ûuûnûdûWûMûFûAû;û2û ûûûקתרתÿת
+ûûûûû$û+û/û4û6û7û9û9û:û>ûBû:û)û*û1û;ûFûMûNûNûOûQûQûRûXû\û[û\ûZûYûXûUûSûQûNûNûOûNûOûMûKûKûNûPûRûYûdûgûgûfûgûfûcû`û`û^û\ûZûXûXûTûOûGû>û2û%ûûû־ü¾üüXüüÚû§ûmûVû,ûûûשתÝתױת׳תÙת׳ת׃תױת״תגתסת‎תûûתרת ûû-û'ûûûû‎תקתרתצתפתûתûûûûûûûûûû
+ûûûûûû1û?ûKûPûGû?ûGûOûVû[ûbûgûiûjûmûyû~ûƒûƒû„û‚ûû₪û¥ûû”ûûxûoûvûqûmûjûfûbû^û[ûZûZûXûUûTûSûSûSûRûPûMûLûMûJûGûDûBû>û7û-û!ûû‎תבתÝתÞתßתגתותיתיתךתמתמתםתיתחתותזתטתנתןתךתÚתדתףתû
+ûû%û-û"û#û1û=ûBûEûKûNûPûTûTûQûLûGûBû?û@û@ûAûHûQû`ûkûvûuûnûbûVûKûCû8û-û#ûûûû ûûûûûûû!û)û0û4û6û:û<û8û'û û-û@û;û.û4û=ûHûRûTûSûQûQûQûRûWûZû[ûYûYûWûWûVûTûUûTûPûMûNûMûMûKûKûLûQûRûQûTûVûWûYûWûSûPûNûMûMûNûKûJûQûRûRûMûEû;û.ûûûûְü¯ü‘üQüüהû¬ûuûZûHû#ûû ûסתטתׁתׁת׃תװת׳ת״תÜתחתץת‎ת‎תצתûתû ûûûûתתרתצתקתצתüתûûûûûשתצתצתרתûûûû
+ûûû û0û?ûFû;û@ûJûSûYû`ûdûoûyû{û}ûû„û†û‰ûˆûˆû„ûû–û˜ûû‚ûsûqûxûuûrûqûpûnûkûiûgûgûfûeûdûcûaû^û\ûYûWûVûTûRûMûKûIûFû@û8û+û!ûûûזתÙתÚתÛתÝתדתותהתאתאתזתךתלתמתלתךתלתעתסתנתמתותףתûûû%û(ûû*û9ûDûFûHûLûJûLûOûKûEûAû<û7û4û4û7û8û<ûCûKûWû`ûdû`ûaûbû]ûXûMûBû6û)ûûû‎ת ûûûûû"û)û.û"ûûû û"û%û*û2û:û>û;û=ûBûFûKûSûWûUûQûNûNûNûNûQûVûWûVûUûRûQûPûNûNûLûJûHûFûHûLûNûOûPûQûUûWûVûWûVûPûNûPûQûOûRûYû[ûYûXûWûVûRûLûDû9û(ûû
+û¶ü«üü‰ü]üüתûױûû\û+ûûû‎תנתלתײת׳ת׳תÚתßתותנתתת‎תרתףתשתû
+ûûûשתצתצתץתפתפתקתûûûûûûûûûûûû
+ûûû û2û?ûFû@û=ûGûPûXû^ûcûeûgûjûiûjûkûkûwûû|ûwûsûpûmûkûgûdûdûeûcûbû^û\ûYûSûMûEû?û@û?û<û;û<û=û>û?û>û?û@û>û=û@û@û=û:û4û,û%û#û+ûûûבתÛת׳תÙתÚתאתותגתדתזתךתןתנתלתטתהתבתÜתÞתמתûûûû%û-û!û#û1û<ûAûDûFûIûJûIûJûJûFûAû<û5û0û/û2û6û8û?ûHûRûYû]ûaû`û[ûUûOûHû=û6û.ûûûתת‎תû	ûûû%û.û.û"û+û2û4û7û8û?ûIûQûKûHûKûNûOûRûXûYûUûSûPûOûNûLûMûPûUûVûUûSûQûMûJûJûKûJûHûHûKûNûNûOûPûPûTûVûVûYûYûVûTûSûRûPûNûLûJûIûFûFûCû:û/û,û*ûûûשת¢üü‘ü„ünü=üüץû¨ûhûRû1ûûûשתחת״תאתדתותגתגתטתףת‎תûûûûûûûûעתףתץתףתףתצת‏תûûûûûûûûûûûûûû0û@ûHû>û?ûJûTûZû_ûcûgûfûgûhûgûhûiûtû‹û•ûû‰û€ûoûkûgûaû`ûaû`û_û^û^û]û]ûYûUûOûMûNûPûNûMûMûOûQûPûNûMûOûPûRûSûQûPûMûGû@û2û$ûûûûאתױתײתײתÛתגתדתאתßתדתיתכתיתותבתאתאתßתאתםת ûûûû(û-ûû&û3û:ûAûEûJûNûKûKûLûJûEû?û8û1û-û0û5û:û>ûEûGûIûGûDûAû=û:û:û8û2û%ûûûûûûûûûû$û,û+û$û/û;ûCûDûEûEûHûPûVûQûMûMûNûQûSûUûVûSûPûMûKûJûJûJûJûMûRûWûUûRûMûJûKûJûIûIûKûMûMûOûNûMûNûPûTûTûUûVûUûPûNûMûJûKûIûFûDûDûAû:û/û&û'û ûûûץת–ü‘üü}übü4ü üü¶ûkûPû'û‎תדת״תװתÚתאתהתדתהתזתכתפת‎תüתûûûûûûû‏תנתנתנתנתףתûתûûûûûûûûûû
+ûûûû.û;ûDû@û?ûLûYûaûdûfûhûiûiûjûlûpûvûû›ûûû‚ûsûkûiûhûgûgûgûeûcûaû`û_û]û[ûXûRûOûPûSûRûPûOûPûSûSûRûRûSûTûVûWûVûVûUûPûJû?û0û!ûûûûןתװתױתÙתßתגתאתÞתאתותהתÞתÛתÚתÙתÛתÞתהתךתתתûûû+û,û û,û7û?ûEûHûLûNûMûLûLûHûBû;û3û/û,û0û5û;û@ûGûGûIûHûCû?û=û;û<û:û4û*û#û/û,ûûû ûûû&û-û)û'û3û?ûHûLûNûMûLûMûOûSûSûOûNûQûSûSûTûTûTûQûMûLûKûHûIûJûMûRûUûTûQûLûJûKûIûIûIûKûMûLûMûLûLûJûJûLûPûUû\û\ûbûcûaû^û^û\û[ûYûWûSûNûHû?û3û&ûûûûü…üütü]ü4ü üüׂûwûJû+ûûßתײתװתÙתßתßתßתגתזתיתנתüת	ûûûûûûûûûûûûûûûûûûûûûûû
+û	û	ûûûû.û=û?û:ûHûVûaûeûgûjûoûoûnûlûmûpûwû„û’û–ûûûqûeûbûbûdûeûfûhûiûhûeûaûZûXûWûUûXûZûYûXûXûYûYûYûXûVûVûXûXû[û]û\ûZûWûRûMûFû>û4û#ûûûÿתßת״תÛתÞתÝתÚתÛתאתßתÛת׳תױתװתװתÙתדתחתךתקתûûû)û/û%û%û4û=ûCûGûIûHûHûLûOûFû=û0û(û(û,û1û8ûAûGûGûEûIûQûQûOûNûPûMûKûHûBû:ûHûHû<û*û+û(û*û1û/û%û1û=ûGûMûPûRûQûNûMûMûNûPûNûPûSûUûUûRûQûPûNûMûLûKûJûJûLûNûPûPûNûOûPûMûLûJûHûJûJûLûLûKûKûJûHûGûIûLûTû\û[ûTûOûMûJûGûFûFûEûCûDûJûEû>û5û&ûûûû€ürücüTü=üüüüÜûûIû.ûûנת׳תײתÙתÛתÜתÞתאתגתזתכתץתרתףתסתעתףתüתûûûûûûûûûûûû	ûûûûû
+û	û	û
+ûûû+û;ûDû@ûJûZûdûhûjûnûsûqûnûmûnûqûtûwûƒûƒû}ûtûjûbûfûjûlûlûnûpûxûûyûnûbûZûXûXûYû[û[ûYûZû[û[û[ûYûWûWûYû[û\û[ûZûXûWûVûRûKûDû<û0ûûûûמתײתÚת״ת׳ת׳ת׳ת״תÛתÜתÚת״ת׃תׂתײתדתעתשתÿתûûû'ûû"û1û=û?ûCûCûDûFûGûGûEû@û5û-û(û*û.û1û3û<ûCûCû@û<û;û9û<û>ûAûHûJûHû?ûKûWûWûIû*û+û2û1û2û'û%û2û=ûHûMûQûUûVûSûOûLûNûOûNûNûOûPûRûQûOûOûOûOûOûQûQûPûOûNûMûLûKûNûSûVûTûPûMûLûMûNûLûKûLûMûKûLûPûTûXû\û[ûUûPûNûHûGûFûGûJûRûQûMûGû>û7û-û"ûûû_üPüAü6ü(üüü‏ûכûֳûvû6ûû
+ûךתÙתÚתÙתÙתÛתÞתבתחתסתץתקתץתפתקתûûûûûû ûקתסתמתןתסתףתקתûûûûû	ûû	ûûû$û7ûDû>ûHûXûbûdûgûkûlûkûiûiûhûkûnûoûqûvûxûwûrûgûbûdûhûjûjûnûxû†û‡ûzûjû^û[ûXûZû\û\û\û\û\ûZûZû[ûZûXûUûVûXû[û[ûYûXûWûVûUûPûFû;û,ûûûûכתײתװת׀תׁת׀תׁת׃תװתױת׳תײתׁת׀תױתÝתßתבתזתתתûû(û û+û:ûCûFûFûGûJûMûIûBû@û<û6û.û&û'û*û-û0û5û<û>û;û5û4û5û7û?ûHûNûMûKûHû\ûeûcûRû3û&û1û9û4û#û(û4û>ûIûMûPûVûYûVûPûLûOûQûPûRûTûRûPûOûPûTûTûQûQûSûRûOûLûLûNûQûRûQûWûZûYûTûOûKûJûJûIûIûLûMûLûNûSûRûTûUûUûNûIûGûFûFûGûGûNûUûUûRûMûGû>û6û+û ûû_üOü?ü.üüüתûסûÛû¬ûaû5ûûתתÚתױת׃ת׃ת׃תױת״תÙתאתטתמתפתפתסתנתץת ûûûûûûתתףתמתםתמתמתףתûûûû
+û	û	û
+ûûû3ûBûAûEûSû`ûcûcûeûhûkûiûgûhûgûgûiûlûoûrûsûsûpûhûeûiûlûjûjûpû|û~ûvûhû_û]û\û[û[û\û_û`û`û^û[ûYûYûXûUûTûVûVûWûXûWûVûVûVûUûQûHû<û/û ûûûלתײתװתׂתװתװת׃תױת׳תײתײתװת׃תװתÜתטתסתץת‎ת
+ûû'û,û$û1û>ûDûGûHûIûJûLûIûDû?û;û6û.û&û%û&û*û,û-û1û3û/û.û/û2û1û4û:û?ûMûUûKûZûjûqûnû\ûIû;û<û0û"û+û7ûBûIûLûOûUûYûZûTûRûRûSûRûUûWûSûPûOûOûQûRûRûQûRûRûRûPûMûMûRûWûYû\ûaûcûZûRûMûLûLûLûMûMûKûKûNûQûOûPûQûPûNûLûIûEûEûFûHûPûWûVûSûNûHû@û7û+û&û ûBü;ü6ü*üüü‏ûÞûׁûֲû•ûYû2ûûסתװת׀ת׀ת׃ת׃תװתײתÞתחתמתקתעתןתןתפתÿתûûûûûûûûûûûûûûû
+û	û	û
+ûûû"û6ûEûIûBûOû^ûcûdûfûjûmûlûiûhûgûgûgûhûhûiûgûeûeûeûdûeûfûfûgûiûmûsûoûjûcû^û[ûYûYûXûZû\û]û^û\ûYûYûXûUûWûWûWûWûXûXûWûTûUûQûIûAû7û-û ûûû‏תבתׁת׀תׁת׃תױת״תÜתÛת׳תװת׃תײתגתןתפתתתûû û*û$û"û/û=ûCûFûHûIûHûIûIûFûBû<û8û3û)û#û"û"û%û&û)û-û*û)û+û(û)û/û;ûLûXûbûVûeû}û‚ûûuûbûCû3û û(û5û?ûEûIûKûNûTûWûWûRûQûSûTûUûXûXûTûQûOûPûRûUûTûRûTûVûTûRûPûQûUûYûZû\ûbûfû\ûUûOûMûNûPûRûRûMûJûJûKûLûNûNûMûNûNûHûEûEûDûDûBû?û@ûHûHûEû>û9û1û-û-ûHüPüKüDü<ü-üüעû־û»ûû]û/ûûגת׃תֿת׃תׂתֽתֿתײתהתסתקתתתפתףתץתקתûûûûûûüתףתמתמתנתעתרתûû
+ûÿתüת	û	û
+ûû û1û<û7ûAûQû^ûcûgûmûpûsûrûrûpûlûkûjûjûhûfûeûgûfûbûbû`û`û`û`û`û_û_û]ûYûWûXûYûZû[û[û]û`ûbûdûbû_û^ûYûWûZû\ûZûWûVûVûVûWûTûPûJûCû:û1û'ûûûû‏תÞת־תׁת׃תױתÜתדתותדתÝתÝתבתכתץת‏תûû"ûûû)û4û:û=ûAûDûJûKûIûIûJûHûGûKûQûRûNûGû@û7û1û0û0û2û5û<ûCû?û2û;ûGûPûWû]û`û\ûpûûƒû€ûtû]û<û9û,û7û@ûEûGûGûKûPûOûMûKûJûLûMûMûQûSûQûPûOûPûQûRûRûQûQûTûYûWûUûVûYû[û[û]û`û_ûYûRûOûPûSûWûZûUûNûJûJûKûMûOûPûNûMûOûLûFûEûFûEûEûAû>ûCûJûIûGûCû<û;û;ûDüMüQüJüAü3üüוûֶû¬ûû_û2ûûûפתÝתÜתיתךתיתßתÜתכתשתתתץתסתןתסתצתûûûûûצתןתןתמתסתצתûתüתûûûû	û
+ûûû%û2û=û8û?ûPû^ûaûdûjûnûrûrûmûiûfûgûiûhûjûkûjûiûeûaû\û]û]û\û\û]û[ûXûUûSûQûQûVûXûYûZû\û]û^û^û]û_ûkûoûsûwûyûyûzûwûnûTûOûOûMûHûAû7û,û"ûûûÿתûתאתֻתׁתײת״תßתהתהתגתבתכתנתרתüתûûû!û$ûû$û1û6û:û=ûAûHûMûKûHûIûKûKûHûPûQûNûHûCû;û5û1û0û1û6û<û2û4ûJûZû\ûbûlûrûvûkûû‘û•ûûûlûMû0û/û9û>ûBûAû@ûFûKûLûKûJûIûKûLûKûKûLûJûJûLûLûKûJûIûIûIûJûMûNûPûTûTûTûWûXûWûYûUûNûJûKûLûPûTûOûKûHûFûGûIûKûLûOûNûPûKûGûEûAûAûDûMûMûNûMûLûJûFû@û<û8ûAüEüOüNüDü8ü&üüעûׁû°ûpû1ûûÿתÚתױתßתזתותזתבתÙתיתתתûתתףתעתעתצתûûûûûףתלתכתכתםתעתקתרתתתû	û	û	û	ûûû û/û?û@û=ûKûZûaûdûnûvûwûwûuûqûlûkûmûoûnûmûkûhûdû_û\û[ûYûUûSûUûSûNûKûHûCûCûIûNûPûQûVûXûZû^ûiûkûoûvûzû|ûtû^û[ûZûUûQûNûMûMûJûDû:û/û%ûûûûûןתׂתֿתׂת׳תÞתדתאתÞתÜתÜתÞתןתשתûûû#û(ûû$û5û<û>û>û>ûCûIûKûIûIûKûNûNûQûUûRûMûHûBû:û4û2û3û5û7û/û;ûTûhûkûgûpûuûkûlû‚û—û›û’û†ûwû\û/û$û+û-û.û/û1û5û:ûAûFûFûGûIûKûIûIûJûIûHûJûJûIûHûEûEûGûGûHûKûLûNûNûSûXûWûSûRûOûIûFûFûHûLûNûKûIûHûFûFûFûHûJûJûLûOûMûIûFûBûAû?û;û9û8û8û7û4û/û)û#ûû5ü:üLüLüCü7ü-ü$üüצûױû¢ûLû$ûûüתנתךתחתטתחתגת״תותצתû
+ûûûûשתûûûûûûûû
+û
+û	ûû
+û	ûûûûû	û
+ûûû+û?ûLûGûNû]ûdûhûoûvûxûuûoûlûiûhûiûkûlûlûiûdûbû\ûYûVûSûNûHûEûEû@û9û5û4û7û>ûCûGûKûRû]ûcûhûjûkûnûsûxû}ûûûƒû…û‚û~ûyûuûoûhûaûXûNûDû3û ûû‎תאתֿת׀ת׀ת׃תÛתאתÝת״ת׳תױתױתבתרת
+ûûû%û-û&û)û8û>û>û=û=û=û?û@ûCûEûGûJûHûCû;û6û1û,û)ûûûûû"û3û0û2ûJûdûpûpû|û…û‚û‰û‘û˜û’ûû€ûsû]ûAû3û!û"û"û#û(û,û/û9ûAûAûDûJûJûHûHûGûGûGûHûGûBû<û8û:û<û?ûBûCûCûEûHûNûXûVûPûNûNûJûFûEûFûJûNûKûGûFûGûHûGûIûHûHûJûLûIûDûBû@û>û=û9û6û4û5û6û7û5û1û,û%û#ü1üAüCü>ü4ü-ü%üüüעûװûûHûû ûחתֽתֻתֻתֹת־תÙתלתûתûûûûûûûûûûûûûûûû
+û	ûûûûûûûû
+ûû)û<ûKûQûIûUûdûqûvûwûvûtûpûlûkûiûiûkûlûjûhûeûbû`û\ûWûOûFû>û9û3û/û-û,û*û*û.û/û1û;ûCûIûOûTûZûgûiûjûmûuû~ûƒû‡ûˆû‡û†û…ûûzûnûiûaûXûMû>û/ûûûûתתעתםתיתחתזתזתטתיתךתכתלתחתצתûûû)û-û!û,û8û=û?û@û@û?û<û=û?ûAûEûKûMûKûCû=û9û3û)ûûûûûû!û&û4ûLûcûuûyûˆû’û‘ûûˆû„û€û{ûsûdûPû8û-û.ûûûûûû"û+û5û9û?ûGûIûIûHûJûKûIûFû?û9û4û1û3û6û:û>ûAûAûCûCûGûSûWûOûKûHûFûDû@û@ûFûOûQûPûPûKûGûDûDûDûDûDûGûGûEûBû?û?û>û:û7û6û5û7û:û;û:û8û3ûüü3ü:ü>ü>ü2ü$üü	üüûגû³ûTûûûלת׀תֿתֽתֻת׀תÞתףת‏תûüתצתפתץתקת‏תÿתשתצתüתûû
+ûûû	û	ûûûûûûûûûû-û>ûMûLûLû^ûnû|û‚û}ûvûrûmûmûmûpûuûyûyûyûxûwûuûrûqûpûkûcû[ûNû3û'û&û"û ûû!û!û)û3û;ûBûMûVû[ûYûYûaûsû|û„ûû‘û“ûû‹ûû„û{ûsûiû_ûTûIû;û.û ûûüתÛתױתױת׳תױתװת״תßתטתחתיתכתהתסתûû'û1û.û'û7ûAûCûFûJûKûIûFûCûBûBûDûKûPûPûLûFûBû;û1û&ûûû#û+û9û7û9ûMûaûoû‚û‘ûû—ûûƒûzûsûnûcûUûHû8û2ûûûûûûû%ûûû%û4û@ûDûIûLûLûMûNûJûFû>û7û5û7û8û8û=û?û@ûAûAûEûLûMûGûEûDûEûEûAûCûQûbûaûWûPûLûIûGûEûDûEûEûFûFûGûJûJûHûGûBû@û?û<û:û<ûAûCû?û:û üü$ü.ü5ü9ü3ü)üüüüכûֹû„û"ûûטתֽתּתֻתֿת׃תÞתםתצת‎תüתצתפתסתעתפתרתûûû
+û
+û	ûûûûûûûûûûûûûû0û@û;ûAûOû`ûlû|û†ûûyûrûlûhûiûlûlûjûjûhûfûeûeûcû`ûeûbû\ûQûIû?û&ûûûûûûû û,û2û;ûEûKûTû[ûgûqûpûoû~ûû›û›û–ûû‰û„û}ûtûlûcûZûPûCû6û'ûûûûצתסתםתיתחתותותזתלתמתנתûûû+û0û"û!û.û=ûBûEûEûFûIûMûKûIûFûDûDûIûLûNûOûJûEûAûFûDû>û;û:û9û2û+û:ûOû^ûiûû’û•ûû‡ûûxûoûmûcûVûDû@û5û1û'û ûûûûûûûû)û0û2û>ûFûHûGûFûBû<û7û2û0û2û2û1û5û5û6û9û9û;ûAûBû>û;û<û=û?û<ûKû_ûiûbûTûJûFûFûEûDûCûBûBûDûCûCûGûGûCûAû?û>û?û;û:û<û=û>û<û8ûü‎ûüü&ü(ü$üüüüסûÜû¾û{ûû‎תבתֻתֹתַתָתֿתÚתזתעתרתûתרתץתÿתûûûûûûûûû
+û
+û
+ûûûûûûûûûû"û6ûDûIûAûOû_ûmû|ûû†û|ûqûnûnûiûhûhûgûgûeûeûdûeûnûlûfû_ûWûOûGû?û1ûûûûûûûû%û)û0û=ûEûMûVûiûoûzû”û¢û₪ûû’ûû‘û‹û‚ûzûsûlûdû]ûSûHû>û/ûûûדתÛתאתכתלתיתיתכתןתקתקתû#û1û*ûûû û(û0û:û>ûBûDûEûFûIûKûKûIûEûEûHûJûKûHûAû<û:ûBûAû@û@ûCûGûHûKûOûIûMû_ûqû…û”ûûƒû{ûsûkûjûbûSûEû:û3û*ûûûûûûûûûû û*û.û2û:ûCûEûDûBû>û8û3û/û-û,û(û)û*û'û&û(û-û-û'û-û/û0û4û9û<ûHûYûaû[ûNûFûCûBûAûAûAûAûBûFûGûGûHûHûDû?û<û=û<û:û<û<û=û=û<û:ûקûûûשûüüüüüüûûךûױû·ûxûûשתÚת־תֻתֹתָתֽתÛתדתךתסתצתûת
+ûûûûûûûûûûûûû
+û	û	ûûûûûûûûû0ûAûEûAûRûeûrû{û‚û…û}û~ûƒûzûpûiûhûfûgûeûcûcûdûnûnûiûcû[ûQûFû8û"ûûûûûûûû û$û-û5û<ûPû]ûfûbûnûƒûû©û¥û û¡ûû‘û‡û~ûuûmûfû_ûTûJû?û0ûûûûûתצתףתסתנתסתנתץתÿת	ûûû&û5û,û û!û(û2û<ûCûEûGûHûIûIûIûJûHûHûHûGûFûEûAû<û<û>û;ûBûDûEûAû1û-û3û8û>ûEûPûbûxû‘ûû…ûyû{ûsûgûZûPûBû9û,û!ûûûûû
+û	ûûûû ûûû(û0û9û@û?û?û>û=û>ûGûGûBû<û8û5û5û5û4û7û7û)û(û.û0û4û7û=ûFûVû[ûVûKûBû=û;û8û:û>û@ûAû@û=û?ûBû@û<û<û<û:û9û;û=û@û@û@û@û>ûכûלûםûנûשû‏ûüûûןûגûׂû¾û×ûûGû ûהתׁתׁת׀תֽתּתװתגתכתעתתתÿת‎תשתרתקתפתףתעתנתנתסתעתÿתûûûûûû
+ûûûûûû1ûAûAû@ûXûlûtûzû}û€ûû‡ûû~ûrûjûkûjûiûfûdûdûiûoûmûhû^ûUûJû>û1û ûûûûûûûû!û%û,û1û9ûHûSûiûgûqû‡ûû­û×ûûûûrûcûYûWû]ûZû[ûVûLû@û1û#ûûûטתטתכתכתזתותיתרת ûûûû)û8û7û.û+û2û=ûEûFûHûMûMûIûIûKûLûKûHûFûEûDûAû;û:û<ûAûAû;û4û,û)û'û(û-û5û;ûCûQûeû€û’û‚ûqûbûVûRûTûRûHû8û*ûûûנתכתםתמתלתכתלתסתûûûûû)û8û@ûCûAûAûBû?û8û0û*û'û$û$û"û ûûûû!û%û'û(û,û1û4û7û?ûJûEû@û=û9û9û7û;ûAûBûDûCûBûDûFûDûBûAû@û?û?û?û?ûBûCûBû@û@û־ûׁûּûֻûװû׀ûֿûׂû׀ûֽûָû¼û¯ûû†ûIûÿתטתׁת׀תֿתֽתֿתÞתלתףתûûûûûûÿתû
+ûûûûûû‎תüת‏ת	ûûûû
+ûûûûû%û;ûDûCûXûiûqûuûxû}û~û~û{ûwûrûrûuûvûoûjûhûfûcû`û^ûdûaûXûNûAû3ûûûûûûûûû#û$û'û+û2ûHû\ûUû^ûqû‰ûû©û¨ûûûûoû`ûVûTûYûZû\ûYûPûEû7û*ûûûטתחתיתלתךתטתותגתחתüתûûû5ûDûAû;û;ûCûGûEûEûGûDûCûFûIûIûHûDûBûCûAû>û:û9û:û=û@û@û:û0û-û0û9ûDûMûOûOûSû^ûkûoûlûqûsûeûYûXûTûJû<û.û"ûûûלתםתמתםתלתמתעתû	ûûûû û4û;û?ûBûEûFûAû5û+û"û!û$û"ûûûûûûû$û'û(û,û.û1û4û6û7û5û4û5û3û1û2û6û:û>ûBûAû>û;û=û=û>û@ûAû@û?û>û=û>û?ûAû@û=ûֳû¿û¾ûֹûׁûֻûׁûײû־ûֽûÊû÷û§û‘ûpû%ûכתֿתֹתָתָתָתֿת״תות‏תû%ûûû	ûû ûûת‎תûû	ûûûûûûûûûû
+ûûûûû6ûFû>ûJû]ûhûlûnûmûnûpûpûoûnûlûkûmûoûqûjûeûcûaûaûbûbû[ûPûAû3û ûû	ûûûûûûûûûû$û+û@ûHûVûRû\ûnû…û”û™û›û”ûˆû~ûûxûnûhûdûbû\ûRûFû:û0û#ûûûû‎תûתתתûת‎תÿתûתתתתûû-û:û<û<û@ûDûEû@û>û>û>û?ûAûFûGûFû@û=û<û;û:û6û5û5û5û4û7û:û>ûBûIûNûSûSûQûQûQûOûTûaûaûkûtûnûcûVûNûQûEû8û+ûûûםתךתיתזתהתותותךתצתûûûû)û.û7û=û?û?û>û5û-û$ûûûûûûûûûû"û û!û!û"û*û/û.û/û1û0û.û-û+û*û.û3û:û=ûAû@û<û;û<û;û;û;û;û<û<û:û8û7û;û>û?ûֶû·û´û±û¶û¾û¹û¾û¿û½û·û¬û˜û~ûWûûÞתּתַתֵתֹתׁתÜתאתנת	ûû!ûûûûû‏תûתûתüתû	ûûû ûüתüתÿתûûû
+û
+ûûûû2ûDûAûOûaûjûnûnûmûmûmûlûlûmûoûnûjûkûlûfûeûeûiûkûgû[ûPûBû1û!ûûûûûû	ûûûûûû+û/û5û:ûJûUû[û[ûpû„ûûûû†û|û{ûwû_ûSûQûNûNûUûVûSûIû?û1û!ûûךתאתאתגתדתגתדתהתמת‏תû!û,û3û6û>ûCûAûAû?û>û=û<û=û@ûCûCûCû@û;û8û7û6û5û2û/û0û2û2û5û9û>ûDûKûQûRûRûPûPûLûLûSûYûdûhûdû]ûPûDûGû?û1û"ûûûתבתגתאתÛתÙת״תÛתזתצת‏תûûûû)û1û6û8û:û;û:ûCûAû>û;û8û7û7û6û5û.ûûûûûû û)û.û-û,û-û.û.û,û,û*û)û)û1û:ûFûFû=û:û:û9û:û<û:û9û8û8û7û;ûCûFûDûֱûֱû·û¯û¨û­û­û¬û×û¥ûû‘û}ûgûGûûחתָתָתֵתֳתֵת־תױתÜתנתûû"ûûû
+ûûûû‏ת ûûûûûûû'û!ûû ûצת‎תûûû-û4û0û?ûSû_ûjûmûpûqûpûqûsûtûuûvûtûrûrûoûmûjûbûVûLûJû@û1ûûûûûûûûûû
+ûûûûûûû)û=ûGûSûVûcûxû„û†ûûsûcû[û]û_û]ûYûUûPûJûCû<û=û@û8û*ûûמתטתחתהתזתטתחתותךתץת‏תûû*û0û<ûEûHûGûHûJûJûHûFûGûGûHûHûFûCû=û7û4û1û2û1û/û1û5û9û>ûCûIûNûQûSûSûRûRûRûRûRûWû]û^û^ûYûMûNûKû@û1û"ûû‎תיתךתחתהתבתÞתßתהתטתשתûûûûû%û.û3û9û=û>û<û6û/û*û'û#û"û!ûûû$û)û(û'û.û6û:û8û8û9û;û:û3û1û.û+û,û0û7ûAûOûMûHûBûAûBûCûCûDûCûBûAû@ûBûIûOûPûÜûֹû¿û¶û¸û¸ûµû¥ûû˜û„ûrûaûJû(ûûותֶתֶתֵתֵתֶת־ת׃תאתתתûûûûשתץתץתתתתתץתתתÿתÿת ûûûûûûûץתסתשתûûû*û7û8û7ûGûWûdûhûkûlûjûlûmûmûoûoûlûlûkûgûcû^ûVûOûRûJû?û3û$ûûקתשתüת û û û ûûû
+ûûûû&û-û6ûFûMûLûVûcûdûaûiûlûeûUûVûUûTûRûLûJûHûHûSûSûKû>û4û+ûûû
+ûûûûרתיתמתשתûûû$û2û=û?û?û@ûAûCûFûDûAû>û=û>û@ûBû;û3û,û(û$û$û"û#û,û3û6û7û:û@ûDûHûIûJûKûMûNûNûMûQûXûYûXûTûHûCûDû<û.ûûûקתאתאתÞתÜתÙת׳ת׳תÚתßתותךתלתץתÿתûû#û)û0û1û0û.û,û*û,û)û)û+û,û6û=û7û2û.û/û/û1û2û/û.û0û3û6û3û/û,û,û)û$û&û.û:ûAû:û7û6û:û<û;û9û9û;û;û;û<ûBûHûJûצû׀û¼û³û¯û©û¥û’ûûyûhûMû@û1ûûûמתדתזתזת״תָתֽתׂתÚתותשתûûûצתעתפתקתפתסתףתקתקתûתÿתûûûûûûûûû
+ûû+û9ûHûJûMûZûaûcûaûbûgûqû|û{ûxûxûuûrûsûrûoûjûgûbû[ûPûDû9û-ûû ûרתשתüת‎תÿת ûûûûûûûûû(û;ûAûKûVûZû`ûdûfûeû_ûQûSûTûRûQûOûNûLûNûUûYûRûFû<û1û&ûûûפתקתשתתתû	ûûûûû'û0û8û<û>û>û>ûAûEûGûGûCû?û>ûBûEûAû9û/û'û"û"û"û%û0û7û9û:û=ûAûDûFûEûGûGûIûIûHûHûLûOûWûUûRûNûEû;û1û%ûûûמת׃תׂתׂתװת׃תׁתׂתױתÛתהתצתרתףת ûûû#û(û/û1û1û/û0û0û/û/û/û0û2û5û;û?û:û5û2û2û1û2û1û/û.û2û8û9û9û6û2û+û&û*û2û6û0û.û0û3û4û4û6û7û7û7û6û7û9û?ûGûKûüדûּû¹û±û¦ûûnûVûSûDû5û"ûûûûסתהתיתיתגת׳תֽתׂתÚתßתקת‎ת‏תנתכתכתכתךתךתכתלתןתסתףתצתתתÿת ûû	û
+ûûûû	ûû"û5ûIûMûaûrû}ûûqûbûgûnûkûjûjûiûfûdû`û^û\ûXûOûEûBûDû8û*û!ûûקתרתשתûתתתרתרתüתûûûû"û$û*û1û8û<ûEûAû;ûCûIûNûQûQûQûQûNûLûKûLûOûSûSûTûYûUûNûEû;û0û"ûûצתשתüת‎תÿתû
+ûûûû(û2û9û<û=û<û=û?ûDûFûFûEûCûFûHûEû>û7û0û*û$û!ûû û&û1û8û7û8û<û@ûBûCûBûBûDûEûDûCûDûDûFûOûMûFû?û5û,ûûû ûעתיתהתבתßתÞתßתבתהתטתךתסתצת‎תשת‏תûûû#û(û,û1û6û6û4û2û2û4û5û6û9û<û<û9û7û7û5û3û1û/û.û3û8û9û=û>û7û.û(û(û,û,û'û%û&û*û-û0û2û4û4û5û:û>û>û@ûCûFû üßûֲû³û«ûû‘ûvûRûFû/ûû	ûÿתüתםתÞתות״תײתדתהת״ת׃תײתÙתטתעתüתûûûûûû	ûûûûûûûûûûûûûûûûûû+û>ûGûfû€û‘û–ûû}ûhûmûjûgûhûgûeûcû_û\ûYûTûMûKûNûFû<û.û!ûûצתץתצתצתצתרת‎תûûûûûûûûû û$û(û1û;ûEûKûLûOûQûRûRûQûLûJûKûOûUûUûUûZûXûSûLûCû;û3û,û)û(û)û)û*û+û-û1û0û!û&û/û6û:û;û<û;û=ûBûCûCûDûDûHûHûCû=û6û1û,û+û'û#û$û*û0û4û6û7û8û;û?û@û>û>û?û@û?û@ûBûEûKûSûOûGû=û3û(ûû
+ûûתמתותבתÞתÛתÚתÛתÝתßתגתזתיתןתפתקתעת‎תûûû%û)û0û5û4û2û1û0û4û5û6û:û:û8û9û;û>û<û8û4û2û2û3û7û<û?ûAû6û*û"û!û"û#û!û!û"û%û(û+û.û1û2û1û3û;û?û?ûAûBûÿûעûוû׃û÷ûûûxûUûAû:û&ûûûûרתותזתגתÙתכתעתלתÙתׁתׂתÛתכתסתםתמתןתםתכתחתיתנת û
+ûûûûûûûûûûûûûû!û4ûSûtûû›û₪û£û™û…ûvûû~ûzûyûxûwûvûtûrûpûmûhû_ûRûGû9û)ûûûעתסתעתצתרתûתû
+ûûûûûûûûûû$û%û'û+û7ûBûIûPûQûQûOûMûPûSûSûVûXûTûOûKûLûQûLûFû?û6û-û(û$û#û"û"û%û(û-û)ûû"û/û8û=û@û=û<û<û@û@ûAûCûEûIûJûEûAû:û6û3û1û0û.û-û0û4û8û8û9û:û=û=û<û:û;û<û>ûGûSûVûRûNûQûMûGû?û9û2û'ûû	ûüתכתֿתּתֻתּתÊתֻתֽתׁת״תגתךתנתקתûûûתûûû*û1û5û7û5û2û2û3û5û6û9û<û;û<û@ûEûEû?û9û8û:û<û>ûAû@û9û,û#û!û"û"û"û$û$û$û&û(û,û,û0û3û3û4û@ûLûGûBû@ûüתûמûאûּû­û“û„ûjûDû=û.ûûצתךתותײתֽתׁתגתûתûû‎תמתיתותכתסתסתנתמתכתיתלתשתûûû	ûûûûûûûûûûûûûû6ûWûwû‘û₪û¯û±û©û•ûtûhûiûjûnûuûvûtûsûqûmûiûbûVûKû?û3û&ûûרתעתסתןתסתץתרתûתûûûû
+ûû
+ûûûûûûû$û1û;ûFûMûPûRûPûPûQûSûTûTûRûOûMûKûHûEû?ûCûIûDû>û8û0û.û1û3û5û9û9û*û&û.û6û<û?û>û=û<û>û@û@ûAûCûFûIûJûFûAû<û7û3û2û1û0û3û6û9û:û9û9û:û9û:û<û<û=û>û>ûEûPûWûWûPûPûQûJûAû7û+ûûûרתהתֻתִתְתְתֲתֶתּתׁת״תÙתÛתÞתאתותכתץת‎תקת ûûû%û.û4û7û3û1û3û6û8û;û>ûCûFûFûDû=û;û8û8û:û=û?û?û=û;û4û,û%ûûû!û!û!û#û%û'û,û.û1û3û4ûBûJûCû9û6û5ûüüףûהûװûְû£û†ûgûAû4ûûûûתית׳ת״ת׃תײתךתûûûûûצתעתץתצתץתסתסתןתםתסתÿתûûû
+ûûûûûûûûûûûûûû8ûRûlû‡û›û«û³û´û¯û›ûûiûgûfûdûdûcûbûcûhûaûWûLû?û0û"ûûüתףתסתןתמתןתץתרתüתÿתûûûûûûûûûûûû!û,û4û?ûKûPûRûPûPûRûTûUûSûPûOûOûNûKûIûFûIûOûJûFûCû@û@û?û6û%ûûû'û0û7û;û>û?û?û@û=û=û>û@û@ûAûDûHûMûLûHûDû>û7û7û8û;ûBûAû=û8û5û5û6û7û9û:û<û>û@û@ûAûIûUûYûTûQûQûJû?û3û%ûûûעת׳תֳת¾ת¾תֱתֶתּת׀תֿת׳ת״תÚתÜתÞתדתחתןתüתתתשתûûû*û1û2û0û/û1û6û<ûAûHûLûLûFû@û?û;û8û9û;û<û>û>û<û7û2û+û&û!ûûûûû!û#û)û.û-û,û.û/û1û2û1û0û0û1û
+üüקûיûÛûֹû­û‡ûdû9ûûûשתותׂתױת׃ת׀תÜתסת ûûûûצתצתקתץתןתיתיתיתיתיתןת‏תûû	ûûûûûûû ûû û ûû
+ûû'ûIûbû|û—û«û»ûֳûֵûְû²û¢ûû{û}ûyûvûsûpûmûiû_ûTûJû=û.ûûûצתץתסתםתםתסתפתשת ûû ûûûÿת‏תÿתÿתûûûûûû&û-û6û=ûCûIûLûKûKûNûNûLûLûKûMûMûJûIûFûAû9û+û#ûûûûû#û%û(û/û8û>û@ûBûDûCû?û>û=û=û<û;û;û<û?ûCûFûGûGûDû>û9û7û:û>ûCûAû;û8û8û9û7û7û8û9û=ûAûAûAû@ûDûHûGû@û6û+û!ûûûûûûקתזתֽת½ת÷ת÷ת½תֳתÊת׀ת׃ת׳ת׳תײת״תÜתאתזתנתתת ûתתûû û'û-û/û4û<ûBûIûOûTûRûMûFûAû>û;û;û;û;û=û>û>û<û8û2û+û&û%û$û%û"û"û#û%û+û/û-û.û0û.û.û.û-û-û-û/ûüûûסûדûׁû½ûûuûMû2û)ûûקתÛתײתװתװת׃תױתßתיתתת
+ûûÿתףתעתץתףתלתךתלתםתךתסתûûûûûûûûû ûûûûûû	ûûû4ûSûtû’û©û½ûּûװûײûÊû÷û¢û}ûzûwûtûqûoûkûdûZûPûEû9û*ûûûשתקתפתמתלתמתעתקת‏תûûüתתתתתרתרתûת‏ת ûû	ûûû û'û0û5û9ûCûLûNûMûOûPûPûPûSûSûNûJûJûIûEû>û6û.û)û'û)û+û.û,û.û2û7û;û?û@ûCûDûBûBû@û?û?û=û<û<û?ûAûBûCûCûCû@ûAûFûDûBûCû@û=û9û>ûDûEû?û9û8û:û>û@ûAû?û>û>ûCû>û4û(ûûû	ûûûץתותַת½ת¹ת¸ת÷ת½תֱתָתֻתָתֵתִתֳתִתֶתֶתֻתßתףת‏תשת‎תûû#û,û3û6û<ûCûLûRûQûQûOûGûAû>û<û:û9û:û;û<û<û;û5û0û+û(û)û(û%û#û#û#û'û.û0û/û.û.û.û-û,û,û,û+û,ûןûםûכûÜûÊû¸û¡ûûTû4û*ûûץתÜת׃תׁתֿת־תׁת״תאתלתרתץתםתטתהתזתüתûתתמתטתחתךתףת ûûûûûûûûûûû û ûûûû#ûGûhû„ûûµûÊûÞûזûדûÙûֹû­û‚ûfûcûaû_û^ûYûSûLû>û>û8û,ûû
+ûףתףתנתנתןתםתמתעתקתתתקתפתפתפתףתףתרתשתüת ûûûûû!û'û+û1û=ûFûIûKûKûMûNûNûPûTûRûOûNûMûJûFû@û8û2û0û/û1û6û9û;û<û<û>û@û@û@ûAûCûCûAûAû?û>û<û=ûAûAûAûBûBûCûDûDûHûIûFûDûCûEûGûOûZû^ûVûLûCû@û?û>û<û:û8û8û9û4û,û'û)û+û"ûûû ûסתבתֳת¼ת÷ת»ת½תֱתֶתÊתֶתֳתֱתֱתֵתֲתֲתֹתׁתÚתנתûûûתûû û.û2û9û?ûHûPûPûNûKûEû@û<û<û;û8û;û;û;û=û:û5û-û)û)û(û'û%û%û#û#û&û*û.û.û-û-û,û,û-û,û,û+û+ûגûאû״ûֻû¼û«û•ûuûLû)û ûûטתװת׀ת־תֿתׂת״תÜתגתיתכתזתבתÜתßת‎תûûûץתיתיתןתתתû ûÿתûûû û û‏ת‏תÿתשתןתûû
+ûû8û^û|û™û¶ûװûךûנûךûאûֿû´û—ûnû_û_û\û[ûVûOûHû>û6û6û+ûûתתכתטתלתûת‏תעתכתיתיתכתנתףתןתנתןתפתשתûת ûûûûû û$û,û0û7ûBûJûLûIûHûJûPûRûTûVûPûKûIûGûEûCûAû?û:û6û4û3û6û8û9û;û;û;û=û>û@û@ûAû@ûAûBû?û=û?ûBûAûBûBûAûAûAûBûEûAû>û;û;û<û>ûDûNû`ûjûbûRû?û9û9û7û4û3û0û/û-û)û#ûûûûûÿתûüתסתÚתֳת¿ת÷ת·ת¸ת»תְתֳתֳתֳת½ת÷ת¾תְת½תֳתֽתײתחתנתתתûתתûû#û,û2û8û>ûDûCûBûCûBûAûBû>û:û8û:û9û;û7û5û2û-û'û&û'û'û'û&û%û#û$û)û.û0û/û/û-û,û*û*û*û*û*û¶ûµûµû±û×ûûûwûNû#ûûûץתײתֻתָתֻת׀ת׃ת״תאתזתהתדתÞתÛתßתץתûûûתתלתלתףתשתûתûתףתמתכתחתיתךתטתהתדתףתûû ûû+ûUûvû”û±û־ûוûףûנûדû׳ûֵû±û–ûkû^û_ûdûkûjûeû\ûRûGû:û*ûûüתחתזתכתûתûצתמתטתחתחתיתםתףתףתץתקתשתûת‏תûûûûûû&û.û4û:û@ûFûJûLûPûRûPûQûTûQûKûGûHûJûHûEûDûDûCû?û<û;û<û>û>û;û:û:û9û:û9û;û<û>û@û?û<û>û?û?û@û?û?ûAûCûBûDû?û:û9û9û9û:û@ûLû[ûkûgû[ûXûUûOûJûHûGûEûAû?û;û6û/û'ûûûûצתלתÙת¼ת¸תµת¸ת½תֳתֳתֱתְתְת½ת÷ת¼ת½ת¹ת¶ת½תֻת׳תזתמתרתûתת ûûû)û1û5û9û=û;û:û>û@ûBûEû=û9û6û6û7û;û7û4û3û-û(û(û(û'û'û'û(û+û.û2û3û.û.û.û/û.û,û)û(û&û$û×û×û¦ûû™û‹û|ûdû9ûûû‎תיתֽתֶתֶתַתָתּתױתÝתאתÞתÚתÚתÚתÝתפתûûûûûסתסתשתקתצתנתךתזתותחתותדתבתדתסתû
+ûûûû<ûbûûû´û־ûßûהûדûÙûֹû¸û₪û…ûuûtûpûmûhû`ûTûGû9û+ûû‎תזתותכתץת‏תÿתצתמתלתכתיתיתכתנתסתסתסתפתרתתת‏תû	ûûûû#û(û-û6û>ûFûJûMûOûQûPûOûRûTûNûLûIûIûJûHûDûDûEûCû>û;û=û<û<û<û<û<û8û8û:û;û@û@ûBû@û?û>û=û<û?ûAû@û@ûCûAûCûAû;û7û9û;û@ûDûQû`ûhû_û]ûXûQûMûKûHûFûCûAû?û<û7û2û+û ûûûשתכתװת¶תµת¶ת÷תֳתַתָתֳת¿ת½ת¹ת·ת¸ת·ת·תµתְתׁתÞתÞתטתפתû
+ûûûû$û.û3û6û=û@û>û@ûBûDûGû@û;û9û7û8û8û3û.û*û'û)û-û,û,û+û-û1û2û1û2û1û/û.û.û0û.û,û*û(û%û#û§û¦û¦û’û†û„ûyûfûEûûûרתכתׁתִתִתֵתִתֻת״תßתÛת׳תװת׃תױת״תזתרתûûÿת ûפתחתףתüתûûûû ûÿתÿת‎תקתהתיתשתצתû
+ûû9û\ûwûû§ûֲûׂû״û״ûׁûֳû³ûû„ûqûtûoûkûdû]ûRûFû8û)ûûûûûûûûûûû ûÿתÿתûû
+ûûûûûûû!û'û,û1û5û9û;û.û+û3û:û>ûAûEûGûGûGûFûFûGûCûBûCûDûCûAû@ûAû@û=û9û7û7û7û9û;û;û9û4û4û8û=ûAûBû@û>û<û9û8û5û4û4û5û7û<û>û>û8û2û0û4û6û7û=ûJû[û]ûSûTûSûMûKûHûFûDûBû?û<û8û2û(û#ûûûûץתטתׁתµת³תµת¸ת÷ת¼ת½ת»ת÷ת¸ת¹ת´ת±ת­ת¬ת­ת·תּתÜתבתדתכתקתûû	ûûû#û(û+û,û*û*û.û2û4û3û3û7û6û2û1û/û-û)û&û$û#û$û&û&û%û'û)û,û,û+û(û&û'û(û&û$û$û!ûûûûû…û‡ûûtûmû`ûJû&ûשתסתותֿתֶתַתֶתֶתֹתֽתײתÜתÛתװתׁתֿת׀תױתÝתיתצתקת û ûÿת ûûûûûûûÿת‏ת‏תשתותבתטתשת ûûûû1ûRûjû†ûû«û½ûÊûÊûַû¿û®û›û„ûoûrûmûhûbûXûMû?û/ûûûûûûûûûûûûûûûûûûûûûûû!û&û,û2û7û;û=û0û*û2û9û>ûBûCûCûEûGûGûDûCûCûBûAûAûCûCûBû?û?û<û9û9û9û8û7û8û8û9û:û;û:û9û?ûEûGûDûAû=û9û7û6û5û3û4û6û9û<û;û5û0û2û5û6û7û<ûHûNûMûBû9û4û2û0û0û-û)û&û$û#û!ûûûûûûûףתזתÚתׂתֽתִת¿תֻת׀תֿתֿת־ת־ת־תÊת·ת¨ת§ת×ת²תֶתװתײתßתותסת‏ת	ûû	ûû!û$û%û%û&û(û,û/û2û2û1û4û8û4û1û/û-û)û&û"û"û$û&û%û'û)û+û)û(û$û"û"û"û"û#û#û"ûûûûû„ûxûmûkûhûUûHû9ûûיתהתׁתָתֹת־ת־תׁתײתױת׳תÜתÙתױת׃תװתײתÙתÞתגתדתהתהתזתיתןתסתץתץתסתמתךתדתאתאתבתבתגתלתüתÿת ûûû6ûVûeû|û—û₪û×û¹û·û¬û¥û˜ûûdûXûXûVûQûTûKû@û3û#ûûףתמתלתלתףתתתûû	û
+ûûûûûûû û#û'û*û-û/û3û6û8û@ûEûAû.û.û5û:ûBûFûHûHûGûGûIûHûFûGûEûEûEûIûIûFûEûEûAû=û<û=û=û=û;û;û=û@ûBû?û=ûBûJûJûHûEû?û<û:û9û;û;û8û7û6û7û7û3û1û1û5û7û:û<û?ûBûDû@û:û8û7û5û4û2û1û+û(û(û(û$ûûûû‎תשתךתײת·ת°ת®ת³ת»ת¿ת»ת¹ת¸ת÷ת½תַתֹתַתֶתִתֱתµת÷תּתײתÜתזתפתûûûûû'û*û(û(û*û-û/û0û/û1û1û5û:û6û2û2û0û.û+û(û$û%û(û)û,û,û-û+û)û(û'û'û'û%û%û&û'û#û ûûûaû]û\ûOû@û5û"ûûבתׁתּתַתֶתֹתֻתֻתּת־תֿתׂתװתװת׃תׁתֿת׀ת׃ת״תאתאתßתßתבתטתסתסתצתûûûûÿת‏ת‏ת‎תüת‎תüתûתתתשתצתüתû,ûEûcûyûˆû˜û¡û₪û ûûû|û_ûZûZûTûMûNûJû;û.û"ûûûû
+û	û	ûûûûûûûûûû û#û&û*û0û4û8û9û8û)û!û'û)û)û-û4û:û>ûCûDûEûGûDûCûGûHûFûDûBûBûDûFûGûEûBûAû@û>û>û<û<û=û<û<û;û?ûBûBû@ûEûNûOûJûEûAû=û>ûCûIûGûCû;û8û9û7û4û3û2û5û6û9û<û>û?û>û;û8û8û6û5û4û3û1û.û+û(û%û!ûûûûûרתחתֻת³ת®ת­ת±ת¹תְתֳת־תֿת־תּתֻתֻתÊתָתֶתִתֳתִתֹת׀תÚתותפתûû
+ûûû#û(û(û'û'û+û.û0û/û.û.û1û6û5û4û2û2û2û3û/û-û,û+û,û,û+û*û*û+û+û*û(û)û(û'û(û)û(û%û"û ûLûDû=û"ûûÿתהת׃תׂתֿתÊתָתָתÊתּתÊתֻתּתֽת׀תׂת׃תׂתֿתּתֽתֿתױתÞתבתßתßתבתחתיתנתשתûûûû û‏ת‎תüתûתüתüתûתûתûתÿתûû(û>ûWûfûqû{û€ûƒû€û|ûmûXûZû]ûYûSûLûGûHû@û6û(ûûûûûûûûûûû"û&û)û.û1û4û8û9û;û?ûAûBû>û/û$û*û2û4û0û0û5û;ûAûEûDûCûBû@ûBûFûGûFûDûAû@û@û@ûBûCûAû@û?û>û?û@û=û;û;û9û9û;û?ûBûAûHûQûPûJûDû@û=ûAûKûOûHûBû;û8û7û6û3û/û/û/û0û2û3û4û7û7û4û2û2û1û1û1û0û/û-û,û+û(û"ûûûûתÿתûתכתּת´ת®ת­ת°ת·תְת־ת׀תׁתֿת־תּתֻתֹתָתֶתֳתֳתִתַת־ת״תהתנתÿתûû	ûûû%û(û)û*û+û-û-û,û+û*û-û/û0û0û.û/û0û0û-û)û'û(û)û)û(û'û'û(û*û*û(û'û'û&û'û*û)û&û$û û$ûûûûÿתפתדת׳תּתּתÊתַתַתÊתּתÊתַתִתִתָתֻתֽת־תֽתֹתֶתֹת׳תדתזתאתאתאתגתחתםתפת‎תûûûû û‏ת‎תüת‎תüתûתûתûת‎תûû!û2ûFûNûQû^û`û`ûaû^ûXûVûZû[ûWûTûNûDû9û;û1û%ûûûûûûûû!û%û*û0û5û9û<û>ûAûBûDûHûJûJûLûOûQûRûSûSûTûUûWûZû]ûaûeûfûdûkûfûLûEûHûGûFûAû=û=û?ûCûFûCûAû@û@ûBûBûAû@û?û?û?û>û=û?ûAûHûRûUûQûLûHûGûHûNûVûTûKûEû=û8û6û4û1û/û.û.û.û/û2û3û4û3û0û/û.û.û/û-û+û*û(û(û&û"ûûûûû ûסתדתױתֽתֻתÊתֹתÊתֻתֻתּתֿתֿתֽתÊתֹתָתֵתֲתֳתֵתָתֿתÚתהתעתûûû	ûûû%û'û'û'û)û+û*û*û)û*û+û+û-û-û-û,û,û+û)û'û%û%û(û(û'û&û&û&û(û+û+û(û'û%û%û'û'û&û$û!ûû‎תקתקתחתÙתֽתַתÊתּתֽתֻתֻתּתֽתָתֵתֳתִתֵתֹתֻתֿתׁת־תֻתֽתװתדתטתהתגתדתדתחתלתפתüת‏תüתûû ûÿת‎ת‎תüתüתûתûתתתתתûûû!û*û9ûHûRûWûUûTûVûVûXû[û\ûYûUûOûFû<û;û2û%ûûûûûû"û*û.û1û3û.û&ûûûûû û"û&û)û'û*û-û.û/û2û9û?û>û@ûMû`ûbûUûVû[ûXûWûRûLûFûCûCûAûAû?û>û@ûAûBûDûCûCûCûDûBû@û@û@û>û<û;û=ûCûKûOûPûMûHûGûHûLûLûRûUûPûLûFû@û;û6û2û/û,û,û.û/û0û1û/û.û-û-û-û,û+û)û'û'û%û#ûûûûûû
+û ûעתהתֽת²ת®ת¯ת°ת³ת¸ת÷ת»ת¿תְתָתֻתÊתָתֶתִתִתָתֻתׁתÚתגתמת‏ת
+ûûûûû%û(û(û*û,û.û.û-û*û*û)û)û*û,û.û/û+û)û(û(û(û&û&û'û'û&û&û%û%û'û'û&û%û%û&û&û&û$û!ûûגתװתױתױתׂתּתֶתֶתַתÊתֿתÙתדתותÜתׁתֶתֱתְתֱתֳתָת׀ת׃תׂתׁת׀ת׃תבתזתגתÞתÜתßתהתטתמתצתûת‏תûûûÿת‎תüתûתתתשתשתרתרת‎ת	ûû$û"û-û>ûMûUûXûXûZû[û[û[ûXûSûLûIûJûCû9û-û&û#û#û$û&û+û2û8û;û;û2û ûûû û#û&û-û=ûJûPûRûVûXûYûZûYûYûXûWûXû^ûaûTû[ûfûjûiûiûfû`ûSûEûAû@û?û?û>û?û?û?û@ûBûBû@û@û@û?û=û<û;û:û:û>ûCûHûJûJûIûGûEûFûJûNûPûTûSûMûEû=û8û4û1û/û1û4û4û2û/û-û,û+û+û,û-û.û,û*û)û'û&û$û ûûûûûûץתזתÚת׀תַת¸ת­ת°תµת÷ת¾תֱתִת־תֿתֽתÊתָתֶתִתֵתֶתֵתָת׀תÚתזתûת	ûûûû"û(û*û+û,û-û/û+û'û%û%û&û'û'û(û*û+û(û'û%û$û%û%û#û$û%û$û"û!û û!û#û"û ûûûûûûûûֻתֹת׀תױת׳תׂתֽתּתּתֻתֽתÛתלתםתבת׀תִתְתֱתֵתֹתׁתױתױתײת׳ת׃תׁתױתדתגתßתÝתÜתאתהתךתסתץתפתצת û ûÿת‏תüתûתûתתתתתרתרת‏ת
+ûû&û-û.û@ûNûVûYû[û\û\û[ûYûWûTûXûUûMûDû<û5û/û*û'û(û*û,û0û4û6û;û8û(û û#û&û)û.û1û5û8û:û>ûEûOûZû\û[ûZûYûZû\û_û\ûTûaûlûsûrûnûkûeûTûEûAûAûAû@ûAû@û@û=û>û?û>û>û>û<û;û=û<û;û;û;û<û>û@ûAûCûEûFûFûFûGûKûMûRûUûSûMûCû:û6û;ûCûDûDûDûDûDûDûDûCûBûAûDûDûCûAû?û?û=û;û8û3û.û'ûûûתתותֶת¶ת°ת¬ת®ת´ת¼ת¿תֱתֳתִתּת׀תֿתּתֻתָתֶתֵתֶתֶתֹתֽתױתדתףת ûûûûû'û)û,û.û.û.û+û(û&û$û$û&û&û%û'û*û(û&û%û$û$û$û#û$û#û"û!û û&û7û8û.û&ûûûûûû
+ûûֽתָתׂתÚתÜתÚתÝתבת׳תׂתװתßתןתףתותׂתֶתֳתֵתֶתÊתֿתײתÚתÛתÚתױת׀ת׀תאתהתגתÝתÜתßתדתחתיתךתלתנתסתץת‏ת‏ת‏ת‏תüתûתתתרתקתûתûû!û&û'û7ûFûRû[û^û_û^û[ûYûWûSûWûTûMûGûBû9û8û4û2û3û4û1û ûûû$û(û+û/û3û8û:û=û>ûAûCûEûGûIûIûJûHûFûFûFûCûAûCûNû_ûpû|ûƒû„ûûû}ûtûcûMûAû=û?û>û=û;û9û<û=û<û:û:û;û;û<û<û9û8û9û:û<û:û:û;û<û>û;û:û>ûBûFûPûTûLû?û3û/û.û.û.û0û0û0û/û-û.û1û2û0û2û2û0û-û)û'û&û%û$û!ûûûûûûפתבתֳת¸ת·ת·ת¸ת·ת÷ת»ת½תֱתֲתֳתָתÊתֻתֻתֹתַתֶתֵתֵתָתׂתÛתכתץתעת‎תûû(û.û/û0û1û/û-û,û-û,û(û&û&û%û%û&û)û(û%û%û$û#û"û!û ûûûûû0ûEûIûBû5ûûûû	ûûû ûָתֿתײת׳ת׳תÚתהתחתאתÛתÛתÞתÝתÝת׳תÊתֲת¼ת¾תֳתָתֿת״תÛתÜתבתאתÜתׁתÜתßתÞתÚתÚתÜתÞתßתבתהתותיתלתםתלתכתםתצת‎תüתשתקתצתצתתתûûû!û+û>ûOû\û^û]û[ûYûYûWûTûXûTûNûDû/û.û=û>û:û=û>û7û'û)û/û4û6û:û>ûAûDûEûDûAûCûDûGûGûHûIûJûHûEûEûDûDûDûGûPûcûtûƒû‹û‰û†ûˆû„û|ûpû\ûKû;û5û8û9û7û7û7û8û9û9û9û;û<û;û<û<û;û;û<û<û;û:û:û;û;û9û9û;û=ûCûGûBû:û2û/û.û+û+û-û0û1û/û-û+û+û.û/û.û0û0û.û,û)û&û$û#û"ûûûûûûתתיתׂת¹ת÷תִתׁת־תֳת¹ת³ת²ת¶ת½תֱתֵתֽתֽתּתֻתֹתַתֶתֵתÊת׃תßתנת‎תרתûûû&û-û.û.û-û,û-û-û,û,û(û&û&û'û&û'û%û$û#û ûûûûûûûûûû3ûDûIûCû7ûûû ûûûûû־תׂת׀תׁתױתװתױת״ת״ת׳ת׳ת׳תײתװת׃תֽתֶתְת¿תֱתַתֽתױתÜתÜתÜתÚת׃תהתותגתאתÝתÝתÞתÞתÝתÛתÛתÜתÞתדתיתכתכתמתסתתתüתתתקתצתקתüתûû%û$û0û?ûPû\û\û^û^û\ûZûYû^û\ûWûRûEû;ûDûQûOûFû>û+û%û*û2û<ûCûEûDûEûHûGûEûDûDûBûEûFûGûGûHûJûHûFûFûGûJûOûSûRû\ûoû€û‹û‹û†û‡û„û}ûsûbûIû8û2û8û8û7û6û7û8û:û;û:û;û;û:û:û:û9û7û8û8û7û6û6û6û4û3û5û5û5û5û7û7û5û2û0û.û,û+û,û.û0û2û3û2û2û1û/û0û1û5û6û4û.û+û(û%û#ûûûûûû‎תמתÞתֲת·תֳתֿת׃תÊת¿ת·תµת÷ת¿תֵתֻתֽתֹתֹתֹתַתֶתֵתָתֻתױתךתתתûÿת‏תûûû#û)û.û-û+û,û,û(û%û$û ûûûûûûûûûûûûûûûûûûû4û>û=û9û-ûûûÿתÿתתתצתÊתֽתײתהתכתחתÚתׂתׂתװת׳ת׳ת׀תֹתֵתִתֱת½ת¿תַתּתֽת׀ת׳תÚתײתÙת׀תדתפתמתזתבתÞתÞתÝתÝתÝתÛת׳תÙתÜתאתזתךתמתףתצתûתתתקתץתץתשתûûû'û'û8ûKûZû^û`ûaûiûiûfûbû]ûXûQûCûDûEûFûNûMû3û0û5û;ûCûJûMûMûJûIûJûIûHûGûEûDûDûFûHûJûIûKûLûHûGûHûMûQûXûXû_ûoû}û„û†ûˆû†û~ûzûsûgûSû9û+û*û/û1û2û3û6û8û:û:û9û;û<û=û=û<û=û=û>û:û9û9û6û5û6û7û8û6û3û2û3û1û1û1û0û.û+û,û0û2û3û3û4û3û2û2û1û4û:û=û;û5û/û*û%û#ûûû
+ûûûüתןתÙת÷ת·תֳת׀תÙת׀תֵת»ת·ת¹ת¿תֳתִתֲת¿ת¼ת÷ת´ת°ת¹תÊת׀תÝתףתüתûûתûûû!û#û*û,û,û.û-û(û$û$û ûûûûûûûûûûû
+ûûüת‎ת‎תקתקת‎ת	û#û+û5û/û#ûûûרתסתםתכתַתׁתותתתûûקתהתױת׃ת׳ת׳ת׀תֵתֲתְתֲתֳתָתׁתװת׃תװתײת׳תׂתÊתװתןת û‏תרתמתזתדתגתבתאתאתÜתÛתÝתßתדתחתךתסתץתקתתתרתצתצתקת‎תûû#û%û6ûIûVû^ûdûbûbûgûdûdû`û_û\ûMûNûSûMû=û8û9û:û=ûCûJûMûOûPûMûLûLûLûLûKûKûJûJûLûLûMûMûNûMûJûHûHûKûNûSûWû]ûhûpûxû}û~ûû|ûwûrûjû[ûCû)û'û+û.û/û/û3û8û<û=û=û>ûBûFûEûDûAû@ûBûBû=û:û6û5û5û7û:û:û9û7û3û2û2û2û2û0û-û-û1û4û4û6û:û>û>û?û>û@ûDûFûAû:û3û/û+û(û$û$û#ûûûûץתהתִת¶ת¿תָתֿתּתֵת¾ת»ת½תֲתֵתַתֲת¿ת¼ת÷תֱתִתָתֹתֶת־תßתםת ûûûûû!û%û'û-û,û'û&û$ûûûûûûûûûûûûûûû
+ûû‏תüתûÿתûû)û(ûûûûץתמתךתכתגתÞתׂתֿתגתצתûûûפתÝתׁת׃תׂתÊתִתֱתֵתֻתװת״תבתגתאתÞתÝתÚתÛתÙת־תותתתû‏תעתחתדתגתאתßתÜתÚתÙתÛתÝתבתותכתןתקת‎תתתרתצתצתצתüת	ûû%û0û,û;ûJûVû^ûdûlûlûkûhûfûcûTûWûdûgûeûWûGû@û@ûCûFûJûKûLûNûMûLûMûMûMûKûLûLûNûQûQûLûIûIûIûGûEûDûDûHûMûMûRû_ûhûlûtû{ûyûvûpûkûaûRû>û&ûûûû û"û(û/û5û7û7û;ûEûIûCû>û9û7û8û:û;û8û5û3û2û2û3û5û4û1û.û-û,û*û(û*û*û-û/û/û/û2û7û;û;û:û<û;û>ûAûBû<û5û/û*û'û#ûûûûûüתזתָתµתµת½תֳת¾ת»ת¹ת¶ת³תµת»ת¾תֳתÊתּתֻתָתַתַתָתָת½תÊתװתןתÿתûûûûû$û$û'û&û"û!û!ûûûûûûûûûû	ûûûûû
+û
+ûû‎תûû
+ûû!û#ûûûÿתטתאתÞתגתײתׂתֵתַת׃תךתûûûתתהת׃ת׃ת׀תַתֲתֳתַתֽתׁת׃תׁתֽתַתֳתֱתֳתַתָתֽתׁתÞתםתרתצתםתזתדתבתאתßתÜתÛתÛתÜתאתזתמתףתקתûתתתקתץתפתץתרת‏תûû/û4û0û?ûPû[û`ûfûjûkûiûhûfûVû_ûkûqûmûbûNûIûLûMûMûOûRûRûSûQûQûRûTûUûTûTûSûQûQûQûMûKûKûLûHûGûFûFûHûLûOûRûXûcûoûfûeûjûgû]ûYûTûBû,û*û/ûûûûû û"û*û1û.û2û;ûAû:û8û7û6û5û4û6û6û3û2û1û0û0û.û/û-û*û)û)û'û'û,û1û3û2û1û1û4û7û:û>û>û<û?û?û@û?û9û4û/û+û&û!ûûûûûûןתÛת½ת´ת»תֳתֵת¼ת÷ת¸תµתµת¼ת¿תְת¾ת»ת¸ת³ת±ת´ת³תµתְתÙתגתסתûû
+ûûû!û%û&û'û)û%û û ûûûûûûûûûûû ûûûûתקתûתקתכתןתûתûûû&ûûûüתעתßתÙתÝתÞתׂתֵתּתÙתםת ûû ûףתבתדתßתÜתÚתÚתÛתÜתÞתÞתÜתÝתÞתÝתÝתÛתÙתÚתÝתאתÞתױתßתחתבתßתßתאתאתßתÝתÜתÜתÚתÙת״תÚתÞתטתמתןתכתףתץתעתףתץתûת
+ûû(û)û3ûCûQûWûZû]ûhûjûjû]ûVûbûnû{ûƒû{ûqû`ûNûKûLûMûMûPûRûTûTûSûSûWûXûWûUûTûSûRûRûOûMûMûJûFûHûFûEûEûIûNûOûVû`ûmûdûcûfûaûNûJûFû6û&û#û ûû
+û	ûûûûû!û"û&û1û6û2û3û4û4û4û4û4û5û2û0û/û.û*û(û'û#ûûûûû#û'û+û.û1û0û0û3û5û9û>û@û>û=û>û?û?ûCûEûCû@û<û6û.û#ûû	ûקתßת»ת³תµת½ת½ת½ת¹ת¹ת¹ת·ת¸ת¹ת¼ת¿תֳתֳתְת¼ת¹ת¹ת÷ת»ת¾תָתױתנת‏תû
+ûûû(û,û/û0û.û&û$û"ûûûûûûû	ûû	û ûûû‏תרתûת‎תעתלתףת‎תûû(û;ûûûתעתßתװתׂתײתֽתַתֵתֻתױתזתעתצתסתיתאתגתÞתÛתױתֱת¼תְתֵתֶתֶתֳתִתÊת׳תÜתÚתÛתאתותיתחתÛתÜתÛת״תÞתבתßתÞתÜתÛת״תױת׃תװתײת״תßתותכתפתץתפתףתףתץתûתûû#û%û.û>ûMûRûWû_ûiûkûjûaûZûeûnû{û„û€ûvûdûPûLûLûNûNûNûOûNûMûMûOûTûSûRûPûPûPûQûPûMûJûIûEûDûEûBû@ûBûGûIûIûQû]ûcûYû\û`ûOûBû?û;û%ûûûûûûûûûûû ûû&û2û5û/û2û1û-û,û,û-û*û&û%û$ûûûû#ûûûû
+ûûûûû#û)û,û+û,û/û3û8û>û;û9û;û<û;û<ûBûAû=û9û4û*ûûûÿתמתבתֹת²ת²ת·ת÷ת»תµת±ת¯ת¯ת®ת²תֳתַתָתַתַתֹתָתÊת־תׂת׃תÜתצת û ûûûûû#û(û*û,û*û(û%û ûûûûûûûû ûקתצתתתפתכתםתסתטתאתהתטתחתפתûûûûתקתית׃תֽתֻתֵת½ת¿תÊתֿתֿתֿת׃תÚתÙתבתגתאתÝתÜתÙתׁת¼ת¾תִתֶתֵתֲתֳתּתֻת״תßתהתלתפתרתשתסתÝתÜתÛתÝתÝתÝתÝתÜתÚת״תײתװתׂת׃תװתױתÙתאתיתףתפתעתףתץתÿתûû#û+û:ûGûRûUûeûmûnûmûdûTûXûcûkûxû~û‚û}ûpû_ûRûLûNûNûLûNûLûMûMûNûQûRûPûMûMûMûKûIûHûFûDû@û?û@û<û<û>ûBû@û@ûDûJûMûEûIûKû=û2û1û9û'ûûûû
+ûû
+ûÿתûûûûûû&û'û$û'û)û&û#û!û!ûûûûû!ûûûûûûûûûûûûûû$û(û)û,û1û5û9û7û8û?ûCûCûAû@û@û=û9û2û(ûûûûץתחתÛתֲת´תµת¸ת»ת¹ת¶ת¶תִתֶתֳתִתִתַתָתֹתÊתֻתּתֿתװתÜתחתקתûÿתûûûû#û%û)û'û&û!ûûûûûûÿתûתפתפתןתחתÜתÞתÝתׂתּתֿתּתִתֲתֳתַת־תײתגתהת־תÊתָת»תµתµת¶ת½ת¸תֹתָתֹתֶתַתָתַתֵתִתֵתÊתÊתÊתֽתּתֻתֽתׁת׀ת׳תמתףתךתבתחתלתפת‎תûûûûû‎תתתשתרתקתקתצתצתץתץתץתפתףתףתףתסתךתמתמתסתסתסתףת ûû(û?ûNûYû`ûfûlûpûrûrûlûZûbûqû{ûûûxûmû^ûRûOûNûOûQûPûNûLûMûPûPûRûRûRûPûNûMûLûJûIûHûFûBû>û?û=û9û8û8û9û7û7û7û;û9û4û5û<û'û$û1û%ûûûû‎תץתףתשתüתûתû
+ûûûûûûûûûûûûûû	ûûûûûû	ûûûûתתשתû
+ûûûû$û*û-û.û1û2û2û3û3û3û2û1û5û?û?û=û6û*ûûûûעתßתְת÷ת·ת¶ת¶ת´תµת³ת²ת·תµת´ת³ת²ת²תµת¸ת÷תֱתֿתײתÛתבתיתפת‏תצתÿתûû!û+û4û7û6û4û/û)û ûûûûרתןתיתדתÛתÊת¹ת¹ת»ת»תֱתֹתֶתֳתֲתֱת¼תµת°תµת»ת÷ת¹ת¼ת½ת¼ת¸ת¨ת₪ת£תָתֵתֳתֱתֱתֲתֵתֶתּתׁתׁתׁתׁתװתׂתֽתÊתֽתװתÝתüתû ûסתזתעתתתûûûûûûûüתתתשתרתקתקתקתץתלתױתׁתׁתׂתׁת׃תÚתחתנתנתמתמתסתצתûû-û?ûOûZûcûkûpûtûxûzûuûfûoû{û~ûvûkû^ûSûNûNûOûQûOûKûIûIûKûMûPûQûRûQûNûKûKûKûIûIûGûFûBû;û:û:û5û.û-û,û)û'û(û,û.û4û6û5û.û&û ûûûûûûÿתüתקתךתכתנתשתû û ûûûûûûûûûûûûûû
+ûûûû û‎תצתלתסתרתÿתûûû!û)û-û,û+û+û*û+û.û0û5ûBûCûCûAû?û;û1û(ûûûüתהתֱת¼ת¸ת²ת¯ת®ת¯ת°ת²תµת¸ת²ת±ת³תµת´ת¶ת¼תÊתׁתײתÚתßתהתמתüתûû"û*û3û;û@ûBûBû<û4û+û ûûûüתסתטתבתױת¾ת¸ת·ת·ת¸ת÷ת÷ת¶ת³ת°ת×ת¥ת¡ת¡ת£ת¡תתתתת ת₪ת¬ת§ת¡תת׃תֽתַתֳתְת¾ת¾תֳתּת׳תÝתאתהתחתותחתךתחתםתûûûûûכתךתûתû	ûûûûû
+ûû‏תשתרתקתקתרתתתûתûתרתפתףתףתעתסתסתעתעתנתנתעתקתûû)û=ûQû_ûmûyûû€ûyûfûmûpûtûyû~ûwûlûaûZûPûOûPûQûQûNûKûHûIûLûPûPûOûLûKûJûHûEûDûCû>û7û5û3û3û/û-û+û*û)û(û&û'û(û+û.û6û8û4û)ûûû ûלתטתטתדתגתהתטתךתלתלתםתפתעתעתץתץתפתתתüתשתûתû‏תûûûû‏תשתשתקתעתףתרתüתûûûûûû$û*û-û,û)û'û(û+û0û6û:ûCûDûAû?û<û6û-ûûû ûותִת¾ת÷תµת±ת²ת¯ת¬ת©ת­ת´ת·תֱתֵתֶתָתֻתֻתֿת׃ת׳תÛתאתזתנתÿת
+û	ûû)û3û,û*û0û0û,û$ûûûûûûקתךתׁת¼ת¹ת¸ת¶ת´ת´ת´ת·ת¶ת´ת¯ת¨ת¡תתתתתת›תת ת¥ת×ת×ת¥ת¡ת›ת־תֶת¾ת»ת½ת¿תִת׃תÛתÝתßתותטתהתזתחתיתחתטתûû"û!ûû‎תלתפתיתזתףת ûûÿתץתיתÝתÚתÛתÚתÚתÜתטתצתûתתתצתפתפתףתעתעתעתסתנתעתץת‏תû$û2ûEûXûZû\ûkûuûyûxûû‰û‚û{ûzû}û„û‡û…û~ûmûOûMûPûSûOûKûKûKûNûOûMûNûLûIûFûDûAû=û:û6û2û2û0û0û-û)û*û*û*û+û+û(û'û*û-û-û5û4û,ûûûûםתגתגתהתדתהתזתכתלתטתךתסתעתלתםתעתףתנתסתרתרתשתתתÿת‏תשת‎תרתסתןתךתÝתםתןתףת‎תû‏ת ûûû#û,û0û/û+û+û*û,û/û5û7û=û@û>û=û;û4û+ûûûûןתֿת¼ת¹תµת±ת¯ת¬ת×ת¨ת«ת²ת·ת¸תִתָתָתÊתֽתׁתײתÞתבתחתנתüתûû$û-û2û+û%û1û?û@û<û1û#ûûûû	ûûתלתׂת»ת¸תµת±ת®ת¯ת³ת´ת¯ת¨תתת—ת˜ת˜ת˜ת˜ת™תתת›ת¡ת¨ת×ת¦ת¢תתַתֲתֲתִתֶתִתֵתֵתֶתֹתֹתּת״תאתאתÛתßתלתותית	ûû&û ûû‏תעתלתסתûûûûû
+ûÿתגתÙתבתהתכתשתתתץתרתקתפתףתפתףתעתנתןתםתמתסתשתû!û9ûLûXûTûiû|û†û‹ûû’û“û‰û€ûzûyû|û{ûrûkûiûqûkûdû`û_û^û_û]û\û\û\û\û]û]û\ûZûWûTûPûLûIûGûEûBû?û>û>û=û=û>û>û>û?û>û9û7û2û+û#ûû
+ûûתהתßתבתגתבתגתדתזתטתזתזתיתכתותדתותיתאתÜתדתÞתדתחתחתױתֽתװת׳תÝתÝתÝתÝת״תאתזתנתץתüתû‎תûû$û+û/û.û+û*û-û0û5û4û3û2û.û*û(û+û'ûûû
+û‎תןתßתְת¹ת·ת²ת­ת¨ת¥ת£ת§ת±ת¹תֳתֹתÊתֽתׁתױתÛתהתךתפתûûû	ûûû*û0û<ûNûTûOûHû>û.û û ûûûûרתותַת»ת·ת´ת±ת¯ת²ת¸ת÷ת½ת÷ת­ת—ת—תת˜תתת ת ת ת¢ת©ת¦ת תתתּתÊתֹתÊתֽתּתָתֵתַתּתּתֻת״תהתכתןתםתגתנתץתû/û:û6û-ûûûתעת‎תûûûûû	ûûתÜתÛתטתיתםתשת‏תץתכתאתÚתÝתנתסתףתנתנתמתמתעתûתû(û>ûHûEûUûoû‚ûû—û–û•û˜û“û‡û|ûwûzûƒûûsûfûRûKûIûMûMûMûKûIûIûHûHûIûKûKûFûCû?û;û7û1û.û0û/û.û+û&û$û%û'û%û$û#û$û"ûûû
+ûÿתפתךתגתÛתÚתÛתÞתÝתÞתÞתÞתßתבתÝתÜתהתכתטתזתותותגתאתßתבתגתÞתÛתֹתÊתׂת׀ת׀תÚת״ת״תÙתÜתßתזתמתפתÿתû ûûû!û,û.û-û-û0û4û4û3û1û6û<û;û8û2û*û ûû	ûÿתצתםתהתÛתײתׁתֻתָתֶתֶתֶתַתֹתֻתֽתֿת׃ת״תÛתבתטתןתצתÿת	ûûûûû$û2û9ûEûQûTûMûBû5û'û%û"ûûûסתהתÊת¯ת­ת«ת¬ת¬ת¬ת«ת§ת₪ת¡ת›ת˜ת™תת›ת›תתת¡ת¡ת ת£תת›ת™ת™תֶתָתָתֻתׂתװתׂתÙתÛתÚתÞתװתאתסתûת‎תüתנתמתû'û;û@û8û.û!ûûקתתתûûûûû‎ת ûûתכתÛתותחתכתןתסתםתחתגתגתיתיתםתעתנתמתםתעת‎תû,û5û;ûJûbûxûˆû•û₪û û™û”ûû‡û|ûrûtû€û†ûûpû[ûIûGûMûOûNûLûIûGûHûIûLûOûOûXûZûXûYûWûTûRûPûMûLûKûFû0û$û&û(û*û0û@ûGûBû<û2û&ûû
+ûרתÜתÛתÜתÜתÛתÜתÝתÞתßתßתÞתÜתßתחתדתבתאתװתֱת¿ת¿ת¾תֳתֵתֵתַתÊתÊתִתְת¼ת»ת½תֳתÊתÙתÞתדתלתקתתתרתûûû'û-û+û,û0û5û4û1û/û.û7û9û9û7û3û-û$ûûûûüתןתדתÜת׃תָת¯ת¯ת¹תֶתÊתֽתׂת״תÜתבתותיתמתץתüתûûûû ûûû$û5û>ûBûLûUûNûBû6û(û$û$ûûûףתÞת¸ת¬ת¦ת¦ת¨ת×ת×ת₪תת ת¡ת תת¢ת£ת£ת£ת¥ת§ת©ת¨ת₪תת›ת™ת™ת™ת׳תָתָתֻתׁתײתÚתÛתÚתÚתÜת״תמת ûûûûû	ûû'û<û>û5û+ûûûûתÿתûûû	ûûÿתûüתמתÚתגתהתגתבתגתדתאתßתטתסתןתנתעתנתמתמתסתûתû%û4û3û<ûNûfû|ûûû¦ûû“ûû‚ûxûnûnû}ûûxûhûTûIûMûOûMûKûIûGûGûGûHûIûLûTûWûYûYûZûYûWûTûRûPûNûLûAû-û.û.û/û3û7û6û.û'û û û%ûûû‏תגת׳תÙת׳תװת׃תױת״תÙת״תױת׃ת־תָתַתִתֱת¾ת÷ת¶תµת¹תֱתֳתֳתֵתֵתֳת¾ת÷ת·ת¸ת¸ת¼ת¿תֲתֶתֽת׃תאתףתקתצתûû!û(û)û)û.û3û1û.û+û)û)û3û8û6û2û.û'ûûû	ûûץתיתאתÙת׀ת÷ת÷תֹת־ת׃ת׳תÝתדתטתםתעתצתüתûûûûûû ûûû#û1û9û>ûIûQûIû>û3û&û'û ûûûףתזתײתֵת©ת£ת¡ת¢ת¡ת תתתת£ת¡ת£ת¦ת¨ת©ת«ת­ת°ת®ת§ת תתתתתנת׳תֽתֿתׁתװתÜתÜתÚתÙתÚתßתûתûûûûû
+û
+û!û-û1û/û'ûûû‏תרתûûû
+ûûûûûתחתגתדתÞת׳תױתײתÛתÝתאתךתמתלתםתנתמתםתםתןתרת
+ûû1û;û;ûGû]ûtû…û˜û₪û›ûˆûxûkûbû[û]ûfûnûhûZûIûFûKûMûKûIûGûGûGûGûGûGûHûHûFûAû@û>û;û;û9û6û4û5û9û:û:û9û7û7û8û9û9û4û,û$ûû$û!ûûûטת״ת׳תװתׁת׃תײתײתװת׃תׁתֽתָתֳת¾ת»ת·ת´ת´ת´ת³ת¶ת¾תֻתװתױתײתױת׃ת׀תֽתֻתÊתֹתָתֻת׀תװתÚתזתסתשתפת‎תûû'û)û-û3û5û1û/û,û)û'û$û!ûûûûûûûÿתÿתתתנתטתßתÛתÙת׳תײתÙתÜתßתהתיתלתנתץתרת‎תûûûû	û‎ת	ûûû$û+û/û4û9û=û7û,û"û%û&ûûûûץתטתÛתּת°ת£ת¢ת תתתתת¢ת¥ת£ת¥ת©ת×ת×ת¬ת¯ת°ת¬ת¨ת¢תתתתת‎תכתװת׃ת׃תױתÛתÛת״ת׳תװתיתûû û!ûûûûÿתûû&û'û ûûû‎תסתתתûûûüת‏ת‎תנת‎תÿתעתÜתױתװתװתװת״תÜתהתזתכתסתסתמתםתלתמתץתû!û/û0û5ûFûUûaûsû…ûû‡ûxûgûYûVûUûRûUû\ûZûOûFûEûHûLûKûJûJûHûGûGûFûFûDûAû=ûCûMûMûFûAû<û9û:û?ûHûIûCû?û=û=û;û<û>û:û3û*û!û"û&ûû
+ûית׃תֿתֽתֽת־תֽתֻתֹתÊתּתÊתֵת¿ת¸ת´ת³ת²ת³ת³ת²ת²ת¹תֵתָתַתַתֿת׃תׂתֿתּתÊתֹתֹתֻת־תׂתÚתותןתûתûקתûûû%û,û3û8û4û0û/û0û9û<û;û:û6û5û2û.û&ûûûû‎תץתןתכתיתטתךתןתעתץתרתשתûת‏תûûû
+ûûûû û‎תûûû#û)û-û/û3û3û3û7û2û(ûûûû ûצתיתÛתֻת­ת¢ת¡ת¡ת¡ת¡ת תת¡ת¢ת ת¢ת§ת×ת«ת©ת§ת§ת§ת¥ת₪ת תתתתמתזת׳ת׀תֿתÊתָתַתַתַתׂתלת‎תûûûûûûץתכתשתûûûûû
+ûשתףת‏תûû‎ת‏תÿתפת‎תûûנתßתׂתׂתׂת׃ת״תÛתÞתדתותטתלתלתכתכתנת‏תû!û*û*û<ûKûWûeûvû„û€ûpûnû]ûYûVûOûLûJûGûEûGûFûGûGûEûFûEûEûEûFûGûFûEûCûAûDûSû\ûXûOûEû?û?ûGûQûPûHûCûAûAûBûBûAû=û8û1û3û0û&ûûûצת׀תָתָתÊתֹתֹתÊתָתֹתֻתֻתָתֳת»תµת³ת°ת°ת²ת´ת³ת·תֱתֵתֶתֶתֲת¼ת¶ת±ת°ת°ת°ת°ת°ת¸ת¿תֲת־תחתןתצתןתשתûû û*û/û3û5û3û1û0û.û+û'û$û!ûû#û,û*û#ûûûû‏תרתץתףתפתפתקתüתûûûû	ûûûûûûûüתÿת	ûûûû!û$û(û/û9û9û8û6û1û(û ûûûûקתיתÞתװתָת¬תתת¡ת¢תתתת ת£ת¦ת§ת©ת¬ת¬ת×ת§ת§ת¦ת₪ת¢תתתתüתיתבת׀תֽתִת¿תְתֳתִתֿתבתרתû	û	ûû	û ûûתצתûûûûûûצתגתגתזתכתןתסתםת ûû û'û'û ûûסתאת־תֽת־תׁתױתÝתהתטתחתלתךתכתסתÿתû"û)û<ûTû\ûcûeû\û`ûiûjûfûaû]ûXûLûFûEûDûCûBûBûBûBûBûCûBûAûAûAû@û?û?ûBûRû`ûfûaûWûIû@û@ûBûGûMûQûLûEûAû?û@û@û@û@û=û5û*û"û#ûûûקת׀תֱתֲתֲתֳתַתֻתּתÊתָתַתֶתֳת¾ת÷תµת²ת°ת®ת°ת°ת®ת³ת¹תֱתַתָתÊתֿת־תÊתַתֶתֶתֶתֹתּתׂתÙתהתמתצתןתצתûûû(û+û-û/û/û3û<û=û;û;û;û:û8û6û4û3û.û'ûûûûûÿתתתרתרתשתûת ûûû
+ûûûû û#û$û(û*û+û-û.û/û/û/û0û0û0û0û1û0û0û.û,û&û ûûûûפתחתÜתׁת¿ת¡תתתתת›תת£ת₪ת¢ת¡ת¢ת©ת×ת©ת¨ת§ת₪ת£תת›ת˜ת—תûעתיתאתÙתÚת׳תװתׂתֵתּתÜתעתû ûûûüתעתלתטתזתלתסתנתךתאתֽתַתֹתֿתßתכתדתןתûû!û*û*û$ûûרתגת׃תׁתׂתױתÙתßתדתותיתכתכתםתעתûתûûû*û>ûKûPûTûVû^ûkûqûkûeûaû[ûSûLûHûGûFûDûAû>û=û;û7û4û3û2û/û/û4û9ûFûZûcûeûcû\ûQûFû?û?ûDûHûMûPûHûDû@û@ûAûBû@û<û6û0û4û.ûûû ûכתּת¼ת¾ת¼ת¿תֳתֶתָתָתֶתֶתֵתֱת¼תµת²ת°ת®ת°ת²ת³ת³ת¼תֶתָתִתֱת½ת¸ת±ת­ת­ת¯ת±ת³ת·ת¾תָתÚתהתםתסתלתצתûû#û)û-û5û<û=û=û=û=û<û;û:û9û7û5û2û/û+û$ûûûû
+ûûûûûûûûûûû"û%û(û'û%û+û.û/û/û0û/û0û0û1û1û1û1û1û1û/û.û+û'û!ûûû
+û‎תסתיתÝתׁתֳת¥תת™ת˜ת™תת¢ת₪ת¢תתת₪ת§ת©ת§ת£ת¢ת¡תת™ת—ת–תûûעתטתÝת־ת¼ת¸ת¹ת¾תֳת׳תדתץתףתכתיתכתךתכתחתהתÚת׳תׂת׀תֹתׂתװתױת״תÞתזתטתטת‏תû'û3û4û-û"ûûצתבתֿתֿתׁת׃תÙתÛתÝתהתלתכתםתףתûתûûû!û.û?ûDûFûKûUûaûeûdû]ûTûJûEû?û:û6û7û5û/û,û-û+û(û%û%û%û"û$û)û.û;ûPû]û`û]ûcû`ûRûHûLûZû`û]ûYûWûUûTûSûRûRûQûOûMûGû@û7û+ûûûצתÛת¿ת¼ת÷ת÷ת¾תְתֲתִתְתְתְתְתֱת¿ת¸תµת²ת´ת¸ת»ת¿תֳתֶתֽת׀תׁתֿתֽתֻתָתַתֵתֶתַתֹתֽת׃תÜתזתנת‎תÿת‎תûû"û%û)û+û*û)û)û*û*û*û+û+û.û8û7û6û3û0û-û'û!ûûûû
+ûûÿתנתפתשת‎תû
+ûûûûûûûûûûûûûûûûûûûû#û-û-û)û%û ûûûûûתןתÞתִת­ת¡ת›ת›תתת ת¡ת£תתת˜ת›ת¡ת₪ת¢תת™ת˜ת™ת˜ת—ת•ת'ûû ûיתÙתװת״תׁתֿת׀תׁת׃תֽתֽתÙתבתךתכתךתזתבתאתßתÝת׃תׁתֿתֿתֿתׂת״תדתלתךתןתû!û2û7û3û+û ûûüתמתםתםתםתםתםתםתכתכתךתיתךתםתףת ûûûû.û4û>ûFûKûRû\ûdû^ûUûKûCû:û2û0û.û*û(û'û)û3û1û1û-û+û)û)û&ûûû,û?ûGûJûKûRûdûnûkû]ûHûAû?û@û?û>û@ûAû=û:û7û5û2û+û"ûûûûûûםתּת¼ת÷ת¸ת¸ת¸ת¼ת½ת½ת¼ת¼ת¾תֱתְת¼ת¶ת²ת²תµת»ת¾תֱתֱת¿ת½ת¼ת¹תµת®ת«ת×ת×ת×ת¬ת¶תֵתּתױתßתכתקתûûûûû#û&û'û%û%û&û&û'û(û)û+û4û:û9û7û6û4û0û-û)û%û ûûÿתקתקת‎תû
+ûûûûûûûûûûûûûûûûûûûûûûûûûû$û%û"ûûûû	û‎תפתךתÞת׀תֳת­תתתתתתת˜ת•ת–תתתת™ת–ת˜ת›ת™ת—ת•ת+û!ûûףתהתײתֹת´ת¶ת÷ת¼ת÷ת÷תֲתׁתßתותÞת׃תֽתÊתַתֵתָתױתײת׃תֿת־תֿתׁת״תחתפתסתüתû1û3û/û$ûûûץתןתמתלתכתכתךתךתיתיתטתטתיתיתךתזתמתפתûû&û3û?ûDûHûRû]ûUûIû=û3û'ûû!ûûûûûûûûûûûûûû	ûûû-û;ûAûDûHû^ûqûyûrûhû]û`ûZûVûUûSûQûNûNûOûNûKûGûBû<û3û&ûûûשתÝת½ת¹ת·ת¶ת·ת¹ת»ת½ת»ת÷ת÷ת¾תֱת¼תµת²ת²תµת¹ת»ת½ת¿ת½ת¼ת¿תָתÊתָתֶתֳתֱתֱתֱתֳתֶת־תײתגתמתÿת	ûû	ûûû!û&û)û)û'û&û'û(û*û*û)û'û$û"û ûûûûûûûûûûû	ûûûû'û*û,û-û-û.û0û0û0û0û0û1û1û0û0û1û0û1û0û0û0û-û+û+û+û(û(û&û$û"ûûûûÿתץתךתÜתּת¾ת¡ת™ת˜ת™ת™ת™ת–ת•ת–ת˜ת˜ת˜ת˜תת₪ת¥ת¡תת—ת6û.û!û	ûץתÜתְת²תµת¹ת»ת»ת¼תֶתÛתכתיתאתׂתֻתֹתָתֶתֹתֹתײתײתׂת׀תׂת׀תײתבתפתףתצתûû!û&ûûûüתצתכתםתםתלתלתלתלתכתךתךתיתטתÞתÞתזתפת‎תûû&û'û1û<û=û8û<û=û.û(û'û$ûûû!ûûûûûûûûû‏תשתûת ûûûû.ûBû@ûNûdûvûƒûûyûkûTûEû?û@û@û?û>û=û<û;û6û6û4û.û%ûûûûû ûלתּת»ת¹ת½תֻתֿתֽתֻתּתֽתּתֽתֿתֿתֽתÊתָתָתֹתָתַתֶתַתָתֶתֵתֹתֹתָתֶתֳתֲתֲתֱתֵתֽת׳תגתנתû	ûûûû"û&û)û)û(û&û$û&û+û-û*û%û"û#û$û ûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûû ûûûûûûûûûû‏תרתשת‏תüתףתחתÞת׀ת·ת›ת–ת“ת’ת“ת–ת˜ת™ת™ת—ת—ת ת°ת¹ת°ת©ת£תת2û'ûû ûלת׀ת½ת°ת´ת·ת¼ת¾ת»ת½תֶתÚתכתםתבתײתּתָתֹתֽתֻתׂת״תװת׃תױתֻתÛתםתצתצת‎תûûûûû‎תצתמתÝתּתּתֽת־תׁתÚתטתטתטתטתיתטתבתÞתכתפת‎תûûû(û4û6û/û3û2û&û$û!ûûûûûûûûû
+ûûû ûמתיתךתןתûתû û*û8û:ûEû^ûuû…ûˆû€ûvûcû\ûOû>û@û>û=û<û=û<û8û4û4û1û*û ûûû	ûûפתÝתֱת¼תֳת¿ת¸תµת¶ת¶ת¶ת·ת»ת¾ת½ת¸ת²ת¯ת¯ת²ת²ת²ת¯ת­ת­ת²ת·ת¼ת½תַתֶתֳתֱתְתֱתֳתÊתׁתÚתחתקתûûûûû û$û)û)û&û$û(û-û/û)û#û"û"û ûû!û%û0û!ûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûû!û!ûûûûûûûûûûûüתשתתתצתנתחתÚת÷תתת—ת’ת“ת—תתת™ת–ת•תת§ת´ת»ת­ת¦תת4û+ûûûקתגתֻת½ת³ת¸ת½תְת¿תְתּתÝתךתכתÛתֿתָתַתֻתװת׃תַת¾ת¿תֽת־ת־תßתקתû ûקת‎ת	û	ûûû ûנתןתלתÚתֿת־ת־ת־תÊתֹתָתַתÊתֽת׃ת״תבתהתזתקתשתûûûûûûûû$û)û%ûûûûû
+û	ûûûÿתשתזתהתחתיתכתםתקתûû'û4û6ûFû]ûsûû’û‹ûûlûYûYûDû?û?û?û?û>û:û8û7û5û3û-û%ûûûûûÿתךתׂת»ת¿ת¿ת¸תµת³ת´ת¶תµת¸ת¾ת½ת¶ת®ת¨ת§ת¨ת©ת×ת©ת¨ת¨ת«ת³ת»ת¾ת¼תֶתֶתֳתֱתֱתֲתָתׂתßתןת ûûûûû#û&û%û"û!û û!û$û'û*û(û%û$û#û"ûûûûûûûûûûûûûûûûûûûûûû ûûûûû û"û!û!û#û$û$û$û"û#û#û!ûûûûûûûûûûÿתץתךתßת״תÛתßתÚתֻת×תתתת¢ת¢תת™ת”ת“ת•תת¦ת´ת®ת§ת¡ת5û,ûû
+ûקתÞתַת½ת¸ת¿תֵתָתֹתֶתֵתÊתװת״תׁתַתֵתֵתֹת׃תװתּתֶתֽת״תׂתׁתבת‎ת	ûûצתןתעתקתûתרתכתןתיתׁת׀תÛתלתלתךתותֿתֻתּתֽת־תֿתױתאתÛתדתותךתתתû‏תûûûû
+ûû	ûûûûûתצתפתותÛתÞתגתÝתÝתßתגתותןתשתתתûûû0û6û>ûWûpû…û˜ûû€ûlûXûYûEû>û=û=û>û>û<û9û7û5û4û3û.û%ûûûûûüתךתÛתְת½ת¶ת±ת±ת³ת·ת¹ת¼תֱתְת¶ת®ת§ת₪ת₪ת¦ת¨ת©ת©ת©ת©ת¯ת»תֳתַתֻתַתִתֱת¿תְתַתױתהתצתûûûû û%û&û%û#û!ûû!û$û'û)û)û*û3û9û9û3û<ûLûJû3û.û%ûûûûûûûûûûûûû"û$û$û ûûûû û!û û û"û%û&û$û"û#û"ûûûûûûûûûûûûûתתעתךתזתלתזתÞתּת©תתת¥ת¦ת¡ת™ת“ת”ת—ת›ת¢ת¥ת¢תתת1û'ûû
+ûקתÞת׀תֻת½תֲתֶתַתַתֶתִתֵתֶתֹתֶתֵתֵתַתֻתֽתּתֹתֶתײתיתיתÝת״תךת‏תûץתחתדתםתץתנתכתךתםתטתßתמתÿתû‏תטת־תָתָתֻתּתֽתֽתׁתׁת׳תבתקתלתלתץת‎תקתרת û û‎תûûץתנתמתךתÛתװתײת׳תװתׁתׂתװתװתÙתדתהתותמתûû'û1û5ûLûaûwûˆûˆûûpû[ûLû@û=û;û<û<û;û:û7û6û6û4û2û/û'ûûû ûû‏תסתÚת¿ת½ת¾ת¸תµת¶ת¶ת¶ת¸ת½ת¾ת¸ת¯ת©ת¦ת₪ת£ת£ת₪ת¦ת§ת¨ת«ת¸תֱתִתֹתַתִתֲתֲתֵת־תÚתית‎תûûûû!û'û)û)û&û#û!û û!û$û'û*û,û.û0û9û9û?ûSûYûSûIû3û(ûûûûûûûûûûû!û#û&û'û#û!ûûûûûûûû!û$û#û ûûûûûûûûûûûûûûûûûתנתותאתאתבתÞת׳תּתֶתֱת¼ת¹ת¶ת³ת²ת²ת²ת±ת®ת¯ת¯ת¯ת4û-û!ûûüתחתײת׃ת¾תֲתֶתֶתָתַתִתֳתֵתַתַתֶתָתֻתֹתָתֶתֳתֲתׂתטתםתטתÞתךתצתצתפתצתפתסתןתםתלתכתיתית ûûûûû ûטתאתותחתחתותזתחתותÝתßתכתץתנתנתקתקתשתûתû‎תצתףתנתיתÜת׀תׁתװתײתװתװת׀תֽת־תׁתװת׳תותעתשתûûû*û7ûHûbûhûvûwûlûZûJûBû=û=û:û:û9û8û7û6û5û4û3û4û1û*û"ûûûû	ûרתחתֻת¼ת¾ת÷ת´ת±ת±ת´ת¸ת¼ת½ת¹ת±ת«ת§ת¢ת¢ת¢ת¡ת¡ת¢ת¥ת«ת¶תֱתִתֻתֹתִת½תֲתֶתׁתßתןתû	ûÿת
+ûû û'û*û%û#û!û!û"û#û%û'û)û+û-û6û3û3ûPûaûfû^ûQû2ûûûûûûûûûûûû!û#û&û&û"ûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûתעתךתחתסתמתבת׀ת®ת£ת¡תת—ת•ת˜ת›ת›תתתתתת0û'ûûûסתÜתׂתֵתְתֳתֲתֱתֲתֳתֲתֲתֵתֻתÊתֹתֶתַתִתֱתְת¿תְתֹתגתטתהת״תװתßתזתכתםתםתםתלתםתכתלתזתםתûûû!û ûûקתױתַתֹתֹתֹתÊתֹתÊתׂתבתדתדתדתחתךתלתלתןתןתםתלתכתחתÚתֽתׁתװת״תÙתױתׂתֽתּת־תֿתׁת׃ת׳תÝתגתותסת	û$û0û2û8ûIû]ûgûhû`ûOû=û9û?û>û9û8û9û8û8û6û6û8û6û0û*û"ûû
+ûû	ûûתכתֽת¾תֲתֲת¾ת·ת±ת°ת³ת¶ת¸ת¹ת¶ת¯ת«ת¨ת₪ת¢ת¡ת¡ת¢ת¦ת®ת¹תֱתֲתÊתָתֵתֳתִתֻתÙתךתûתû	û‏תûûû!û'û*û)û)û'û%û!û"û&û)û,û-û,û3ûLûcûnûiûYûJû3û4û ûûûûûûûûûû û!û!û ûûûûûûûûûûûûûûûûûûûûûûûûûûûûûû	ûûûתץתמתףתףתלתבתÊת©ת¡תת ת£ת¢תתתתתתת*ûûûûפתאתÜתָת¼תְתֲתֱתֲתִתֲתֳתַתֻתÊתֶתֲת¿ת¼ת¶ת³ת´ת¶ת¾תֿתÙתױתׁתװתÚתבתזתטתךתכתכתכתכתכתיתךתûû&û/û/ûûûלתׁתֶתֵתִתֳתִתֵתֶתֵתֵת־תÞתגתדתגתדתגת׳תÊתָתֶתֵתֶתÊתֽת׃ת׳תÛתÞתÛתÞתבתßתßתאתהתיתסתשתûû"û-û8ûAûAûDûRûSûRûQûRûRû:û8û;û9û5û4û5û5û6û5û6û7û4û.û%ûûûûûקתגת¿ת»ת¾ת¾ת÷ת¶ת±ת²תµת´ת´ת´ת´ת´ת´ת®ת©ת¨ת©ת«ת¬ת¯תµת÷ת¿תֳתְתֶתֶתֵתֵתּתÚתךתתתû ûûûû û%û)û-û4û3û.û)û$û$û&û)û*û,û+û,û;ûYûgûgû]ûQû=û+û!û#û"ûûûûûû û"û#û ûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûתסתעתצתנתטתÞתװתֻתֵתְת¼ת¸ת¶ת±ת­ת®ת®ת«ת$ûû	û‎תןתכתדתֵת¹ת¹ת¼ת½ת¾תֲתֱתְתְתֳתֵתֵתֲת¿ת¸ת³ת¯ת¯ת°תµתִתֻתֻת׀תװת״תאתותטתךתכתלתלתלתםתיתךתû#û6û@ûDû@û7ûûףתÛתַתִתִתֲתֱתֱתֲתֳתֲתֲתֲתֳתֵתָתÊתÊתָתֵתִתִתֹתׂתÚתÛתÚתÝתÞתÚתאתÞתÜתÝתאתדתטתנתשתûûû(û2û>ûEûLûEûKûIûBû9û8û8û:û=û;û9û8û9û8û7û6û5û6û2û/û*û"ûûûûûתתדת¿ת¹ת»ת»ת¹תµת´תµת·תµת´ת¹ת¼ת½ת¶ת³ת¸ת¾ת»תµתµת÷ת¾ת¿תֱתֲתֳתֵתִתֶת־ת״תחתרתûûÿתûû$û'û)û1û?û=û2û,û'û(û)û*û,û-û+û,û:ûPûYûYûUûMû<û(ûûû!û!ûûûû"û"û"û$û"ûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûû	û ûצתכתאת׃ת·ת¢ת¢ת תתתתת˜ת•ת+ûûû‎תנתזתחתױת¸ת´תµת¸ת¿תָתַתִתֱתֲתִתּתׂת׀תַתָתֹתֶתֵתֵתָתֹתֻתּתֽתײתאתזתיתכתםתםתםתלתלתיתסתû.ûFûOûOûGû<û(ûûותֿתַתַתֶתִתֳתִתֵתֵתִתֲתְת¿תֱתִתֶתֵתֳתֳתֶתÊתׂתÙת״תײת׳תÛתאתßתÝתÜתÞתÞתÞתיתעתתתûûû'û!û û.û9û?û@ûAû@û;û9û9û:û<û9û7û7û8û8û6û3û3û3û2û.û,û(ûûûû ûûסתÞת»ת³ת³תµתµת³ת³ת¶ת´ת°ת²ת¶ת»תµת±ת³ת÷ת÷ת¶ת³ת¶ת¸ת»ת¾תֱתֱתֶתֵתֵתּת׳תחתשתûûûûû&û'û+û4û=û8û3û-û,û+û*û'û(û*û)û+û2ûCûKûSûMû>û-ûûû!û"û!û%û/û7û1û*û&û#û$û$û ûûû"û%û"ûûûûûûûûûûûûûûûûûûûûûûûû!û$û#û#û"ûûûû
+ûûרתלתגת׃ת²ת¢תתתת›ת˜ת–ת–ת,ûûûû‎תפתיתׁת¸ת³ת°ת±ת»תֵתֻתָתֱת½ת¿תֶתֿתװתֹת¼ת±ת­ת¯תµתֳתֵתַתÊתֶת¹תַתÛתחתÞת׳תאתיתכתכתית‎תû-ûGûMûOûHû=û*ûûדתׂתַתֶתֶתֵתֵתֵתֵתֵתֶתִתֱתְתֱתֳתֶתַתַתֻתֿתװתÙתÛתבתבתאתגתבתÞתÝתÞתßתאתגתחתמתצתûûû'û û!û/û>ûGûDûBûBû>û9û8û;û=û;û7û7û7û9û8û5û3û2û1û0û/û)ûûûûûתûתמתױת¹ת°ת²ת²ת²ת´ת¶ת¶תµת´ת´תµתµתµת²ת³ת·ת·ת²ת±ת±ת³תµת÷ת¾ת¼ת¼תֳתֶתֿתÝתנת û
+ûûûûû$û(û*û1û4û4û0û*û'û'û$û!û û!û û"û'û+û4û7û*û!ûûû"û$û$û"û(û3û:û4û,û'û#û"û!ûûûû"û&û ûûûûûûûûûûûûûûûûûûûûûûûûû$û"û"û!ûûûûûûûÿתץתךתßתױתÊתֲת¼ת·ת³ת±ת®ת.û!ûûûûûתזתֵת¼ת¶ת³תµת÷תֲתֵתִת»תµת¶ת¼תַתֿתֻת½ת°ת¨ת©ת«ת±תֲתֵתָתּתִתײתהתגתותםתכתלתחתסת ûûû6ûHûJûIûBû8û-ûûûײתַתָתֶתִתִתָתֻתֻתÊתּתֻתַתַתÊתֹתֹתּתױת״ת׳ת׳ת״תײתױת׃תׁתֻתֶתַתֽתÛתÞתבתחתןתרתûû#û*û!û&û3û=û=ûBûKûNûEû;û8û:û:û9û8û9û;û>û<û8û4û4û5û3û1û,û'ûûû ûנתךתֻת¶ת°ת°ת²ת³ת´ת¶ת¶ת¶ת´ת±ת±ת²ת°ת¯ת³ת·ת´ת¯ת­ת¯ת±ת´ת¸תְתְתֲתֶתֿתÜתםת‏תû‏תûûûû û"û&û,û-û*û(û#û"û"û!ûû û ûûû û û"û ûûûûû"û"û!û"û*û4û=û<û3û+û#û û!ûûûû#û"ûûûûûûûûûûûûûûû
+ûûûûûûûûûûûûûûûûûûûûûûÿתפתחתÞתװתָתֱת»ת¶ת³ת°ת?û4û%ûûûןתָתְת÷ת´ת³ת´ת·ת»ת¼ת¼ת·ת°ת®ת°תµת¾תֲת¼ת±ת«ת§ת¨ת×ת«ת«ת±ת·ת־תןתüתüתשתףתמתןתנתû
+ûû!û.ûAûJûJûFû@û3û#ûûÜתָתַתַתֶתֵתַתֶתִתֵתֶתÊתׁתֻתֻתÊתָתָתּת׀תׁת׃תײתÙתÚת׳תװת׀תֻתֽת׀ת־תֿתײתךתצתûûûûû*û4û:û?ûHûWûaû_ûTûGû?û<û>û=û;û;û=ûAûCû=û8û4û5û7û3û-û%ûûûÿתרתצתחתׁת³ת´ת¸ת÷ת¼ת½ת½ת»ת¸ת³ת±ת¯ת®ת²ת÷ת½ת÷ת´ת¯ת¯ת°ת²ת°ת­ת­ת°תֳתױתותשתûû‏ת
+ûûû"û"û#û(û-û.û*û%û"û û ûûû"û#û"û#û$û!û!û$û&û"ûûûû$û'û,û2û6û6û2û)û"ûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûÿתûתפתכתגתÙת׳תÝתÛתװתֻתֱת¼ת·ת³ת5û*ûûûÿתותִת¿ת»תµת®ת­ת°ת´ת¶ת÷ת»ת·ת²ת°ת²ת¹ת½ת÷ת³ת®ת¬ת¬ת«ת«ת²ת¹תֳתÛתסתרתתתרתלתזתחתקתûûûû û*û>ûEû@û8û-ûûûכתֹתֵתִתֲתֲתִתֲתְתֱתֳתֶתֹתֹתַתֵתֵתֵתֶתַתÊתּתּתּתׁת׳ת״ת׃ת־תֽתׁתױתÛתהתמתüתûûûû!û.û2û6ûCûZûdûdû]ûQûFû=û7û8û7û6û5û7û=ûAû>û9û6û3û3û1û.û*û$ûûûû	ûשתותׁתµת²תµת·ת¼ת½ת¼ת¸ת°ת«ת§ת¨ת¯ת»ת¾תֱתֲתְת½ת¼ת½ת¼ת¼ת½תִתֽתÚתזתפת ûû‏ת
+ûûûû!û$û'û+û(û"ûûûûûûûûûûûûûûû!û ûûûûûû"û'û.û3û4û-û&ûûûûûûûûûûûûûûûûûûû
+ûûû
+ûûûûû	û
+ûûûûûûûûûûûûûûû‎תûûûÿתרתםתגתÙתּתִת¾ת÷ת8û/û#ûûûצתÚתֱתְת÷ת´ת°ת°ת³תµת¸ת»ת¼ת»ת¼ת÷ת÷ת½ת½ת»ת¹תµת¯ת×ת¨ת³ת¼תְתֽתבתסתûת‎תפתכתמתצתû%û&û"û%û7ûGûJû<û/ûûûסתװתֹתָתַתֵתֳתֱתְת½ת¼ת½תְתֵתַתֶתִתֳתִתֵתָתֻתÊתֹתֹתֿת׳תײתײתÛת״תױתÛתßתזתנת‎תûû ûûû'û/û4û;ûMûdûgû^ûSûFû;û7û5û5û3û5û9û;û>û>û:û9û8û5û4û1û,û&ûûûûףתףתהתÊת´ת¹ת½תֱתִתֲת¿ת÷ת°ת¨ת¥ת§ת°ת»תִתֵתֳתְת¾ת½ת½ת½ת½ת½תֱתָתװתבתףתûûüת	ûûû"û$û'û*û*û'û"ûûûûûûûûûûûûûûû!û"ûûûûûû!û%û&û$û ûûûûûûûûûûûûûûûûûûûûûû	û	û	ûûûûûûû
+ûûûûûûûûûûûû"û ûûûûûûûשתמתאתװתָתֱת¼ת7û.û"ûûûצתÚתְת½ת·ת°ת¬ת«ת®ת°ת³ת·ת½ת¿ת¾ת»ת¼תְתֱתְת¸ת±ת©ת¨ת§ת­תµת»תֲת־תזתןתםתלתיתכתצתû(û/û"ûû1ûBûFû?û0ûûûנתÜתגתאתאתßתßתאתאתßתÜתֶת»ת½ת¾תֱתְת¾ת¿תְתֳתֶתֹתָתַתֽתׂתװתÙתÜתÛתÜתÝתבתךתקתûûûûû"û.û5û5û;ûNûcûiû`ûSûEû:û5û3û2û2û4û;û;û<û;û6û5û3û0û-û,û)û$ûûûûעתןתותֳת´ת·תֲתָתֵתֲת¿ת»ת´ת­ת¦ת¥ת×ת±ת´תµת²ת¹תְתֱתְת¿ת¾תֱתַתׁתÝתךתüתûרתûûû&û*û,û,û,û-û*û$ûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûû ûûתץתףתןתןתץתצתתתûû	ûû
+û
+ûûûûû ûûû$û ûûûû
+ûÿתףתהתÛתװתֽתֵת9û0û%ûû	ûפתֿתְת»ת¹ת³ת°ת°ת²ת´ת¹ת½ת½ת»ת¼ת»ת¼תְתֳתִת¾ת²ת¨ת₪ת₪ת©ת¯ת·ת¼תֲתׁתÛתותזתותבתתתû%û+û ûû%û/û3û1û)ûû	ûפתאתגתאתßתÞתßתßתאתבתבתגתÞתÊת÷ת»ת¼ת¼ת¼תְתֵתֶתַתֵתֶתֹתּת־ת׀ת״תÚתÛתÛתÞתטתצתûûûûû)û4û:û@ûIûUû^û_ûTûFû<û7û6û3û1û2û5û:û:û9û;û9û5û2û0û.û-û+û&ûûûûקתצתםתױתµת´ת¸תְתֲתְת¾ת÷תµת­ת©ת¦ת¨ת«ת­ת°ת±ת°ת°ת¹ת½ת¾ת¿תִתֽתÚתטתרתûûÿתûû"û,û3û0û*û%û$û$û!ûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûû	ûûûתתפתתתÿתשתצתצתסתגתגתיתנתרת ûû
+ûûûûûûû(û(ûûû
+ûûüתץתמתזתחתםתכתדת״תֽת,û-û$ûûûחתּתַתִתֱת¼ת³ת±תµת»תֱת¿ת¹ת¹ת»ת¿תְתֲתֱת¿ת½ת³ת×ת£ת¡ת₪ת×ת²ת¿ת׀תײתÝתבתגתהתיתץתûûûûûûû ûûûûûצתדתאתאתßתßתßתßתßתÙתֵתִתֳתֱת½ת¼ת÷ת÷ת»ת¿תֲתֶתָתֻתײת׳ת״תÙתÙתÙתÜתÝתÞתגתמתתתûûûû û/û7û?ûIûRûVûPûJûCû;û7û7û5û4û3û2û4û8û9û7û8û;û9û4û1û0û.û-û(û!ûûûûûמתÞתױתֿתÊתָתֹתֹתָתֹתֻתֻתֻתֹתָתֵתֲתֱתֲתְתְת¾ת¿תִתֹתׁתÞתםתûתûקת‏ת
+ûûû"û+û1û2û+û$û"û#û"ûûûûûûû#û%û!û!ûûûûûûûûûûûûûûûûûûûûûûûûûûû
+û	ûû û‎תûתץתןתםתכתיתןתפתסתלתלתמתךתÞתßתזתנתקת ûû
+û
+ûûûû-û1û(û%û#ûûûûûûûûûרתמתדת״ת9û/û#ûûû ûקתןתטתדתÝת׃תְת°תµת»ת¾ת½ת¼ת¼ת¾תֱתֱת¿ת½ת¶ת¯ת§ת¢ת¦ת©ת¬ת²ת¸תֲתֿתÙתבתהתהתÝתךתÿתûûûû ûûûûû
+ûÿתךת׳תֿתְתֱתְת¿תֲתֻתװתÜת׳ת־תַתֲת¾ת»ת¹ת÷ת¼ת¿תִתֻת׃תײת׳תױת׳תÙתÙתÝתבתגתכתûתûûûû"û0û6û9ûAûJûTûSûNûIûCû:û7û6û4û1û0û/û0û3û2û4û6û7û6û2û.û-û/û.û'ûûûûףתץתמת׳ת¸ת±ת¯ת®ת¯ת±ת±ת¬ת­ת±ת»תֻתּתÊתָתַתֶתֳת¿תֱתִתָתֽתװתÝתכתשתûûתûתûûûû$û+û/û,û$û ûûûûûû û!û%û)û.û(û$ûûûûûûûûûûûûûûûûûûûûûûûûûûû
+ûûû‏ת‎תקתעתףתצתצתץתףתץתמתיתיתותדתזתותÙתßתזתןתתתÿתûûûûûûûûûûûÿת‎תתתץתסתסתףתםתטתÝת8û/û%ûûûûûתפתםתיתהתÜת׃ת¼ת±ת·ת¼ת¾ת¿תֲתֶתֳתְת¼ת¶ת®ת¦ת תת ת¡ת£ת¯ת¸תַתÙתÜתßתבתדתÜתÞתעת ûûת‎תרתעתüתûûû ûצתדתÝתֽת¿תֱתֱת¿תֱתַת׃תÛת׳תׁתֽתָתֳת¾ת¹ת¹ת½תֱתֳתְת÷ת¼ת¾ת¾תֲתַתֻתׂתאתותסתûûûûû"û,û0û3û8û?ûIûHûFû@û7û4û5û5û3û/û.û-û.û0û2û4û4û6û5û1û,û,û.û+û%ûûûû	ûüתמתבתÙתװת׀תֽתֻתּתֽת־תֶת¸ת½ת¿ת׀תװת־תÊתַתֹתָתÊתּת׀ת׳תÞתחתץת‎תפתצתûûûûû!û&û*û*û$û ûûûûûûû û%û2û1û)û.û0û-û,û+û*û+û*û(û)û,û-û-û-û+û)û&û)û)û(û'û&û&û$û#û ûûûûûûüתפתüתףתםתותנתךתיתותÛת׳ת״תÙתÛתװתּתװתÛתדתנתרתÿתûûûûûûûû	ûûû‏תûתקתףתמתות״תֹתֲת4û.û&ûûû	ûûûתקתףתמתטתגתױת÷ת°ת¶ת÷ת¾תַתּתֹת־תֿתּתֹתֵתְתְתְת¿ת·ת«ת³תִת־תÛתאתגתדתהתותזתהתדתותךתךתטתÜת״ת״תßתאת׳תְתִתַתַתַתֳתִתֻתױתÜתÙתױת׀תÊתִתְת½ת¾תֲתֵתֵת¿ת»ת»ת½ת¿תִת־תׂתÜתותמתûתûûûûû û,û1û2û4û8û=ûCû?û:û6û5û6û;û?û9û2û-û-û/û0û2û2û0û-û*û)û,û-û+û(û"ûûûûûקתיתÝת״תװתׂתׂת׃תװתֿתװתבתבת׃ת׀תÞתÝתױת׀תֿתֽת־תׁתװתÚתאתחתףת‎תשתץתûûûûûûû"û#ûûûûûûûûûû#û(û-û&û ûûûûûûûûûûûûûûûûû û'û(û'û&û%û#û"ûûûûûûû ûûתקתנתכתחתגתÛת׃תַת¶ת·ת¶ת·ת¹ת½ת¿תֳתֻתװתÝתךתץתÿתûû
+ûûûûû	ûûû û‏תüתשתצתנתזתÙתֿת<û7û1û)û ûûûûûûתצתעתכתÞתֹת²ת¶ת»תֱתÊתֻתִתְת½ת¸ת®ת¢תת ת£ת£ת¡ת₪ת®ת¼תֻת״תÝתßתבתבתגתדתהתדתגתגתדתדתדתגתדתאתװת¾תְתֵתָתֹתÊתÊתÊתֽתײתÛתÛתײתֿתָתֵתֳתֱתֳתָתÊתֶת¿ת¹ת÷ת½ת½תֱתַתֿתÞתטתעתûûûûûû%û0û6û7û8û6û7û:û6û7û;û;û?ûFûGû=û6û/û-û-û/û2û2û/û-û*û*û,û-û*û$ûûûûûûףתותÞתÚת׳ת׳תÛתÝתÜת׀תÞתלתנתלתדת׳תׂתÝתÙתױתׂתׁתֿתׁת״תאתכתרתûÿתüתûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûû(û)û)û(û'û'û(û'û&û&û$û"ûûûûûûû‎תפתכתטתבתÙתׁתּתֵתְת½ת¾ת¾תֱתִתÊתֿתװתÙתÙתװתÝתיתצתüת ûûûû
+ûû
+ûûûûûûû‏תקתסתטתßת?û;û4û+û&û ûûûûûû‏תקתלתÝת¼ת°ת²ת¶ת½ת½ת½תְתִתָתֵתֱת¾ת¾ת¾ת¾ת¼ת³ת¯ת¾תÊתּתַתֳתִתָתÊתÊתָתִתִתִתִתֳתֲתֱתֱתֱת¾ת½ת¿תֳתַתֻתֻתּתֻתּתׁתױת׳ת׀תָתֲת¾תִתֿתײתאתßתÛת׳תׂתױתײתװתװתױת״תÞתטתףתûûûûûû-û<ûFû@û8û4û5û3û1û4û:û<û@ûCû@û:û4û.û+û+û,û1û4û2û-û+û,û-û,û&ûûûû‎תתתעתחתבתÞתÝתÞתÝתײתֵתֶת׀תÝתנתשתצתסתכתÜתֻת־תÛתÚתÛתÝתßתותןתרתתתסתÿתûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûû&û(û'û'û'û&û&û'û'û(û'û&û&û$û"ûûûûû ûתתסתיתדתßת״תֿתַתִת½ת«ת ת¥ת©ת×ת«ת®ת·תַתּתײתÚת׃תÚתחתןתץתÿתûû
+û
+ûû	ûûûûûû‎תצתמתותÜת?û=û8û1û,û(û"ûûûûûûû‏תףתזתÙתֿתֹתַתֹתÊתÊתֹתָתֶתֲת¾ת½ת½ת¼ת÷ת®ת¯ת¾תÊתֹתִתְתֱתֵתַתֶתִתֳתֵתִתֳתֱתְתֱתֳתֳתֱת¿ת¿תֲתֶתָתֻתֽתֻתÊתּתׁתׁתֻתִת½ת¼תֹת״ת״תÝתÞתÚתײתװתװתװת׃תׂתװת״תדתמתתת	ûûû
+ûûû)û5ûAûCû<û6û4û3û0û1û7û;û>ûAûIûJûIûGûFûEûCûBûAûCûCûBûAû@û=û:û5û,û ûûûשתלתותבתßתÝתֻתֵתָת־תױתבתץת‏תüתרתקתףתחתÙתÞתהתותזתיתנתרת ûûרתÿתûûûûûûûûûûûûûûûûûûûûûûûûûûûûû
+ûûûûûû$û&û%û%û(û'û'û'û&û'û&û#ûûûû ûûתתעתםתותÜת׃תּתִת¼ת¸ת¶ת³ת±ת²ת¶ת·ת¸ת»ת¿תֲתִתÊתׁתײת׃ת׃תÜתזתנתתתûûûûûûûûûûÿתûתץתםתות
