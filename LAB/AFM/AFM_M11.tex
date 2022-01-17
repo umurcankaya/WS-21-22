@@ -58,11 +58,42 @@ There are two scanning modes in atomic force microscopy based on the parameter t
 On the other hand, in the constant force mode it is the force between tip and sample which it is maintained constant with a feedback circuit which takes the input of the deflection of the cantilever information and adjusts the height of the &z& scanner where the sample is placed. It will e precisely this height which will be read as the topographic data. Even if the speed of the constant force mode is limited by the time response of the feedback circuit it is normally preferred as an operation mode because it allow us to control the force exerted on the sample. These two scanning modes can be used in contact and non-contact Atomic Force Microscopy.
 
 \subsection{Involved atomic forces}
+There are several kinds of forces at play between the tip and the sample.The short-range chemical force (repulsive and attractive forces) is described by the Lennard-Jones potential:
+\begin{equation}
+    U_{chem} = 4 \epsilon[(\frac{\sigma_0}{r})^{12} - (\frac{\sigma_0}{r})^{6}
+\end{equation}
+where $\epsilon$ is the strength of the minimal potential and $\sigma_{0}$ is the distance of the zero-potential. The forces become repulsive when distances are less than $\sigma_{0}$ and become attractive when greater than the same. In practice, Van der Waal forces are used here as
+\begin{equation}
+    F_{vdW}= \frac{HR}{6(d^{6})}
+\end{equation}
+where H is the Hamaker constant, R is the radius of the tip and d is the
+tip-sample distance. \\
+Another force which have to remember in this case is the the force due to the potential difference between the sample and tip namely the electrostatic force. It is given by
+\begin{equation}
+    F_{elec}=1/2 \frac{\delta C}{\delta Z}V^{2}_{eff}
+\end{equation}
+where C is the capacitance of the tip-sample capacitor and $V_{eff}$ is the effective voltage. The tip is acted on by the sum of all these forces.
+\begin{equation}
+    F_{tot} = F_{vdW} + F_{electrostatic} + F_{chem}
+\end{equation}
+Cantilever oscillation is approximated by equation of motion for a damped harmonic oscillator with forced oscillations.
+ \begin{equation}
+     m\ddot{z} + \gamma \dot{z} + kz = F_{0}\cos(\omega t) + F_{tot}
+ \end{equation}
+where z is the tip-sample distance, $\gamma$ is the damping of the oscillation, $k$ is the spring constant of the cantilever and $F_{0}\cos(\omega t)$ is the force from the oscillation made by the piezoelectric element
+Resonance frequency of the oscillation is \begin{equation}
+    \omega_{0} = \sqrt{\frac{k}{m}}
+\end{equation}
+The interaction between tip and sample can now be included by a change in the spring constant of the cantilever 
+\begin{equation}
+    k_{eff} = K \frac{-\delta F_{tot}}{\delta Z} 
+\end{equation}
+The new resonance frequency should be shifted with respect to the free resonance. 
 
 \subsection{Tip geometry}
 
 \section{Experimental setup}
-
+A typical AFM consists of a cantilever with a small tip at the free end, a laser, a 4-quadrant photodiode and a scanner as seen in figure. AFM measurements are made by a Nanotec microscope. Sample is mounted on the piezo at the center. AFM head has to be positioned appropriately at the center of the sample. The laser should be reflecting off the mid point of the canteliver. One must make sure that the photodiode alignment is so configured that the photodiode obtains maximum reflected laser beam.
 \section{Tasks}
 
 \subsection{Experimental preparation}
