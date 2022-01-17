@@ -27,31 +27,80 @@ Rohit Sharma\\
 \maketitle
 
 \begin{abstract}
-Abstract here.
+In this experiment we will perform X-ray photoelectron spectroscopy, which will allow us to study the
+elemental composition of a sample by the knowledge of the electronic structure of those elements. Through
+the energy and momentum of photoelectrons we can have information about the arrangement of electronic
+levels in solids, molecules or atoms.
 \end{abstract}
 
 \section{Introduction}
+On X-ray Photoelectron Spectroscopy (XPS) the surface of a sample is illuminated with highly energetic
+photons (in the range of the keV), to induce the photoelectric effect. By measuring the energies of the
+electrons emitted one can determined the energies that kept them bound to their atoms and thus the electronic configuration of the probe. 
+\subsection{Photoemission}
+The fundamental principle behind this experiment is the emission of an electron from a solid after being
+excited by an incident photon (photoelectron emission). In this process the photon transfers all its energy
+to an electron in a bound state, and if it is enough for the electron to overcome its binding energy and the work function of the solid, then the electron can be emitted. In this case the energy balance would be
+$$
+E + h\nu = E' + E_{kin} + \Phi
+$$
+where $E,\ E'$ are the initial atom energy and that of the ionized atom after the electron is gone, $h\nu$ is the energy of the incident photon, $E _{kin}$ is the kinetic energy of the photoelectron emitted and $\Phi$ is the work function of the solid. What we can measure at the laboratory by the means that will be explained later is the electron’s kinetic energy:
+$$
+E_{kin} = h\nu - (E' - E) - \Phi = h\nu - E_B - \Phi
+$$
+where $E_B$ is the binding energy related to the Fermi level. Knowing the incident photon’s energy we can obtain the binding energy for the emitted electrons that satisfy $E_B < h\nu$.
 
+The position of the energy bands is usually referred to the Fermi level, for which the energy value $E_f$ can be calculated as:
+$$
+E_{kin} = E_f - E_B = h\nu - \Phi
+$$
+By measuring the binding energies of the electrons in the atoms of a certain substance one can obtain very
+important information about its electronic configuration. 
+
+The interaction of a photon with the sample include many processes with their characteristic energies: Auger emission, emission from valence band, secondary electron excitation and energy losses from inelastic scattering with electrons. More lines can be observed besides the main ones, separated a certain energy distance from them, like satellite peaks from plasmon excitation, or shake-up peaks from the two-electron processes, where the emitted electron excites a second electron which is normally at a higher shell.
+\subsection{Binding energy}
+The binding energy of the electron depends on several terms which are presented in equation above:
+$$
+E_B = E_B^{atom} + \Delta E_{chem} + \Delta E_{Mad} + \Delta E_{rel}
+$$
+where the additional terms can be treated as residual terms and will result in multiplet structures for the
+atomic levels. The chemical shift $\Delta E_{chem}$ is the additional chemical bond given by the surrounding atoms, the Madelung constant $\Delta E_{Mad}$ refers to the electrostatic energy of the solid lattice, and the relaxation term $\Delta E_{rel}$ describes the many body effects in the final state of the excited atom.
+\subsection{Spin-spin and spin-orbit coupling}
+The energy splittings of the electronic levels that we will encounter are due to two different effects: the L-S coupling and the magnetic exchange spin-spin splitting. In the L-S coupling the orbital angular momentum of an electron $l$ interacts with its spin $s$. This effect is described by the spin-orbit Hamiltonian term
+$$
+H_{so} = al \cdot s
+$$
+Due to this effect, the energy levels of an atom split into a doublet $l - \frac{1}{2},\ l + \frac{1}{2}$ that can be found in the spectrum, as the emission line of a full atomic shell also splits in the same way. According to the $l \cdot s$ coupling, electrons at the $s-$states are not affected by this energy splitting because of their zero orbital angular momentum.
+
+On the other hand, another different kind of coupling may split our peak in two: the magnetic spin-spin
+exchange splitting. When considering an atom with a partially filled shell such as the $4f$ shell of samarium, the magnetic moment of this shell interacts with a full $s$ shell (which in principle would not show energy splitting) by exchange coupling, causing the energy split of the two electrons in the $s$ shell.
+\subsection{Surface sensitivity}
 
 \section{Experimental setup}
-AFM measurements are made by a Nanotec microscope. Sample is mounted on the piezo at the center. AFM head has to be positioned appropriately at the top of the sample.
+The experimental equipment needed for a X-ray photoelectron spectroscopy is the following: an UHV (ultra-
+high vacuum) chamber, an x-ray source, an electron energy analyzer and an evaporator.
+\subsection{Ultra-high vacuum chamber}
+Ultra-high vacuum (UHV) is needed to perform x-ray photoelectron spectroscopy to avoid the formation of
+a layer of adsorbed gas molecules on the surface of our sample, for this would alter our results because of the high surface sensitivity of this method. We will use a UHV chamber to keep our sample as clean as possible in pressures of the order of up to $10^{-11}$ mbar. It uses a turbo molecular pump to get a first rough vacuum of $10^{-9}$ mbar pumping out the heavy gases in the chamber and then a heating system to get rid of the water particles clung to the steel walls
+\subsection{X-ray source}
+X-ray source has a cathode which emits thermal electrons through heating (usually emission current of 30 mA) and anode to which electrons can be accelerated by applying a high voltage of typically 9 kV to 12 kV. The X-ray source configuration allows us to choose between Mg and Al as the material of the anode with each characteristic emission spectrum. Spectrum includes bremsstrahlung and characteristic radiation. The short-wave radiation of bremsstrahlung will largely absorbed by an approximately 1 micron thick Al-window.
+\subsection{Electron energy analyser}
+The electron energy analyzer collects the electrons expelled from the sample and measures their kinetic
+energy converting the amplified signal to a measurable pulse which is the input of an electronic circuit. The electrons coming out of the sample are directed to the channneltron through a system of electrical lenses and two hemispherical metallic plates that select the electrons with a kinetic energy greater then a certain threshold value ($E_{pas}$) through a potential difference. This way we can filter out the low kinetic energy electrons introduced by secondary processes. Finally the electrons are multiplied in the channeltron by secondary emission in the walls of the device. Secondary emission is the physical phenomenon where primary incident electrons (or other particles) of sufficient energy hit the surface of a certain material or pass through it and induce the emission of secondary electrons.
+\subsection{Evaporator}
+Lastly the evaporator will turn the samarium into its gaseous form through a heat source so it can be dosed in a sheet of steel and be adsorbed by it.
 \section{Tasks}
 \section{Discussion}
 
-\begin{figure}[h!]
-\centering
-\includegraphics[width=0.6\linewidth]{example.pdf}
-\caption{Sample figure caption.}
-\end{figure}
+% \begin{figure}[h!]
+% \centering
+% \includegraphics[width=0.6\linewidth]{example.pdf}
+% \caption{Sample figure caption.}
+% \end{figure}
 
 
 \section*{References}
 
-[1] Alexander, J.A.\ \& Mozer, M.C.\ (1995) Template-based algorithms for
-connectionist rule extraction. In G.\ Tesauro, D.S.\ Touretzky and T.K.\ Leen
-(eds.), {\it Advances in Neural Information Processing Systems 7},
-pp.\ 609--616. Cambridge, MA: MIT Press.
-
-[2]
+[1] 
 
 \end{document}
