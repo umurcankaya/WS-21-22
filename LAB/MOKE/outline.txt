@@ -1,0 +1,30 @@
+Shape anisotropy is caused by the shape of the sample, with the energy given as
+
+- Title
+- Intro (R)
+  - MOKE is used to get information about ferromagnetic (?) materials
+  - Fe sample
+- Magneto-optical Kerr effect theory (R)
+  - Geometry (+figure)
+  - What happens
+  - All the info is encoded in hysteresis loop
+- Hysteresis Loop (theory) (R)
+  - Origin (+figure)
+  - Remanence
+  - Saturation
+  - Coercivity
+  - Hard - easy axes (+figure)
+- Domain walls (theory) (R)
+  - (+figure)
+- Experimental setup (R)
+  - (+figure)
+  - 
+- Magnetic field calibration (results) (U)
+- Shape anisotopy (theory) (R)
+- Crystal anisotopy (theory) (U)
+- Crystal anisotopy (results) (U)
+- Kerr rotation & contrast (theory) (U)
+- Kerr rotation & contrast (results) (U)
+- Kerr Microscopy (theory) (U)
+- Kerr Microscopy (results) (U)
+- References (U?)

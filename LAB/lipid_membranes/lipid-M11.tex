@@ -29,36 +29,86 @@ Rohit Sharma\\
 \maketitle
 
 \begin{abstract}
-There exist in nature molecular and supramolecular systems whose structural dynamics it is possible to study using fluorescent molecules as external or internal probes meaning a foreign compound can be inserted or a probe can be recognised and activated within the target system. The probes provide us an opportunity to get an insight into the fast dynamics of the system internally. We study the characterisation  the  fluorophore  probe  by  identifying  the  excitation and  emission  spectra  of  the 
-fluorophore and measure the fluorescence anisotropy in a lipid membrane at different temperatures using time resolved and steady state fluorescence methods.
+There exist in nature molecular and supramolecular systems whose structural dynamics it is possible to study using fluorescent molecules as external or internal probes meaning a foreign compound can be inserted or a probe can be recognised and activated within the target system. The probes provide us an opportunity to get an insight into the fast dynamics of the system internally. We study the characterisation  the  fluorophore  probe by identifying the  excitation and  emission  spectra  of  the fluorophore and measure the fluorescence anisotropy in a lipid membrane at different temperatures using time resolved and steady state fluorescence methods.
 \end{abstract}
 
 \section{Theory}
-Flourescense occurs when an excited system relaxes to a lower energy state of the same spin state through emission of a photon. Light particles are absorbed in certain molecules in a direction corresponding to the electronic state.The region of the molecule responsible for absorption are called chromosphores. Irrespective of the state of excitation of the molecule due to the movement towards electron pairs the dipole length (known as transition dipole moment) remains the same. When EM wave of linear polarisation is incident on  fluorophores group, elements of the group whose transition moment is in the corresponding direction as that of the electric vector of the incident beam are excited [1]. Since this is the case the  fluorescence is anisotropic (directionally dependent properties). The fluorescence revels information about steric restrictions which is basically the slowing of chemical reactions and intramolecular factors pertaining to it. \\
+Flourescense occurs when an excited system relaxes to a lower energy state of the same spin state through emission of a photon. Light particles are absorbed in certain molecules in a direction corresponding to the electronic state.The region of the molecule responsible for absorption are called chromosphores. Irrespective of the state of excitation of the molecule due to the movement towards electron pairs the dipole length (known as transition dipole moment) remains the same. When EM wave of linear polarisation is incident on fluorophores group, elements of the group whose transition moment is in the corresponding direction as that of the electric vector of the incident beam are excited [1]. Since this is the case the  fluorescence is anisotropic (directionally dependent properties). The fluorescence reveals information about steric restrictions which is basically the slowing of chemical reactions and intra-molecular factors pertaining to it. \\
 
-Biological membranes engineer their surroundings are differentiated from it by creating cells.They also regulate the passing of relevant substances, ions for production of energy  They consist of sheets called phospholipid bilayer made up of lipid molecules. Diphenylhexatrien (DPH) at room temperature transition from a gel like ordered state to a liquid-crystal like disordered state. We use the DPH as a probe in DiMyristolphosphatidylcholin (DMPC),a vesicle membrane meaning nanoparticles composed of lipid membranes to study the faster decrease of the relationship of electric vector orientation and corresponding excitation in the disordered state. According to the literature,fluorescence intensity of DPH are negatively affected by the polar water molecules so that its fluorescence is 
-only  ~  1/200  of  DPH  fluorescence  in  a  hydrophobic  environment.  Hence,  fluorescence  of  free  DPH  in 
-solution can be neglected.
+Biological membranes engineer their surroundings are differentiated from it by creating cells. They also regulate the passing of relevant substances, ions for production of energy. They consist of sheets called phospholipid bilayer made up of lipid molecules. Diphenylhexatrien (DPH) at room temperature transition from a gel like ordered state to a liquid-crystal like disordered state. We use the DPH as a probe in DiMyristolphosphatidylcholin (DMPC), a vesicle membrane meaning nanoparticles composed of lipid membranes to study the faster decrease of the relationship of electric vector orientation and corresponding excitation in the disordered state. According to the literature,fluorescence intensity of DPH are negatively affected by the polar water molecules so that its fluorescence is only  $\sim$  1/200  of  DPH fluorescence  in  a  hydrophobic  environment.  Hence,  fluorescence  of  free  DPH  in  solution can be neglected.
+
+\section{Stokes shift}
+When electrons are excited they can relax through fluorescence in a non radiative process. The electrons lose energy through vibrational processes within the excited state and therefore the emitted photons have less energy than the original excitation. Energy associated with this process is
+\begin{equation*}
+    E = h\omega = \frac{\hbar c}{\lambda}
+\end{equation*}
+which is associated with the energy of a photon. Where $\hbar$ is Planck's constant divided by $2$*$\pi$, c is the speed of light and $\lambda$ is the wavelength corresponding to the transition. To measure Stokes shift we consider band maxima (wavelength or frequency) of fluorescence and absorption.
+\begin{equation}
+\delta \lambda = |\lamda_{max,flu} - \lambda_{max,abs}|
+\end{equation}
+\section{Frank-Cordon principle}
+Electrons move faster than protons and nuclei because they are 1870 times smaller. According to the Born-Oppenheimer approximation
+\begin{equation}
+    \phi = \phi(\vec{r}, \vec{R})_{elec}. \phi(\vec{r}, \vec{R})_{nucleus}
+\end{equation}
+where r is the electron coordinate and R the nuclear coordinate. In such a case a change from one vibrational level to other will occur when two vibrational states involved in the transition are overlap strongly.
+\begin{equation}
+    P_{i->f} = |<\psi_{final}|\vec{\mu}.\vec{E}|\psi_{intial}>|^2
+\end{equation}
+\begin{equation}
+    P_{i->f} = |\int_{}^{*}<\psi_{final}|\vec{\mu}.\vec{E}|\psi_{intial} d\vec{r}|^2
+\end{equation}
+Quantum mechanically speaking frank-Cordon principle can be measured in terms of vibronic transitions. In fig 3, we can see the fluorescence and absorption maxima while on the right it is the same with vibrational transitions included.
+
+\subsection{Anisotropy,lifetime and fluorescence quantum yield}
+In an isotropic ensemble of molecules, transition dipole moment $\mu$ would be randomly distributed and as a result polarization light will excite molecules parallel/anti-parallel (or closely parallel/anti-parallel) as opposed to perpendicular dipole moments with respect to the applied electric field $\vec{E}$. In other words, it is a probabilistic process where transition probability between molecular states and applied electric field are the principle agent. \\
 
 
+Anisotropy and photoselection are strongly codependent. Anisotropies can be read out as the ratio of vertical and horizontal intensities and total intensities.
+\begin{equation}
+    <r> = \frac{I_{VV} - G I_{VH}}{I_{vv}+2 I_{VH}}
+\end{equation}
+\begin{equation}
+    G = \frac{I_{HV}}{I_{HH}}
+\end{equation}
+$I_{VV}$ - Vertical component of the excitation polarizer and vertical component of the emission polarizer \\
+$I_{VH}$ - Vertical component of the excitation polarizer and horizontal component of the emission polarizer \\
+$I_{HV}$ - horizontal component of the excitation polarizer and vertical component of the emission polarizer \\
+$I_{HH}$ - horizontal component of the excitation polarizer and horizontal component of the emission polarizer
+The G factor quantifies the ratio between horizontal and vertical intensity.  \\
+The fluorescence signal is also exhausted by other factors such as fluorescence quantum yield. $\phi_{F}$. It is just a cross count of emitted and absorbed photons. These photons could contribute in exhausting the signal because they originate from non-radiative sources.
+\begin{equation}
+    \phi_F = \frac{K_F}{K_F + K_{\alpha + r}}
+\end{equation}
+In ideal conditions the fluorescence lifetime is the natural lifetime.
+\begin{equation}
+    \phi_F = \frac{1}{K_F} = \frac{1}{\tau}
+\end{equation}
 
 
 \section{Tasks}
 \subsection{Experimental setup}
+In the lab we want to measure the fluorescence of DPH probe once it is inserted into the hydrophobic core of DMPC vesicle membrane. This membrane is composed by 
+living cell which allows for  mechanics in organisms. Cells use light as a energy conversion process by using a gradient of ions. As it can be visu- 
+alized in Figure 6, it has two double sheets of lipid molecules amd this is called a phospholipid bilayer membrane. We want to collect data of the
+steady-states at different temperatures and see how anisotropy depends on the temperature as well as the fluorescence processes. Also we will use time-resolved  spectroscopy to measure intensity and anisotropy in time.
 \subsection{Sample preparation}
-\subsection{Fluorescence excitation and emission spectra}
-\subsection{Steady state fluorescence depolarization}
+The DPH probe is inserted into hydrophobic core of DMPC vesicle membrane which is made up of living cell which allows the proper bio-mechanics in organisms.
+\subsection{Steady state method}
+The emission of fluorescence can occur spontaneously due to transitions from electronic excited states. Fluorescence signal can be classified by various parameters such as intensity, quantum yield, lifetime and polarization. In the steady-state method, radiation of the fluorescence due to spontaneous emissions is analyzed for comparably longer time periods by tracking sample average.  This is done by intensity measurements related with emission wavelength. Fluorophore interaction with their environment can affect the above mentioned fluorescence parameters. 
+
 \subsection{Time resolved fluorescence depolarization of DPH in DMPC vesicles}
+We use a ps pulsed laser in the UV (370nm, 20 kHz pulses)
 \section{Discussion}
 
-%\begin{figure}[h!]
+%\be+gin{figure}[h!]
 %\centering
 %\includegraphics[width=0.6\linewidth]{example.pdf}
 %\caption{Sample figure caption.}
 %\end{figure}
 
 
-\section*{References}
+\section{References}
 
 [1] Ma 5: Dynamic Processes in lipidmembranes, https://wiki.physik.fu-berlin.de/fp/private:ma5 \_dynamic\_processes\_in\_lipid\_membranes
 
